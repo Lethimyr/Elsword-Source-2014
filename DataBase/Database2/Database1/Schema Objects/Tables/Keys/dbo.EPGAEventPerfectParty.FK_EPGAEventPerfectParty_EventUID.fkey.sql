@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[EPGAEventPerfectParty] ADD
+CONSTRAINT [FK_EPGAEventPerfectParty_EventUID] FOREIGN KEY ([EventUID]) REFERENCES [dbo].[EPGAEventPerfect] ([EventUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

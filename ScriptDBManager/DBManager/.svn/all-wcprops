@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager
+END
+DBManager.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/DBManager.csproj
+END
+AttribEnchantItemAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/AttribEnchantItemAdd.Designer.cs
+END
+SocketRandomAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketRandomAdd.resx
+END
+StatTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/StatTable.cs
+END
+ScriptData_HKDataSet.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_HKDataSet.Designer.cs
+END
+SelectTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SelectTable.cs
+END
+ColumnManager.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ColumnManager.Designer.cs
+END
+TitleTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleTable.cs
+END
+SocketItemAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketItemAdd.resx
+END
+DBManager.resx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/DBManager.resx
+END
+SearchWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SearchWindow.cs
+END
+Filtering.resx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/Filtering.resx
+END
+MultiAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/MultiAdd.Designer.cs
+END
+SpecialAbilityAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SpecialAbilityAdd.Designer.cs
+END
+NpcExtraAbilityAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/NpcExtraAbilityAdd.Designer.cs
+END
+History.resx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/History.resx
+END
+SocketGroupAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketGroupAdd.cs
+END
+TitleTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleTableAdd.resx
+END
+QuestTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/QuestTableAdd.cs
+END
+SpecialAbilityAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SpecialAbilityAdd.resx
+END
+QuestTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/QuestTable.resx
+END
+SkillEnumAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillEnumAdd.resx
+END
+ManufactureTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureTableAdd.Designer.cs
+END
+SearchWindow.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SearchWindow.Designer.cs
+END
+History.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/History.cs
+END
+MultiAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/MultiAdd.cs
+END
+ColumnManager.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ColumnManager.resx
+END
+ItemAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ItemAdd.Designer.cs
+END
+QuestTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/QuestTable.cs
+END
+RandomBoxTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/RandomBoxTableAdd.cs
+END
+NpcExtraAbilityAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/NpcExtraAbilityAdd.cs
+END
+ExpTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExpTable.resx
+END
+SetItemAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SetItemAdd.Designer.cs
+END
+ItemAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ItemAdd.resx
+END
+LinkListView.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LinkListView.Designer.cs
+END
+LinkListView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LinkListView.cs
+END
+ManufactureVillageAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureVillageAdd.cs
+END
+SocketGroupAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketGroupAdd.resx
+END
+ManufactureTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureTableAdd.cs
+END
+QuestTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/QuestTableAdd.resx
+END
+SkillTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillTableAdd.cs
+END
+ExChangeTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExChangeTableAdd.Designer.cs
+END
+TitleMissionAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleMissionAdd.resx
+END
+SubQuestTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SubQuestTableAdd.resx
+END
+StatTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/StatTableAdd.resx
+END
+AttribEnchantRequireAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/AttribEnchantRequireAdd.resx
+END
+SocketGroupAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketGroupAdd.Designer.cs
+END
+SocketItemAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketItemAdd.cs
+END
+DBManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/DBManager.cs
+END
+SetItemAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SetItemAdd.cs
+END
+SelectTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SelectTable.Designer.cs
+END
+RandomBoxTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/RandomBoxTableAdd.resx
+END
+StatTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/StatTable.resx
+END
+ManufactureResultGroupAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureResultGroupAdd.cs
+END
+SelectTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SelectTable.resx
+END
+ExChangeTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExChangeTableAdd.cs
+END
+ScriptData_TWDataSet.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_TWDataSet.xsc
+END
+ScriptData_TWDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_TWDataSet.xsd
+END
+SkillEnumAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillEnumAdd.Designer.cs
+END
+SkillEnumAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillEnumAdd.cs
+END
+Filtering.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/Filtering.Designer.cs
+END
+SkillTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillTable.cs
+END
+ScriptData_TWDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_TWDataSet.xss
+END
+ColumnManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ColumnManager.cs
+END
+ExpTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExpTableAdd.resx
+END
+SocketRandomAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketRandomAdd.Designer.cs
+END
+ExpTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExpTable.Designer.cs
+END
+ExpTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExpTable.cs
+END
+DBManager.csproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/DBManager.csproj.vspscc
+END
+ScriptData_TWDataSet.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_TWDataSet.Designer.cs
+END
+ExpTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExpTableAdd.cs
+END
+MultiAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/MultiAdd.resx
+END
+Filtering.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/Filtering.cs
+END
+LocalizationDataSet.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LocalizationDataSet.xsc
+END
+ManufactureVillageAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureVillageAdd.Designer.cs
+END
+LocalizationDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LocalizationDataSet.xsd
+END
+NpcExtraAbilityAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/NpcExtraAbilityAdd.resx
+END
+TitleTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleTable.Designer.cs
+END
+TitleMissionAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleMissionAdd.Designer.cs
+END
+SubQuestTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SubQuestTableAdd.Designer.cs
+END
+StatTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/StatTableAdd.Designer.cs
+END
+AttribEnchantRequireAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/AttribEnchantRequireAdd.Designer.cs
+END
+TitleMissionAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleMissionAdd.cs
+END
+SubQuestTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SubQuestTableAdd.cs
+END
+StatTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/StatTableAdd.cs
+END
+AttribEnchantRequireAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/AttribEnchantRequireAdd.cs
+END
+SkillTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillTableAdd.Designer.cs
+END
+RandomItemGroupAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/RandomItemGroupAdd.resx
+END
+TitleTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleTableAdd.Designer.cs
+END
+SkillTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillTable.resx
+END
+ManufactureVillageAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureVillageAdd.resx
+END
+SubTitleMissionAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SubTitleMissionAdd.cs
+END
+ItemTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ItemTable.cs
+END
+LocalizationDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LocalizationDataSet.xss
+END
+SpecialAbilityAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SpecialAbilityAdd.cs
+END
+ManufactureTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureTableAdd.resx
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/Program.cs
+END
+SkillTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillTableAdd.resx
+END
+ExpTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExpTableAdd.Designer.cs
+END
+AttribEnchantItemAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/AttribEnchantItemAdd.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/app.config
+END
+SkillTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SkillTable.Designer.cs
+END
+ScriptData_JPDataSet.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_JPDataSet.xsc
+END
+RandomItemGroupAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/RandomItemGroupAdd.cs
+END
+ScriptData_JPDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_JPDataSet.xsd
+END
+LocalizationDataSet.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LocalizationDataSet.Designer.cs
+END
+ManufactureResultGroupAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureResultGroupAdd.Designer.cs
+END
+SetItemAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SetItemAdd.resx
+END
+History.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/History.Designer.cs
+END
+SocketRandomAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketRandomAdd.cs
+END
+ScriptData_JPDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_JPDataSet.xss
+END
+ItemAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ItemAdd.cs
+END
+QuestTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/QuestTable.Designer.cs
+END
+ManufactureResultGroupAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ManufactureResultGroupAdd.resx
+END
+ScriptData_HKDataSet.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_HKDataSet.xsc
+END
+SocketItemAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SocketItemAdd.Designer.cs
+END
+ScriptData_HKDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_HKDataSet.xsd
+END
+ExChangeTableAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ExChangeTableAdd.resx
+END
+DBManager.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/DBManager.Designer.cs
+END
+QuestTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/QuestTableAdd.Designer.cs
+END
+SubTitleMissionAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SubTitleMissionAdd.resx
+END
+StatTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/StatTable.Designer.cs
+END
+ItemTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ItemTable.resx
+END
+RandomItemGroupAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/RandomItemGroupAdd.Designer.cs
+END
+AttribEnchantItemAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/AttribEnchantItemAdd.resx
+END
+ScriptData_JPDataSet.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_JPDataSet.Designer.cs
+END
+ScriptData_HKDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ScriptData_HKDataSet.xss
+END
+LinkListView.resx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/LinkListView.resx
+END
+TitleTableAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleTableAdd.cs
+END
+SubTitleMissionAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SubTitleMissionAdd.Designer.cs
+END
+ItemTable.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/ItemTable.Designer.cs
+END
+TitleTable.resx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/TitleTable.resx
+END
+SearchWindow.resx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/SearchWindow.resx
+END
+RandomBoxTableAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/ScriptDBManager/DBManager/RandomBoxTableAdd.Designer.cs
+END

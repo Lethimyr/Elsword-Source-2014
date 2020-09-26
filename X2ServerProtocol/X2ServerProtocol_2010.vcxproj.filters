@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Server">
+      <UniqueIdentifier>{316b36ab-0d58-4295-83c0-c741e16c3f8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\Socket">
+      <UniqueIdentifier>{6d64e2ab-8fc6-4430-b537-99b0cf91b45b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\Performer">
+      <UniqueIdentifier>{170b1a8e-7fa5-41ff-829c-a35957c273c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\Event">
+      <UniqueIdentifier>{aa538a3c-e7fd-422c-808c-2d283c07dcc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{b753525e-27c9-479b-a966-7c4201248a62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserProxy">
+      <UniqueIdentifier>{fe06f0b1-19f1-4ad0-9d7e-35b02e5fd363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TRUserProxy">
+      <UniqueIdentifier>{fe74c243-3a8d-4772-af16-6289ae099ca1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KncException.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="KncSend.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="KncSmartPtr.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="KncUidType.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="..\KncWX2Server\Common\NetError_def.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="SimObject.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadManager.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\CircularQueue.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\IOCP.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\IOThread.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\NetCommon.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\Overlapped.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\Session.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\SocketObject.h">
+      <Filter>Server\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="ActorProxy.h">
+      <Filter>Server\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="Performer.h">
+      <Filter>Server\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Server\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="UserProxy.h">
+      <Filter>UserProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="TRUser.h">
+      <Filter>TRUserProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="Odbc.h" />
+    <ClInclude Include="X2ServerProtocol.h" />
+    <ClInclude Include="X2ServerProtocolLib.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SimObject.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadManager.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\CircularQueue.cpp">
+      <Filter>Server\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\IOCP.cpp">
+      <Filter>Server\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\IOThread.cpp">
+      <Filter>Server\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\NetCommon.cpp">
+      <Filter>Server\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\Session.cpp">
+      <Filter>Server\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\SocketObject.cpp">
+      <Filter>Server\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="ActorProxy.cpp">
+      <Filter>Server\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="Performer.cpp">
+      <Filter>Server\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Server\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="UserProxy.cpp">
+      <Filter>UserProxy</Filter>
+    </ClCompile>
+    <ClCompile Include="TRUser.cpp">
+      <Filter>TRUserProxy</Filter>
+    </ClCompile>
+    <ClCompile Include="Odbc.cpp" />
+    <ClCompile Include="X2ServerProtocol.cpp" />
+  </ItemGroup>
+</Project>

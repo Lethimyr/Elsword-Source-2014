@@ -1,0 +1,110 @@
+﻿  KLuabinder.cpp
+  KLuaManager.cpp
+  lua_tinker.cpp
+G:\Elsword\JP_TW_EU_CN_US\Trunk\LuaCommon\lua_tinker.cpp(28,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\LuaCommon\lua_tinker.cpp(90,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\LuaCommon\lua_tinker.cpp(259,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\LuaCommon\lua_tinker.cpp(458,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  lib_aux.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_aux.c(40,43): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_aux.c(42,32): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_base.c
+  lib_bit.c
+  lib_debug.c
+  lib_ffi.c
+  lib_init.c
+  lib_io.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_io.c(85,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_io.c(87,58): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_io.c(127,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_io.c(402,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_io.c(432,13): warning C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_jit.c
+  lib_math.c
+  lib_os.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_os.c(88,7): warning C4996: 'tmpnam': This function or variable may be unsafe. Consider using tmpnam_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_os.c(101,21): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_os.c(178,11): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_os.c(184,11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_package.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_package.c(268,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_package.c(537,22): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_string.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(759,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(769,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(862,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(866,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(870,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(887,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(890,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lib_string.c(909,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_table.c
+  lj_alloc.c
+  lj_api.c
+  lj_asm.c
+  lj_bc.c
+  lj_bcread.c
+  lj_bcwrite.c
+  lj_carith.c
+  Generating Code...
+  Compiling...
+  lj_ccall.c
+  lj_ccallback.c
+  lj_cconv.c
+  lj_cdata.c
+  lj_char.c
+  lj_clib.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_clib.c(244,24): warning C4996: '__p__fmode': This function or variable may be unsafe. Consider using _get_fmode instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_cparse.c
+  lj_crecord.c
+  lj_ctype.c
+  lj_debug.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(328,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(337,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(342,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(345,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(346,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(348,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_debug.c(350,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_dispatch.c
+  lj_err.c
+  lj_ffrecord.c
+  lj_func.c
+  lj_gc.c
+  lj_gdbjit.c
+  lj_ir.c
+  lj_lex.c
+  lj_lib.c
+  lj_load.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_load.c(107,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_load.c(109,58): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_load.c(151,59): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  lj_mcode.c
+  lj_meta.c
+  lj_obj.c
+  lj_opt_dce.c
+  lj_opt_fold.c
+  lj_opt_loop.c
+  lj_opt_mem.c
+  lj_opt_narrow.c
+  lj_opt_sink.c
+  lj_opt_split.c
+  lj_parse.c
+  lj_record.c
+  lj_snap.c
+  lj_state.c
+  lj_str.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\LuaJIT-2.0.2\src\lj_str.c(180,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_strscan.c
+  lj_tab.c
+  lj_trace.c
+  lj_udata.c
+  lj_vmevent.c
+  Generating Code...
+  Compiling...
+  lj_vmmath.c
+  Generating Code...
+  luajitLib.vcxproj -> G:\Elsword\JP_TW_EU_CN_US\Trunk\luajitLib\..\KTDXLIB\luajitLibD.lib

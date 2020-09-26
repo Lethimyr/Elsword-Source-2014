@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/103410/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU
+END
+config_cn_GAMEFORGE_EN_LIVE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_EN_LIVE.lua
+END
+Account_INTERNAL_DE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/Account_INTERNAL_DE.dsn
+END
+config_cn_GAMEFORGE_FR_LIVE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_FR_LIVE.lua
+END
+config_cn_GAMEFORGE_ES_LIVE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_ES_LIVE.lua
+END
+config_cn_GAMEFORGE_DE_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_DE_TEST.lua
+END
+config_cn_GAMEFORGE_PL_LIVE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_PL_LIVE.lua
+END
+config_cn_GAMEFORGE_IT_LIVE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_IT_LIVE.lua
+END
+game01_INTERNAL_DE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/game01_INTERNAL_DE.dsn
+END
+config_cn_GAMEFORGE_EN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_EN_TEST.lua
+END
+config_cn.ini
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn.ini
+END
+config_cn_GAMEFORGE_FR_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_FR_TEST.lua
+END
+config_cn_GAMEFORGE_ES_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_ES_TEST.lua
+END
+config_cn_GAMEFORGE_DE_LIVE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_DE_LIVE.lua
+END
+log_INTERNAL_DE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/log_INTERNAL_DE.dsn
+END
+config_cn_INTERNAL_DE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/103410/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_INTERNAL_DE.lua
+END
+config_cn_GAMEFORGE_PL_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_PL_TEST.lua
+END
+config_cn_GAMEFORGE_IT_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config/EU/config_cn_GAMEFORGE_IT_TEST.lua
+END

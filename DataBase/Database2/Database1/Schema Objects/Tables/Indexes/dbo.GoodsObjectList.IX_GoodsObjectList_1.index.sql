@@ -1,0 +1,3 @@
+﻿CREATE UNIQUE NONCLUSTERED INDEX [IX_GoodsObjectList_1] ON [dbo].[GoodsObjectList] ([ItemUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

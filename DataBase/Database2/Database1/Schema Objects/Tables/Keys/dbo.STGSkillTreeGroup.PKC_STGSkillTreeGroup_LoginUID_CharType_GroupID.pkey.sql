@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[STGSkillTreeGroup] ADD CONSTRAINT [PKC_STGSkillTreeGroup_LoginUID_CharType_GroupID] PRIMARY KEY CLUSTERED  ([LoginUID], [CharType], [GroupID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

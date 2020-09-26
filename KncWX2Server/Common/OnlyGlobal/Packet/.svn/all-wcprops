@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet
+END
+ServerPacket_Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/ServerPacket_Global.cpp
+END
+CommonPacket_Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/CommonPacket_Global.cpp
+END
+SystemPacket_Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/SystemPacket_Global.h
+END
+ServerPacket_Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/ServerPacket_Global.h
+END
+CommonPacket_Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/CommonPacket_Global.h
+END
+ClientPacket_Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/ClientPacket_Global.cpp
+END
+ClientPacket_Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/ClientPacket_Global.h
+END
+SystemPacket_Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/Packet/SystemPacket_Global.cpp
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102968/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN
+END
+GiantBillingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBillingManager.cpp
+END
+GiantBillingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBillingPacket.h
+END
+GiantCommonPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantCommonPacket.cpp
+END
+GiantBillingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBillingManager.h
+END
+GiantBilling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBilling.cpp
+END
+GiantInfoPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantInfoPacket.cpp
+END
+GiantCommonPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantCommonPacket.h
+END
+GiantBilling.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBilling.h
+END
+GiantInfoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantInfoManager.cpp
+END
+GiantRoleRegPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantRoleRegPacket.cpp
+END
+GiantInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantInfoPacket.h
+END
+GiantAuthPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/eskr/source/!svn/ver/102697/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantAuthPacket.cpp
+END
+GiantRoleRegManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantRoleRegManager.cpp
+END
+GiantInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantInfo.cpp
+END
+GiantInfoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantInfoManager.h
+END
+GiantAuthManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102697/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantAuthManager.cpp
+END
+GiantRoleRegPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantRoleRegPacket.h
+END
+GiantAuthPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/102697/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantAuthPacket.h
+END
+GiantCouponManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantCouponManager.cpp
+END
+GiantRoleReg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantRoleReg.cpp
+END
+GiantRoleRegManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantRoleRegManager.h
+END
+GiantInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantInfo.h
+END
+GiantAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102697/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantAuthManager.h
+END
+GiantAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102968/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantAuth.cpp
+END
+GiantCouponManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantCouponManager.h
+END
+GiantRoleReg.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantRoleReg.h
+END
+GiantBaseManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBaseManager.cpp
+END
+GiantAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102697/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantAuth.h
+END
+GiantBillingPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBillingPacket.cpp
+END
+GiantBaseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/CN/GiantBaseManager.h
+END

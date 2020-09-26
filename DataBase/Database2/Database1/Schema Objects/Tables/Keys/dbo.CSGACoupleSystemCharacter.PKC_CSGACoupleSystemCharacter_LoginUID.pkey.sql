@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[CSGACoupleSystemCharacter] ADD CONSTRAINT [PKC_CSGACoupleSystemCharacter_LoginUID] PRIMARY KEY CLUSTERED  ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

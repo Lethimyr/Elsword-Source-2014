@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GItemInventorySize] ADD
+CONSTRAINT [FK_GItemInventorySize_GUnit_UnitUID] FOREIGN KEY ([UnitUID]) REFERENCES [dbo].[GUnit] ([UnitUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

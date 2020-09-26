@@ -1,0 +1,369 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)\r\n"
+    "LANGUAGE 18, 1\r\n"
+    "#pragma code_page(949)\r\n"
+    "#include ""res\\X2KomFileViewer.rc2""  // Microsoft Visual C++에서 편집되지 않은 리소스\r\n"
+    "#include ""afxres.rc""         // 표준 구성 요소\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\X2KomFileViewer.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_X2KOMFILEVIEWER_DIALOG DIALOGEX 0, 0, 622, 442
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_MINIMIZEBOX | 
+    WS_MAXIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "X2KomFileViewer"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_FILE_FIND_EDIT,162,404,166,12,ES_AUTOHSCROLL | 
+                    ES_WANTRETURN
+    PUSHBUTTON      "파일찾기",IDC_FIND_FILE,342,402,46,14
+    CONTROL         "멀티스레드",IDC_MT_CHECK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,399,403,50,13
+    PUSHBUTTON      "압축하기",IDC_CREATE_KOM,457,402,46,14
+    PUSHBUTTON      "압축풀기",IDC_UNCOMPRESS,509,402,46,14
+    PUSHBUTTON      "파일열기",IDC_BUTTON1,561,402,46,14
+    PUSHBUTTON      "리소스 갈아끼우기",IDC_MODIFY_KOM,509,422,98,14
+    LTEXT           "Kom File List",IDC_STATIC,6,6,48,12
+    CONTROL         "",IDC_KOM_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,6,18,300,48
+    LTEXT           "Member File List",IDC_STATIC,6,72,84,12
+    CONTROL         "",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,6,84,300,312
+    LTEXT           "File Count : ",IDC_STATIC,6,404,39,12
+    LTEXT           "Total Size : ",IDC_STATIC,6,423,39,12
+    EDITTEXT        IDC_MEMBER_COUNT,46,404,98,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MEMBER_COUNT2,46,423,98,12,ES_AUTOHSCROLL
+    CONTROL         "",IDC_INSERTED_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,311,18,304,180
+    CONTROL         "",IDC_DELETED_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,311,216,304,
+                    180
+    LTEXT           "Inserted Member File List",IDC_STATIC,312,6,81,12
+    LTEXT           "Deleted Member File List",IDC_STATIC,312,204,81,12
+END
+
+IDD_PATH_DIALOG DIALOGEX 0, 0, 430, 122
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Path Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,192,92,50,14
+    PUSHBUTTON      "구버전 폴더",ID_OLD_PATH,366,18,50,14
+    PUSHBUTTON      "신버전 폴더",ID_NEW_PATH,366,48,50,14
+    EDITTEXT        IDC_NEW_PATH_EDIT,12,48,330,15,ES_AUTOHSCROLL
+    EDITTEXT        IDC_OLD_PATH_EDIT,12,18,330,15,ES_AUTOHSCROLL
+    CONTROL         "루아 스크립트 컴파일",IDC_COMPILE_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,229,74,92,10
+    CONTROL         "루아 스크립트 암호화",IDC_COMPILE_CHECK2,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,331,74,92,10
+    CONTROL         "X-파일 변환",IDC_COMPILE_CHECK3,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,161,74,57,10
+END
+
+IDD_NOTICE_DIALOG DIALOGEX 0, 0, 94, 34
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Now Parsing..."
+FONT 20, "Microsoft Sans Serif", 700, 0, 0x0
+BEGIN
+    LTEXT           "KOM파일 분석중.....",IDC_NOTICE,18,12,61,8
+END
+
+IDD_DIALOG1 DIALOGEX 0, 0, 514, 389
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_SAME_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,6,18,498,342
+    LTEXT           "Same File List",IDC_STATIC,7,7,44,8
+    LTEXT           "중복된 파일이 있는지 검사를 완료하였습니다!  현재 윈도우를 종료하시면 곧바로 kom파일 뷰어로 넘어갑니다!",
+                    IDC_STATIC,61,368,387,8
+END
+
+IDD_UNCOM_DIALOG DIALOGEX 0, 0, 203, 290
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Uncompress Manager"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "모든 KOM파일 압축해제 (KOM파일별 폴더 생성)",ID_ALL_KOM,
+                    11,249,181,14
+    DEFPUSHBUTTON   "선택된 KOM파일만 압축해제",IDSEL_KOM,11,229,181,14
+    DEFPUSHBUTTON   "선택된 리소스파일만 압축 해제",IDSEL_FILE,11,210,181,14
+    DEFPUSHBUTTON   "모든 KOM파일 압축해제 (폴더 하나에 모두 복사)",
+                    ID_ONE_KOM,11,269,181,14
+    LISTBOX         IDC_KOM_LIST,15,7,173,196,LBS_NOINTEGRALHEIGHT | 
+                    LBS_EXTENDEDSEL | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_MODIFY_KOM DIALOGEX 0, 0, 620, 370
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Kom File Modify"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "결과물을 저장할 경로 찾기",IDFINDSAVEPATH,397,10,110,17
+    PUSHBUTTON      "리소스 갈아끼우기 시작",IDMODIFYBEGIN,247,340,136,23
+    EDITTEXT        IDC_SAVE_DIR_EDIT,8,10,378,18,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "수정될 리소스 찾기",IDFINDMODIFYFILE,276,35,110,17
+    CONTROL         "",IDC_MODIFY_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,59,606,274
+    DEFPUSHBUTTON   "리스트에서 제거",IDDELMODIFYFILE,397,35,110,17
+    CONTROL         "Lua Script 컴파일",IDC_CHECK_C,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,526,10,87,16
+    CONTROL         "스크립트 암호화",IDC_CHECK_E,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,526,35,87,16
+END
+
+IDD_DIALOG_KOM_LIST_VIEW DIALOGEX 0, 0, 433, 306
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "생성 예정인 KOM 파일 리스트"
+FONT 8, "MS Shell Dlg", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "확      인",IDOK,290,276,69,15
+    CONTROL         "",IDC_LIST_KOM,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,6,30,417,216
+    CTEXT           "클라이언트의 x2main.cpp에 정의된 kom파일 리스트와 일치합니까? 확인해보세요.",
+                    IDC_STATIC_CHECK_MESSAGE,72,259,287,8
+    CTEXT           "생성 예정인 kom파일 리스트입니다!",
+                    IDC_STATIC_NOTIFY_MESSAGE,152,9,129,8
+    EDITTEXT        IDC_EDIT_FILE_COUNT,189,275,53,15,ES_CENTER | 
+                    ES_AUTOHSCROLL
+    LTEXT           "kom 파일 갯수 :",IDC_STATIC_MESSAGE_FILE_COUNT,126,278,
+                    54,8
+END
+
+IDD_DIALOG_OLD_KOM_LIST_VIEW DIALOGEX 0, 0, 432, 305
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "현재 리소스를 추가 할 수 있는 KOM 파일 리스트"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "추가",IDOK,155,284,50,14
+    PUSHBUTTON      "취소",IDCANCEL,231,284,50,14
+    CTEXT           "선택하신 폴더 내의 KOM 파일들 입니다.",
+                    IDC_STATIC_NOTIFY_MESSAGE,143,8,145,10
+    CONTROL         "",IDC_LIST_OLD_KOM,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,31,417,216
+    CTEXT           "현재 리소스를 추가하실 KOM 파일을 선택 해 주세요.",
+                    IDC_STATIC_CHECK_MESSAGE,72,259,287,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041203b5"
+        BEGIN
+            VALUE "CompanyName", "TODO: <회사 이름>"
+            VALUE "FileDescription", "TODO: <파일 설명>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "X2KomFileViewer.exe"
+            VALUE "LegalCopyright", "TODO: (c) <회사 이름>.  All rights reserved."
+            VALUE "OriginalFilename", "X2KomFileViewer.exe"
+            VALUE "ProductName", "TODO: <제품 이름>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "변환", 0x412, 949
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_X2KOMFILEVIEWER_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 615
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 435
+    END
+
+    IDD_PATH_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 423
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 115
+    END
+
+    IDD_NOTICE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 87
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 27
+    END
+
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 507
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 382
+    END
+
+    IDD_UNCOM_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 196
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 283
+    END
+
+    IDD_MODIFY_KOM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 613
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 363
+    END
+
+    IDD_DIALOG_KOM_LIST_VIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 424
+        TOPMARGIN, 9
+        BOTTOMMARGIN, 300
+    END
+
+    IDD_DIALOG_OLD_KOM_LIST_VIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 424
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 298
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// HTML
+//
+
+IDR_HTML_NOTICEDLG      HTML                    "NoticeDlg.htm"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE 18, 1
+#pragma code_page(949)
+#include "res\X2KomFileViewer.rc2"  // Microsoft Visual C++에서 편집되지 않은 리소스
+#include "afxres.rc"         // 표준 구성 요소
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

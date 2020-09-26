@@ -1,0 +1,335 @@
+10
+
+dir
+105191
+https://svn.kog.co.kr/eskr/source/JP_TW_EU_CN_US/Trunk
+https://svn.kog.co.kr/eskr/source
+
+
+
+2014-03-05T14:10:21.882904Z
+105190
+86red
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f28ca221-e73a-4cd2-b208-53270f5c8469
+
+KNCSDK_2010
+dir
+
+X2Project_2003.sln
+file
+
+
+
+
+2014-03-06T15:39:09.104590Z
+f7c3d8c52433e0501da9d9d052bdfd7b
+2014-02-28T07:45:13.008706Z
+104657
+orange82
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65422
+
+X2Lib
+dir
+
+X2ScriptPreprocessingTool
+dir
+
+TextureStringManager
+dir
+
+X2KomFileViewer
+dir
+
+XFileExp
+dir
+
+X2Project_2010.vssscc
+file
+
+
+
+
+2014-03-06T15:39:09.104590Z
+382f3c0116473357745ed46249d093e0
+2011-05-17T05:05:24.787121Z
+29987
+itexpertkim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+246
+
+X2Tool
+dir
+
+X2
+dir
+
+X2TETXETPreprocessingTool
+dir
+
+LuaCommon
+dir
+
+KOGGamePerformanceCheck
+dir
+
+KncTools
+dir
+
+X2LineMapTool
+dir
+
+TransDBManagerForWeb
+dir
+
+NexonModule
+dir
+
+ScriptData
+dir
+
+Steamworks
+dir
+
+NetErrorDBManager
+dir
+
+AnsiToUTF8
+dir
+
+DataBase
+dir
+
+X2EffectTool
+dir
+
+ScriptDBManager
+dir
+
+X2ItemTool
+dir
+
+StringDBManager
+dir
+
+X2EventSceneTool
+dir
+
+luaLib
+dir
+
+DungeonStatistics
+dir
+
+ContentSelector
+dir
+
+X2MassFileTool
+dir
+
+cximage
+dir
+
+X2Project_2010.sln
+file
+
+
+
+
+2014-03-06T15:39:09.182590Z
+26584380ecf454e2b6d0cd0af2eed396
+2014-03-05T08:23:10.076220Z
+105182
+86red
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+739257
+
+ReleaseTool
+dir
+
+BillingTool
+dir
+
+luajitLib
+dir
+
+HShield
+dir
+
+ElswordExport
+dir
+
+Profiler
+dir
+
+KOGExport
+dir
+
+KOGSkinMesh
+dir
+
+libxml
+dir
+
+X2Project_2003.vssscc
+file
+
+
+
+
+2014-03-06T15:39:09.198190Z
+382f3c0116473357745ed46249d093e0
+2011-05-16T12:13:01.311952Z
+29954
+itexpertkim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+246
+
+LuaCompileTool
+dir
+
+Localization
+dir
+
+TestEmpty
+dir
+
+XTRAP
+dir
+
+X2WorldTool
+dir
+
+IGA
+dir
+
+X2Patcher
+dir
+
+KTDXLIB
+dir
+
+X2ServerProtocol
+dir
+
+KncWX2Server
+dir
+
+X2DungeonTool
+dir
+
+DB_Backup
+dir
+
+X2ScenarioTool
+dir
+
+X2Viewer
+dir
+
+CreateCheckInfo
+dir
+
+KNCSDK
+dir
+
+X2ChinaLauncher
+dir
+
+XFileCompare
+dir
+

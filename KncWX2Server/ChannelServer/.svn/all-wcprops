@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/105190/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer
+END
+Log_CN_TJ01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_TJ01.dsn
+END
+Log_CN_TJ02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_TJ02.dsn
+END
+Log_CN_TJ03.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_TJ03.dsn
+END
+LOG_OPEN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/LOG_OPEN_TEST.dsn
+END
+WaitQueueManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/WaitQueueManager.cpp
+END
+ChannelServer_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer_2010.vcxproj
+END
+MachineBlockManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/MachineBlockManager.cpp
+END
+ChannelUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelUser.h
+END
+Account_CN_TJ01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_TJ01.dsn
+END
+ChannelScriptRefreshManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelScriptRefreshManager.h
+END
+Account_CN_TJ02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_TJ02.dsn
+END
+Account_CN_TJ03.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_TJ03.dsn
+END
+LOG_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/LOG_INTERNAL.dsn
+END
+MailSMTP.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/MailSMTP.dll
+END
+ChannelServer_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer_2010.vcxproj.filters
+END
+DDOSGuardSimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/DDOSGuardSimulator.h
+END
+ChannelServer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer.rc
+END
+ChannelServer_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/104763/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer_2003.vcproj
+END
+ServerSNMaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ServerSNMaker.cpp
+END
+ChannelAccountDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelAccountDBThread.h
+END
+tbbmalloc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/tbbmalloc.dll
+END
+config_ch_CN_BETA.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_CN_BETA.lua
+END
+tbbmalloc_proxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/tbbmalloc_proxy.dll
+END
+config_ch_CN_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_CN_INTERNAL.lua
+END
+Log_CN_BETA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_BETA.dsn
+END
+Account.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account.dsn
+END
+Log_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_INTERNAL.dsn
+END
+tbbmalloc_proxy_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/tbbmalloc_proxy_debug.dll
+END
+Log_CN_WH01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_WH01.dsn
+END
+LOG_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/LOG_SERVICE.dsn
+END
+Log_CN_WH02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_WH02.dsn
+END
+ChannelServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer.h
+END
+ChannelScriptRefreshThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelScriptRefreshThread.cpp
+END
+ChannelUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelUser.cpp
+END
+ChannelScriptRefreshManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelScriptRefreshManager.cpp
+END
+ChannelLogDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelLogDBThread.cpp
+END
+ChannelLoginProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelLoginProxy.h
+END
+config_ch_INT_OPEN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_INT_OPEN_TEST.lua
+END
+Account_CN_BETA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_BETA.dsn
+END
+WaitQueueManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/WaitQueueManager.h
+END
+Account_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_INTERNAL.dsn
+END
+MailSMTP.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/MailSMTP.lib
+END
+ChannelNetLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelNetLayer.cpp
+END
+Account_CN_WH01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_WH01.dsn
+END
+ChannelSimLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelSimLayer.cpp
+END
+Account_CN_WH02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_WH02.dsn
+END
+ACCOUNT_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ACCOUNT_SERVICE.dsn
+END
+MachineBlockManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/MachineBlockManager.h
+END
+Log_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_SERVICE_TEST.dsn
+END
+ManagerDB.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ManagerDB.dsn
+END
+HanAuthForSvr.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/HanAuthForSvr.dll
+END
+ChannelAccountDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelAccountDBThread.cpp
+END
+config_ch_INT_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_INT_INTERNAL.lua
+END
+ChannelServer_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer_2010.vcxproj.user
+END
+log_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/log_SOLES.dsn
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Resource.h
+END
+Account_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_SERVICE_TEST.dsn
+END
+UserHackingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/UserHackingManager.cpp
+END
+ChannelServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer.cpp
+END
+Log_CN_ZD01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_ZD01.dsn
+END
+ChannelLoginProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelLoginProxy.cpp
+END
+UserSecurityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/UserSecurityManager.h
+END
+config_ch_INT_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_INT_SERVICE.lua
+END
+CCUToolManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/CCUToolManager.h
+END
+ChannelScriptRefreshThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelScriptRefreshThread.h
+END
+Account_CN_ZD01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_ZD01.dsn
+END
+ChannelLogDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelLogDBThread.h
+END
+ACCOUNT_OPEN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ACCOUNT_OPEN_TEST.dsn
+END
+Log_CN_ZR01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_ZR01.dsn
+END
+Log_CN_ZR02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_ZR02.dsn
+END
+Log_CN_ZR03.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Log_CN_ZR03.dsn
+END
+ChannelNetLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelNetLayer.h
+END
+config_ch_BR_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_BR_SERVICE.lua
+END
+ChannelSimLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelSimLayer.h
+END
+MailMIME.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/MailMIME.dll
+END
+msvcp71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/msvcp71.dll
+END
+Account_CN_ZR01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_ZR01.dsn
+END
+Account_CN_ZR02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_ZR02.dsn
+END
+mfc71u.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/mfc71u.dll
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/msvcr71.dll
+END
+Account_CN_ZR03.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/Account_CN_ZR03.dsn
+END
+config_ch_BR_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_BR_INTERNAL.lua
+END
+ChannelSMSDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelSMSDBThread.h
+END
+tbbmalloc_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/tbbmalloc_debug.dll
+END
+UserSecurityManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/UserSecurityManager.cpp
+END
+CCUToolManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/CCUToolManager.cpp
+END
+UserHackingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/UserHackingManager.h
+END
+SMS.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/SMS.dsn
+END
+log_GAIA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/log_GAIA.dsn
+END
+DDOSGuardSimulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/DDOSGuardSimulator.cpp
+END
+config_ch.ini
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch.ini
+END
+MailMIME.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/MailMIME.lib
+END
+config_ch_CN_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_CN_SERVICE.lua
+END
+icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/icon.ico
+END
+config_ch_BR_OPEN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config_ch_BR_OPEN_TEST.lua
+END
+KncCrashRptSV.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/KncCrashRptSV.dll
+END
+ChannelServer_2003.vcproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelServer_2003.vcproj.vspscc
+END
+ChannelSMSDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ChannelSMSDBThread.cpp
+END
+ACCOUNT_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ACCOUNT_INTERNAL.dsn
+END
+ServerSNMaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/ServerSNMaker.h
+END

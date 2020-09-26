@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IX_LogNickNames_NewNick] ON [dbo].[LogNickNames] ([NewNick]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

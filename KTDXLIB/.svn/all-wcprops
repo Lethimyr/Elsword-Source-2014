@@ -1,0 +1,1859 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eskr/source/!svn/ver/105162/JP_TW_EU_CN_US/Trunk/KTDXLIB
+END
+KTDXDeviceXMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXMesh.cpp
+END
+KTDGXSkinAfterImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXSkinAfterImage.h
+END
+KTDGUIScrollBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIScrollBar.h
+END
+KTDXCommonFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXCommonFunc.h
+END
+KSystemTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KSystemTimer.h
+END
+KTDGUIItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIItem.cpp
+END
+KTDGUIDialogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIDialogManager.h
+END
+vld.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/vld.lib
+END
+delegate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/delegate.hpp
+END
+KTDXDeviceRenderTargetTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceRenderTargetTexture.cpp
+END
+KTDGUIDialogHandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIDialogHandle.cpp
+END
+KTDNDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNDP.cpp
+END
+KTDGUIListControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIListControl.cpp
+END
+KTDGUIControlList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIControlList.cpp
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zconf.h
+END
+KGCMassFileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KGCMassFileManager.h
+END
+KTDGLensFlare.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGLensFlare.h
+END
+vld.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/vld.h
+END
+KTDGXSkinAfterImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXSkinAfterImage.cpp
+END
+KTDGUIScrollBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIScrollBar.cpp
+END
+BandiVideoFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoFileReader.h
+END
+KTDGDeviceFontTH.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDeviceFontTH.cpp
+END
+StringID_def6.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def6.h
+END
+KBrowserWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KBrowserWrapper.cpp
+END
+CxImage.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/CxImage.lib
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zlib.h
+END
+KTDXStringTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXStringTable.cpp
+END
+KHandleArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KHandleArray.h
+END
+StringID_def13.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/105121/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def13.h
+END
+KHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KHandle.h
+END
+KExceptionSafeUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KExceptionSafeUtil.h
+END
+KTDGUINavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUINavigation.h
+END
+KTDGFontUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFontUtil.cpp
+END
+KTDSMP3Play.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDSMP3Play.h
+END
+KTDGFontManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFontManager.h
+END
+KGCMassFileManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KGCMassFileManager.cpp
+END
+CSLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/CSLock.h
+END
+KTDGDynamicTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDynamicTexture.h
+END
+KTDXDeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceManager.cpp
+END
+KTDXCollision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXCollision.cpp
+END
+KHangulPPWSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KHangulPPWSelector.h
+END
+KTDXDeviceRenderTargetTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceRenderTargetTexture.h
+END
+KTDXDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDevice.cpp
+END
+BandiVideoTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoTexture.h
+END
+KTDIManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDIManager.h
+END
+KTDGUIListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIListBox.cpp
+END
+KTDGUICheckBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUICheckBox.cpp
+END
+KSmartNull.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KSmartNull.h
+END
+KTDGCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGCamera.cpp
+END
+png.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/png.lib
+END
+KTDXRecyclingArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXRecyclingArray.cpp
+END
+KTDNUDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNUDP.cpp
+END
+KTDSMP3Play.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDSMP3Play.cpp
+END
+KTDGFontManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFontManager.cpp
+END
+KHelpSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KHelpSystem.h
+END
+KTDXTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXTimer.h
+END
+KTDXDeviceXET.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXET.h
+END
+KTDXDeviceTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceTexture.h
+END
+KTDGObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGObject.cpp
+END
+KTDXDeviceXET_Preprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXET_Preprocessing.h
+END
+KTDGFreeTypeFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFreeTypeFont.cpp
+END
+KTDGManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGManager.cpp
+END
+vldapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/vldapi.h
+END
+AssertTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/AssertTrace.h
+END
+KTDXSimpleHandleInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXSimpleHandleInterface.h
+END
+KFileVerifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KFileVerifier.cpp
+END
+KDynamicSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KDynamicSingleton.h
+END
+KPCHWebBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KPCHWebBrowser.h
+END
+StringID_def7.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def7.h
+END
+MinMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/MinMax.h
+END
+KTDXDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDevice.h
+END
+KTDNUDPStatisticData.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNUDPStatisticData.h
+END
+InHouse1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouse1.h
+END
+cximageD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/cximageD.lib
+END
+Profiler.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/Profiler.lib
+END
+KTDGCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGCamera.h
+END
+KTDXTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXTimer.cpp
+END
+KTDXDeviceXET.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXET.cpp
+END
+KTDXDeviceTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceTexture.cpp
+END
+KTDXAnimationController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXAnimationController.cpp
+END
+KTDGTargetArrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGTargetArrow.h
+END
+Browser.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/Browser.c
+END
+KTDXDeviceHolder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceHolder.cpp
+END
+KTDGUIButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIButton.h
+END
+KLuaManagerProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KTDXLIB/KLuaManagerProxy.cpp
+END
+BandiVideoLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoLibrary.cpp
+END
+KTDNUDPStatisticData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNUDPStatisticData.cpp
+END
+KTDGLineMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGLineMap.cpp
+END
+KTDXRandomNumbers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXRandomNumbers.cpp
+END
+KTDGUIDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIDialog.cpp
+END
+BandiVideoSound_NULL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoSound_NULL.cpp
+END
+vldmt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/vldmt.lib
+END
+InHouseEtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102175/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouseEtc.h
+END
+KTDGTargetArrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGTargetArrow.cpp
+END
+unicows.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/unicows.lib
+END
+KTDXStringTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXStringTable.h
+END
+KTDGUIComboBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIComboBox.cpp
+END
+KTDXLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLog.h
+END
+KGCMassFileBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KGCMassFileBufferManager.h
+END
+KTDGMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGMatrix.h
+END
+KTDGUIButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIButton.cpp
+END
+KStringUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KStringUtil.h
+END
+KTDGUISlot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUISlot.cpp
+END
+KTDGGrayScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGGrayScale.h
+END
+KTDGSkyDome.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGSkyDome.h
+END
+KSmartNull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KSmartNull.cpp
+END
+StringID_def8.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def8.h
+END
+KTDGUIIMEEditBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIIMEEditBox.cpp
+END
+InHouse2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouse2.h
+END
+KTDXEnumToLua.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXEnumToLua.h
+END
+BandiVideoTexture_DX9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoTexture_DX9.cpp
+END
+KTDGPlanShadow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGPlanShadow.cpp
+END
+KTDXRecyclingArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXRecyclingArray.h
+END
+KTDNUDP.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNUDP.h
+END
+KTDGParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGParticleSystem.cpp
+END
+KTDGLensFlare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGLensFlare.cpp
+END
+KncFirewall.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KncFirewall.lib
+END
+KTDXLIB_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLIB_2003.vcproj
+END
+KTDXDeviceXSkinMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXSkinMesh.h
+END
+KFileSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KFileSerializer.h
+END
+KTDGUISlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUISlider.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/ReadMe.txt
+END
+KTDXStage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXStage.cpp
+END
+KTDGUIStatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIStatic.cpp
+END
+KTDGDeviceFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDeviceFont.cpp
+END
+KTDGXRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXRenderer.cpp
+END
+zlibwapi.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zlibwapi.dll
+END
+KTDNTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNTransfer.h
+END
+KJohnStdVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KJohnStdVector.h
+END
+jpegD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/jpegD.lib
+END
+KTDGPlanShadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGPlanShadow.h
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zlib.lib
+END
+KTDGParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGParticleSystem.h
+END
+StringID_def1.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def1.h
+END
+KTDNPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNPacket.cpp
+END
+KTDGUIControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIControl.cpp
+END
+KLuaManagerProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KTDXLIB/KLuaManagerProxy.h
+END
+BandiVideoLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoLibrary.h
+END
+KTDGUISlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUISlider.h
+END
+StringID_def9.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def9.h
+END
+KTDSManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDSManager.cpp
+END
+KJohnSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KJohnSingleton.h
+END
+InHouse3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouse3.h
+END
+KTDXDeviceXMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXMesh.h
+END
+cximaged.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/cximaged.pdb
+END
+vldmtdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/vldmtdll.lib
+END
+KTDGUIEditBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104985/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIEditBox.h
+END
+KTDXLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLog.cpp
+END
+KTDXLIB_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/105162/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLIB_2010.vcxproj
+END
+KTDGFrustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFrustum.cpp
+END
+KTDGGrayScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGGrayScale.cpp
+END
+KTDGObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGObject.h
+END
+KTDXStringLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXStringLoader.cpp
+END
+usewinhoard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/usewinhoard.cpp
+END
+CrashRpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/CrashRpt.h
+END
+KTDGUISlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUISlot.h
+END
+KTDXThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXThread.cpp
+END
+KTDGUIUniBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIUniBuffer.h
+END
+KTDXErrorDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXErrorDefine.h
+END
+KTDXEnumToLua.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXEnumToLua.cpp
+END
+KBrowserWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KBrowserWrapper.h
+END
+KTDGUIIMEEditBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIIMEEditBox.h
+END
+KExceptionSafeUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KExceptionSafeUtil.cpp
+END
+BandiVideoSound_DS.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoSound_DS.h
+END
+ProfilerD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/ProfilerD.lib
+END
+KTDXDeviceBaseTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceBaseTexture.h
+END
+KProtectedType.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KProtectedType.h
+END
+BandiVideoTexture_DX9.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoTexture_DX9.h
+END
+CRC_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/CRC_32.h
+END
+KTDGFontVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFontVertex.h
+END
+KTDXDeviceXSkinMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXSkinMesh.cpp
+END
+KFileSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KFileSerializer.cpp
+END
+bandivid.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/bandivid.h
+END
+KTDIManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDIManager.cpp
+END
+StringID_def2.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104682/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def2.h
+END
+KTDGStateManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGStateManager.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/debug.h
+END
+KTDXDeviceHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceHolder.h
+END
+BandiVideoSound_DS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoSound_DS.cpp
+END
+InHouse4.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouse4.h
+END
+KJohnThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KJohnThread.h
+END
+KTDXThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXThread.h
+END
+KTDXDeviceTET_Preprocessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceTET_Preprocessing.cpp
+END
+CrashRpt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/CrashRpt.lib
+END
+delegate_list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/delegate_list.hpp
+END
+KTDGUIItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIItem.h
+END
+CRC_32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/CRC_32.cpp
+END
+KGCMassFileBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KGCMassFileBufferManager.cpp
+END
+KTDXDeviceXET_Preprocessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceXET_Preprocessing.cpp
+END
+KTDGDynamicVBManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDynamicVBManager.cpp
+END
+KTDGUIComboBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIComboBox.h
+END
+KTDGSkyDome.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGSkyDome.cpp
+END
+BandiVideoFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoFileReader.cpp
+END
+KProtectRefTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KProtectRefTable.cpp
+END
+KSuperAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KSuperAssert.h
+END
+KGlobalSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KGlobalSingleton.h
+END
+EnumToString.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/EnumToString.h
+END
+KTDGUINavigation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUINavigation.cpp
+END
+delegate_template.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/delegate_template.hpp
+END
+jpegd.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/jpegd.pdb
+END
+pngd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/pngd.lib
+END
+KTDXDeviceTET_Preprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceTET_Preprocessing.h
+END
+KTDGDynamicTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDynamicTexture.cpp
+END
+KTDIDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/103195/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDIDevice.h
+END
+KTDGXSkinAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXSkinAnim.h
+END
+zlibstat.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zlibstat.lib
+END
+KTDGFontUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFontUtil.h
+END
+KTDXLIB_2003.vcproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLIB_2003.vcproj.vspscc
+END
+OpenTest2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/OpenTest2.h
+END
+zlibd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zlibd.lib
+END
+StringID_def3.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104682/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def3.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/stdafx.cpp
+END
+KTDXCollision.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXCollision.h
+END
+KSuperAssert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KSuperAssert.cpp
+END
+KSystemTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KSystemTimer.cpp
+END
+KVersionControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KVersionControl.cpp
+END
+KTDGUICheckBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUICheckBox.h
+END
+InHouse5.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouse5.h
+END
+KTDGLineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGLineMap.h
+END
+KTDNTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNTransfer.cpp
+END
+KTDGDeviceFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDeviceFont.h
+END
+StringID_def10.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def10.h
+END
+KTDGSlashTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGSlashTrace.h
+END
+KTDIDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDIDevice.cpp
+END
+KTDGXSkinAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXSkinAnim.cpp
+END
+KTDXRandomNumbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXRandomNumbers.h
+END
+KTDGUIDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIDialog.h
+END
+BandiVideoSound_NULL.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/BandiVideoSound_NULL.h
+END
+KTDGXRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXRenderer.h
+END
+KTDGMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGMatrix.cpp
+END
+KTDGPostEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGPostEffect.h
+END
+KTDXLIB_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLIB_2010.vcxproj.filters
+END
+KPCHWebBrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KPCHWebBrowser.cpp
+END
+KFileVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KFileVerifier.h
+END
+KTDNPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNPacket.h
+END
+KTDGUIControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIControl.h
+END
+KTDGDeviceFontBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDeviceFontBase.h
+END
+KTDGEffectStateManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGEffectStateManager.cpp
+END
+KTDGSlashTrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGSlashTrace.cpp
+END
+KTDSManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDSManager.h
+END
+KTDGMotionBlur.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGMotionBlur.h
+END
+AntiHackingString.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/AntiHackingString.h
+END
+indexed_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/indexed_list.h
+END
+KTDXAnimationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXAnimationController.h
+END
+KTDGDynamicVBManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDynamicVBManager.h
+END
+boost_kog_extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/boost_kog_extension.h
+END
+KTDXDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceManager.h
+END
+StringID_def4.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def4.h
+END
+KTDGDeviceFontBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDeviceFontBase.cpp
+END
+KTDXStringLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXStringLoader.h
+END
+KTDGUIUniBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104062/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIUniBuffer.cpp
+END
+KTDGUIStatic.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIStatic.h
+END
+InHouse6.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/InHouse6.h
+END
+Always.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/104895/JP_TW_EU_CN_US/Trunk/KTDXLIB/Always.h
+END
+KJohnObjMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KJohnObjMan.h
+END
+KTDGEffectStateManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGEffectStateManager.h
+END
+KTDXDeviceSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceSound.h
+END
+KHelpSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KHelpSystem.cpp
+END
+StringID_def11.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def11.h
+END
+profilerd.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/profilerd.pdb
+END
+pngd.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/pngd.pdb
+END
+KTDXApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/105147/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXApp.h
+END
+KTDGXMeshPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXMeshPlayer.h
+END
+KTDGStateManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGStateManager.cpp
+END
+zlibd.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/zlibd.pdb
+END
+KTDNDP.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNDP.h
+END
+KTDGUIListControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIListControl.h
+END
+KTDGUIControlList.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIControlList.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/stdafx.h
+END
+KTDGDeviceFontTH.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGDeviceFontTH.h
+END
+KTDIDeviceWinKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDIDeviceWinKey.cpp
+END
+KTDGUIRadioButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIRadioButton.cpp
+END
+KTDXDeviceSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceSound.cpp
+END
+KTDGUIEditBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIEditBox.cpp
+END
+KVersionControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KVersionControl.h
+END
+KncFirewall.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KncFirewall.h
+END
+AlwaysButConditionally.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/AlwaysButConditionally.h
+END
+jpeg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/jpeg.lib
+END
+KTDXApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXApp.cpp
+END
+KTDGXMeshPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGXMeshPlayer.cpp
+END
+KTDGPostEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGPostEffect.cpp
+END
+KHangulPPWSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KHangulPPWSelector.cpp
+END
+KTDGGlow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGGlow.cpp
+END
+KTDGFrustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFrustum.h
+END
+KTDGPicChar.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGPicChar.h
+END
+KTDXLIB_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXLIB_2010.vcxproj.user
+END
+StringID_def5.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104682/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def5.h
+END
+KObserverPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KObserverPtr.h
+END
+winhoard.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/winhoard.lib
+END
+KTDNManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNManager.h
+END
+KTDGUIListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIListBox.h
+END
+KTDGUIDialogManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIDialogManager.cpp
+END
+KTDXStage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXStage.h
+END
+KTDGMotionBlur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGMotionBlur.cpp
+END
+KProtectRefTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KProtectRefTable.h
+END
+KTDXDeviceBaseTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXDeviceBaseTexture.cpp
+END
+KTDIDeviceWinKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDIDeviceWinKey.h
+END
+KTDGUIRadioButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIRadioButton.h
+END
+StringID_def12.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/105152/JP_TW_EU_CN_US/Trunk/KTDXLIB/StringID_def12.h
+END
+KTDX.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/104831/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDX.h
+END
+KTDXSimpleHandleInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDXSimpleHandleInterface.cpp
+END
+KTDGPicChar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGPicChar.cpp
+END
+debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/debug.cpp
+END
+KTDGGlow.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGGlow.h
+END
+KTDGUIDialogHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGUIDialogHandle.h
+END
+KTDGFreeTypeFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGFreeTypeFont.h
+END
+KTDGManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDGManager.h
+END
+MinMax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/MinMax.cpp
+END
+KTDNManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KTDXLIB/KTDNManager.cpp
+END

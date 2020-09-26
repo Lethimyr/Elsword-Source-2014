@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GGGAGameGameBuyCountData] ADD CONSTRAINT [PKC_GGGAGameGameBuyCountData_LoginUID_Type] PRIMARY KEY CLUSTERED  ([LoginUID], [Type]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

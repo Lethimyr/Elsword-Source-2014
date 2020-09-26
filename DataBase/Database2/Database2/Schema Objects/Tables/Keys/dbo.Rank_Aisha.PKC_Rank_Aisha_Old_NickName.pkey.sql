@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[Rank_Aisha] ADD CONSTRAINT [PKC_Rank_Aisha_Old_NickName] PRIMARY KEY CLUSTERED  ([NickName]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[RecommenderList] ADD CONSTRAINT [PK_RecommenderList_RecommderUID] PRIMARY KEY NONCLUSTERED  ([RecommenderUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

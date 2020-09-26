@@ -1,0 +1,28 @@
+﻿CREATE PROCEDURE [dbo].[gup_delete_one_skill]
+	@iUnitUID	bigint 
+,	@iSkillID	int
+,	@iOK		int = 0
+AS
+SET NOCOUNT ON;
+
+IF NOT EXISTS (SELECT * FROM dbo.GSkill WITH (NOLOCK) WHERE UnitUID = @iUnitUID AND SkillID = @iSkillID)
+	BEGIN	SELECT @iOK = -1	GOTO END_PROC	END
+
+BEGIN TRAN
+	-- 소유 스킬 리스트에서 지우기
+	DELETE FROM dbo.GSkill
+		WHERE UnitUID = @iUnitUID AND SkillID = @iSkillID
+	IF @@ERROR <> 0 OR @@ROWCOUNT <> 1
+		BEGIN	SELECT @iOK = -2	GOTO FAIL_TRAN	END
+
+COMMIT TRAN
+
+GOTO END_PROC
+
+FAIL_TRAN:
+ROLLBACK TRAN
+
+END_PROC:
+SELECT @iOK
+
+

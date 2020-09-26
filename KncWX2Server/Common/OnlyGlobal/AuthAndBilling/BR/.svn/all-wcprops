@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR
+END
+LevelUpAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/LevelUpAuthManager.h
+END
+LevelUpAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/LevelUpAuth.cpp
+END
+BRPayletterBillingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBillingManager.h
+END
+BRPayletterBilling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBilling.cpp
+END
+SHA1.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/SHA1.h
+END
+LevelUpAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/LevelUpAuth.h
+END
+BRPayletterBilling.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBilling.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/Types.h
+END
+LevelUpAuth_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/LevelUpAuth_def.h
+END
+BRPayletterBilling_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBilling_def.h
+END
+_BRGameProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/_BRGameProtocol.h
+END
+BRPayletterBillingPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBillingPacket.cpp
+END
+LevelUpAuthManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/LevelUpAuthManager.cpp
+END
+BRPayletterBillingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBillingManager.cpp
+END
+BRPayletterBillingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/BRPayletterBillingPacket.h
+END
+SHA1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/BR/SHA1.cpp
+END

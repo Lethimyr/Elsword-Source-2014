@@ -1,0 +1,32 @@
+<html> <HEAD><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><CENTER> <TITLE>Log</TITLE> <H3><font color="#FFFF97">Log for 12/6/2007 18:54:1</font><br><br></CENTER> </HEAD>                           <BODY link="#FFFFFF" vlink="#FFFF97" alink="#FFFFFF" bgcolor="#000000">                                                                                       <br><hr><br><pre></font><font face="courier new" size="2" color="#FF0000">KBaseServer::LoadINIFile(), in !m_strMainVer[0].empty()    (D:\ProjectX2\X2Project\KncWX2Server\Common\BaseServer.cpp, 286)
+KBaseServer::LoadINIFile(), in !m_strMainVer[1].empty()    (D:\ProjectX2\X2Project\KncWX2Server\Common\BaseServer.cpp, 287)
+cerr : KStringTable::LoadIni(), 2007-06-12 18:54:01, 파일이 존재하지 않음
+    strFullFileName : D:\Depot_SVN\KncTools\KX2ServerLauncher\config_gs.ini
+    (D:\ProjectX2\X2Project\KncWX2Server\Common\StringTable.cpp, 66)
+cerr : KBaseServer::LoadINIFile(), 2007-06-12 18:54:01, INI 파일을 읽어 오지 못했습니다.
+    m_strIniFilePath : D:\Depot_SVN\KncTools\KX2ServerLauncher\config_gs.ini
+    (D:\ProjectX2\X2Project\KncWX2Server\Common\BaseServer.cpp, 294)
+cerr : KStringTable::FindSection(), 2007-06-12 18:54:01, 섹션이 존재하지 않음
+    szSectionName_ : String
+    (D:\ProjectX2\X2Project\KncWX2Server\Common\StringTable.cpp, 261)
+cerr : KStringTable::SetCurrentSection(), 2007-06-12 18:54:01, 섹션이 존재하지 않음
+    szSectionName_ : String
+    (D:\ProjectX2\X2Project\KncWX2Server\Common\StringTable.cpp, 145)
+KBaseServer::Init(), in 0 == lua_dofile( m_sptlua.get(), strLuaFileName.c_str() )    (D:\ProjectX2\X2Project\KncWX2Server\Common\BaseServer.cpp, 179)
+KGameServer::Init(), in KBaseServer::Init()    (D:\ProjectX2\X2Project\KncWX2Server\GameServer\GameServer.cpp, 85)
+cerr : KDBLayer::QueueingEvent(), 2007-06-12 18:54:07, Log DB Agent 가 없음.
+    (D:\ProjectX2\X2Project\KncWX2Server\Common\DBLayer.cpp, 165)
+</font><font face="courier new" size="2" color="#00FF00">cout : KGameServer::DestroyAllSession(), 2007-06-12 18:54:07, 현재 유저 : 0 명
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KProxyManager::Shutdown(), 2007-06-12 18:54:07, 
+    timer.elapsed() : 0.016
+    m_mapProxy.size() : 0
+</font><font face="courier new" size="2" color="#00FF00">cout : KGameServer::DestroyAllSession(), 2007-06-12 18:54:07, 
+    m_dwShutDownWait : 120000
+    bSuccess : true
+    bProxyShutdown : true
+    pkActorManager->GetCount() : 0
+    SiKDBLayer()->GetTotalEventNum() : 0
+    ::GetTickCount() - dwBeginTick : 16
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KDBLayer::ShutDown(), 2007-06-12 18:54:07, 
+    iRemainThreadNum : 0
+    timer.elapsed() : 0

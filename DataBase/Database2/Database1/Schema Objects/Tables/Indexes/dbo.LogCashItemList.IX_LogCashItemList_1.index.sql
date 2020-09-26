@@ -1,0 +1,3 @@
+﻿CREATE UNIQUE NONCLUSTERED INDEX [IX_LogCashItemList_1] ON [dbo].[LogCashItemList] ([ItemUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

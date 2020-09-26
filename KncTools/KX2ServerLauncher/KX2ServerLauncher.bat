@@ -1,0 +1,1 @@
+KX2ServerLauncher.exe D:\ProjectX2\X2Project\KncWX2Server\CenterServer\Debug\CenterServerD.exe D:\ProjectX2\X2Project\KncWX2Server\CenterServer\ D:\ProjectX2\X2Project\KncWX2Server\GameServer\Debug\GameServerD.exe D:\ProjectX2\X2Project\KncWX2Server\GameServer\

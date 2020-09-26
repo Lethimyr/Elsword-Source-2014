@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[QuestionBoard] ADD CONSTRAINT [PK_QuestionBoard] PRIMARY KEY CLUSTERED  ([no]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

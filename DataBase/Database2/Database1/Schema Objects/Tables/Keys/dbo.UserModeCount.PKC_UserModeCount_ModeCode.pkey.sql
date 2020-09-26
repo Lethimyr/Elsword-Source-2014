@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[UserModeCount] ADD CONSTRAINT [PKC_UserModeCount_ModeCode] PRIMARY KEY CLUSTERED  ([ModeCode]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

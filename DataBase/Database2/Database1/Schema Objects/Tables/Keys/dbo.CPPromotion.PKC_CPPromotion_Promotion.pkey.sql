@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[CPPromotion] ADD CONSTRAINT [PKC_CPPromotion_Promotion] PRIMARY KEY CLUSTERED  ([Promotion]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XSkinExp", "xskinexp.vcproj", "{B0985848-18A9-4865-A725-F70E45F1AFF7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SolutionUniqueID = {B3048A0D-83FA-424A-A5C1-1EED35F304D9}
+		SccProjectUniqueName1 = xskinexp.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B0985848-18A9-4865-A725-F70E45F1AFF7}.Debug.ActiveCfg = Debug|Win32
+		{B0985848-18A9-4865-A725-F70E45F1AFF7}.Debug.Build.0 = Debug|Win32
+		{B0985848-18A9-4865-A725-F70E45F1AFF7}.Release.ActiveCfg = Release|Win32
+		{B0985848-18A9-4865-A725-F70E45F1AFF7}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

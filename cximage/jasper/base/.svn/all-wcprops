@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base
+END
+jas_getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_getopt.c
+END
+jas_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_image.c
+END
+jas_tmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_tmr.c
+END
+jas_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_init.c
+END
+jas_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_version.c
+END
+jas_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_debug.c
+END
+jas_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_string.c
+END
+jas_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_malloc.c
+END
+jas_iccdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_iccdata.c
+END
+jas_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_seq.c
+END
+jas_tvp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_tvp.c
+END
+jas_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_stream.c
+END
+jas_icc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_icc.c
+END
+jas_cm.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/base/jas_cm.c
+END

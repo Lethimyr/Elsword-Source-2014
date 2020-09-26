@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GPointBagCalender] ADD
+CONSTRAINT [FK_GPointBagCalender_GPointBag] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[GPointBag] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

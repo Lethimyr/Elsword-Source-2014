@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/bmp
+END
+bmp_cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/bmp/bmp_cod.c
+END
+bmp_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/bmp/bmp_enc.c
+END
+bmp_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/bmp/bmp_cod.h
+END
+bmp_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/bmp/bmp_enc.h
+END
+bmp_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/bmp/bmp_dec.c
+END

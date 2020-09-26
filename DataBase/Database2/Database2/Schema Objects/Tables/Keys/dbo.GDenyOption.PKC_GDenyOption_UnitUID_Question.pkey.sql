@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GDenyOption] ADD CONSTRAINT [PKC_GDenyOption_UnitUID_Question] PRIMARY KEY CLUSTERED  ([UnitUID], [QuestionNo]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

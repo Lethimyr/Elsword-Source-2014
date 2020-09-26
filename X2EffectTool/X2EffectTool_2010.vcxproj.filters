@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{d0138b93-7a06-4b07-b998-54e234db5767}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\dll">
+      <UniqueIdentifier>{40510ccf-583c-4215-9939-817774f14993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{8033b193-7f85-41b5-9fd5-4c5058caa7ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SkillTreeTool">
+      <UniqueIdentifier>{e99015b4-0fc1-449f-bd60-7f60db2bfede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{c3040665-a489-4ba7-817f-272cc961e15b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{67053342-1cd8-454e-9bd1-c462b022247d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="MonsterTemplet.lua">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="XMeshPlayer_Test.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bdcap32.dll">
+      <Filter>Resource Files\dll</Filter>
+    </None>
+    <None Include="bdcore32.dll">
+      <Filter>Resource Files\dll</Filter>
+    </None>
+    <None Include="KncCrashRpt.dll">
+      <Filter>Resource Files\dll</Filter>
+    </None>
+    <None Include="MailMIME.dll">
+      <Filter>Resource Files\dll</Filter>
+    </None>
+    <None Include="MailSMTP.dll">
+      <Filter>Resource Files\dll</Filter>
+    </None>
+    <None Include="vcomp90.dll">
+      <Filter>Resource Files\dll</Filter>
+    </None>
+    <None Include="SkillTreeTool\DLG_TOOL_Skill_Info_Popup.lua">
+      <Filter>SkillTreeTool</Filter>
+    </None>
+    <None Include="SkillTreeTool\DLG_TOOL_Skill_List_Window.lua">
+      <Filter>SkillTreeTool</Filter>
+    </None>
+    <None Include="SkillTreeTool\DLG_Tool_SkillTreeMain.lua">
+      <Filter>SkillTreeTool</Filter>
+    </None>
+    <None Include="Particle_Test.txt" />
+    <None Include="ClassDiagram11.cd" />
+    <None Include="common\main_ico.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Elsword.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="common\icon2.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicExcel.hpp" />
+    <ClInclude Include="X2EffectToolMain.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="X2EffectToolFileManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectToolGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldToolObject.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkinAnimObject.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="X2EffectToolEditor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="X2EffectToolMeshEditor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="X2EffectToolParticleEditor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="X2WorldTool.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="X2WorldTool.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicExcel.cpp" />
+    <ClCompile Include="X2EffectToolMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X2EffectToolFileManager.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X2EffectTool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectToolGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldToolObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkinAnimObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X2EffectToolEditor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X2EffectToolMeshEditor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X2EffectToolParticleEditor.cpp" />
+  </ItemGroup>
+</Project>

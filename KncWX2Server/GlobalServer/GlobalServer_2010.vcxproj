@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug_EU|Win32">
+      <Configuration>Debug_EU</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug_HK|Win32">
+      <Configuration>Debug_HK</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug_IN|Win32">
+      <Configuration>Debug_IN</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug_JP|Win32">
+      <Configuration>Debug_JP</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug_TW|Win32">
+      <Configuration>Debug_TW</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IN_INTERNAL|Win32">
+      <Configuration>IN_INTERNAL</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IN_SERVICE|Win32">
+      <Configuration>IN_SERVICE</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IN_TEST|Win32">
+      <Configuration>IN_TEST</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>GlobalServer</ProjectName>
+    <ProjectGuid>{8826FB1B-6B3A-44CB-BA6F-F0848A763D7C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'">Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'">Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'">Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">Debug\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'">Debug\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">Debug\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'">Debug\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'">Debug\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">false</LinkIncremental>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <IncludePath Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Include;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0;..\KNCSDK\Include_2010;$(IncludePath)</IncludePath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">C:\Program Files\Microsoft DirectX SDK (June 2010)\Lib\x86;D:\ProjectX2_SVN\source\ExternalLib\Boost\boost_1_44_0\libs;..\KNCSDK\lib_2010;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName)D.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)$(ProjectName)D.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName)D.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)$(ProjectName)D.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_TW|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName)D.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)$(ProjectName)D.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName)D.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)$(ProjectName)D.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_HK|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName)D.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)$(ProjectName)D.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_JP|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName)D.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)$(ProjectName)D.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>
+      </OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <EntryPointSymbol>wWinMainCRTStartup</EntryPointSymbol>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>
+      </OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <EntryPointSymbol>wWinMainCRTStartup</EntryPointSymbol>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>
+      </OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <EntryPointSymbol>wWinMainCRTStartup</EntryPointSymbol>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>../Common;./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>
+      </OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <EntryPointSymbol>wWinMainCRTStartup</EntryPointSymbol>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GlobalServer.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon.ico" />
+    <None Include="..\Common\Mornitoring\ServerMornitoringConfig.lua" />
+    <None Include="config_gb.ini" />
+    <None Include="config_gb_KR_INTERNAL.lua" />
+    <None Include="config_gb_KR_OPEN_TEST.lua" />
+    <None Include="config_gb_KR_SERVICE.lua" />
+    <None Include="log_GAIA.dsn" />
+    <None Include="log_SOLES.dsn" />
+    <None Include="SMS.dsn" />
+    <None Include="WorldMissionConfig.lua" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Common\OnlyGlobal\EventID_Client_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\EventID_Server_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\EventID_System_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\ClientPacket_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\CommonPacket_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\ServerPacket_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\SystemPacket_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_BR.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_CN.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_EU.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_Global.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_ID.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_JP.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_TH.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_TWHK.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_US.h" />
+    <ClInclude Include="..\Common\ServerDefine.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="GlobalUser.h" />
+    <ClInclude Include="GlobalLogDBThread.h" />
+    <ClInclude Include="GlobalSMSDBThread.h" />
+    <ClInclude Include="GlobalNetLayer.h" />
+    <ClInclude Include="GlobalSimLayer.h" />
+    <ClInclude Include="..\Common\ActorFactory.h" />
+    <ClInclude Include="..\Common\ActorManager.h" />
+    <ClInclude Include="..\Common\BaseServer.h" />
+    <ClInclude Include="..\Common\KAutoPath.h" />
+    <ClInclude Include="..\Common\KFolderTraverse.h" />
+    <ClInclude Include="..\Common\KFtpWrapper.h" />
+    <ClInclude Include="..\Common\KLogReporter.h" />
+    <ClInclude Include="..\Common\KncSmartPtr.h" />
+    <ClInclude Include="..\Common\KncUidType.h" />
+    <ClInclude Include="..\Common\KStatisticsLocalLog.h" />
+    <ClInclude Include="..\Common\Lottery.h" />
+    <ClInclude Include="..\Common\ProxyManager.h" />
+    <ClInclude Include="..\Common\SecurityString.h" />
+    <ClInclude Include="..\Common\ServerLogManager.h" />
+    <ClInclude Include="..\Common\SimObject.h" />
+    <ClInclude Include="..\Common\Statistics.h" />
+    <ClInclude Include="..\Common\StatisticsID_def.h" />
+    <ClInclude Include="..\Common\StringTable.h" />
+    <ClInclude Include="..\Common\ThreadStatisticsManager.h" />
+    <ClInclude Include="..\Common\TSMEventProcess.h" />
+    <ClInclude Include="..\Common\CrashRpt\KncCrashRpt.h" />
+    <ClInclude Include="..\Common\FSM\FSMclass.h" />
+    <ClInclude Include="..\Common\FSM\FSMstate.h" />
+    <ClInclude Include="..\Common\FSM\support_FSM.h" />
+    <ClInclude Include="..\Common\DefaultFSM.h" />
+    <ClInclude Include="..\Common\DefaultFSMInput_def.h" />
+    <ClInclude Include="..\Common\DefaultFSMState_def.h" />
+    <ClInclude Include="..\Common\Actor.h" />
+    <ClInclude Include="..\Common\ActorProxy.h" />
+    <ClInclude Include="..\Common\Performer.h" />
+    <ClInclude Include="..\Common\Event.h" />
+    <ClInclude Include="..\Common\EventID_Client.h" />
+    <ClInclude Include="..\Common\EventID_Server.h" />
+    <ClInclude Include="..\Common\EventID_System.h" />
+    <ClInclude Include="..\Common\KncSend.h" />
+    <ClInclude Include="..\Common\NetError.h" />
+    <ClInclude Include="..\Common\NetError_def.h" />
+    <ClInclude Include="..\Common\DBLayer.h" />
+    <ClInclude Include="..\Common\NetLayer.h" />
+    <ClInclude Include="..\Common\SimLayer.h" />
+    <ClInclude Include="..\Common\ODBC\DBUtil.h" />
+    <ClInclude Include="..\Common\ODBC\Odbc.h" />
+    <ClInclude Include="..\Common\ClientPacket.h" />
+    <ClInclude Include="..\Common\CommonPacket.h" />
+    <ClInclude Include="..\Common\ServerPacket.h" />
+    <ClInclude Include="..\Common\SystemPacket.h" />
+    <ClInclude Include="..\Common\Socket\Accepter.h" />
+    <ClInclude Include="..\Common\Socket\CircularQueue.h" />
+    <ClInclude Include="..\Common\Socket\IOCP.h" />
+    <ClInclude Include="..\Common\Socket\IOThread.h" />
+    <ClInclude Include="..\Common\Socket\KTDNUDP.h" />
+    <ClInclude Include="..\Common\Socket\LBSUdpEcho.h" />
+    <ClInclude Include="..\Common\Socket\NetCommon.h" />
+    <ClInclude Include="..\Common\Socket\Overlapped.h" />
+    <ClInclude Include="..\Common\Socket\Session.h" />
+    <ClInclude Include="..\Common\Socket\SocketObject.h" />
+    <ClInclude Include="..\Common\Socket\UdpEcho.h" />
+    <ClInclude Include="..\Common\Socket\UdpToServer.h" />
+    <ClInclude Include="..\Common\Socket\X2Packet.h" />
+    <ClInclude Include="..\Common\DBConnectionInfo_def.h" />
+    <ClInclude Include="..\Common\DBThreadManager.h" />
+    <ClInclude Include="..\Common\SubThread.h" />
+    <ClInclude Include="..\Common\ThreadManager.h" />
+    <ClInclude Include="..\Common\ui\DBConnectionDlg.h" />
+    <ClInclude Include="..\Common\ui\EditLog.h" />
+    <ClInclude Include="..\Common\ui\EditStreamBuf.h" />
+    <ClInclude Include="..\Common\ui\HookStdio.h" />
+    <ClInclude Include="..\Common\ui\ServerApp.h" />
+    <ClInclude Include="..\Common\ui\ServerUIDlg.h" />
+    <ClInclude Include="..\Common\ui\stdafx.h" />
+    <ClInclude Include="..\Common\ui\SubclassWnd.h" />
+    <ClInclude Include="..\Common\X2Data\XSLCheckSumManager.h" />
+    <ClInclude Include="..\Common\X2Data\XSLDungeon.h" />
+    <ClInclude Include="..\Common\X2Data\XSLDungeonManager.h" />
+    <ClInclude Include="..\Common\X2Data\XSLDungeonStage.h" />
+    <ClInclude Include="..\Common\X2Data\XSLDungeonSubStage.h" />
+    <ClInclude Include="..\Common\X2Data\XSLGuildManager.h" />
+    <ClInclude Include="..\Common\X2Data\XSLGUNPCAI.h" />
+    <ClInclude Include="..\Common\X2Data\XSLInventory.h" />
+    <ClInclude Include="..\Common\X2Data\XSLItem.h" />
+    <ClInclude Include="..\Common\X2Data\XSLItemManager.h" />
+    <ClInclude Include="..\Common\X2Data\XSLMain.h" />
+    <ClInclude Include="..\Common\X2Data\XSLMapData.h" />
+    <ClInclude Include="..\Common\X2Data\XSLRoom.h" />
+    <ClInclude Include="..\Common\X2Data\XSLSkillTree.h" />
+    <ClInclude Include="..\Common\X2Data\XSLSquareGame.h" />
+    <ClInclude Include="..\Common\X2Data\XSLStat.h" />
+    <ClInclude Include="..\Common\X2Data\XSLUnit.h" />
+    <ClInclude Include="..\Common\X2Data\XSLUnitManager.h" />
+    <ClInclude Include="..\Common\X2Data\XSLUser.h" />
+    <ClInclude Include="..\Common\Lua\KLuaManager.h" />
+    <ClInclude Include="..\Common\XML\Markup.h" />
+    <ClInclude Include="..\Common\Enum\Enum.h" />
+    <ClInclude Include="..\Common\Room\RoomManager.h" />
+    <ClInclude Include="..\Common\Profiler\Profiler.h" />
+    <ClInclude Include="..\Common\Mornitoring\MornitoringManager.h" />
+    <ClInclude Include="..\Common\Mail\base64.h" />
+    <ClInclude Include="..\Common\Mail\MailManager.h" />
+    <ClInclude Include="..\Common\Mail\MailMIMEHeader.h" />
+    <ClInclude Include="..\Common\Mail\MailSMTPHeader.h" />
+    <ClInclude Include="..\Common\Mail\X2SMTPMail.h" />
+    <ClInclude Include="GlobalScriptRefreshManager.h" />
+    <ClInclude Include="GlobalScriptRefreshThread.h" />
+    <ClInclude Include="GlobalServer.h" />
+    <ClInclude Include="GlobalServerCCUManager.h" />
+    <ClInclude Include="UserList.h" />
+    <ClInclude Include="WorldMissionManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\ClientPacket_Global.cpp" />
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\CommonPacket_Global.cpp" />
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\ServerPacket_Global.cpp" />
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\SystemPacket_Global.cpp" />
+    <ClCompile Include="GlobalUser.cpp" />
+    <ClCompile Include="GlobalLogDBThread.cpp" />
+    <ClCompile Include="GlobalSMSDBThread.cpp" />
+    <ClCompile Include="GlobalNetLayer.cpp" />
+    <ClCompile Include="GlobalSimLayer.cpp" />
+    <ClCompile Include="..\Common\ActorManager.cpp" />
+    <ClCompile Include="..\Common\BaseServer.cpp" />
+    <ClCompile Include="..\Common\KAutoPath.cpp" />
+    <ClCompile Include="..\Common\KFolderTraverse.cpp" />
+    <ClCompile Include="..\Common\KFtpWrapper.cpp" />
+    <ClCompile Include="..\Common\KLogReporter.cpp" />
+    <ClCompile Include="..\Common\KncUidType.cpp" />
+    <ClCompile Include="..\Common\KStatisticsLocalLog.cpp" />
+    <ClCompile Include="..\Common\Lottery.cpp" />
+    <ClCompile Include="..\Common\ProxyManager.cpp" />
+    <ClCompile Include="..\Common\SecurityString.cpp" />
+    <ClCompile Include="..\Common\ServerLogManager.cpp" />
+    <ClCompile Include="..\Common\SimObject.cpp" />
+    <ClCompile Include="..\Common\Statistics.cpp" />
+    <ClCompile Include="..\Common\StringTable.cpp" />
+    <ClCompile Include="..\Common\ThreadStatisticsManager.cpp" />
+    <ClCompile Include="..\Common\TSMEventProcess.cpp" />
+    <ClCompile Include="..\Common\FSM\FSMclass.cpp" />
+    <ClCompile Include="..\Common\FSM\FSMstate.cpp" />
+    <ClCompile Include="..\Common\DefaultFSM.cpp" />
+    <ClCompile Include="..\Common\Actor.cpp" />
+    <ClCompile Include="..\Common\ActorProxy.cpp" />
+    <ClCompile Include="..\Common\Performer.cpp" />
+    <ClCompile Include="..\Common\Event.cpp" />
+    <ClCompile Include="..\Common\KncSend.cpp" />
+    <ClCompile Include="..\Common\NetError.cpp" />
+    <ClCompile Include="..\Common\DBLayer.cpp" />
+    <ClCompile Include="..\Common\NetLayer.cpp" />
+    <ClCompile Include="..\Common\SimLayer.cpp" />
+    <ClCompile Include="..\Common\ODBC\DBUtil.cpp" />
+    <ClCompile Include="..\Common\ODBC\Odbc.cpp" />
+    <ClCompile Include="..\Common\ClientPacket.cpp" />
+    <ClCompile Include="..\Common\CommonPacket.cpp" />
+    <ClCompile Include="..\Common\ServerPacket.cpp" />
+    <ClCompile Include="..\Common\SystemPacket.cpp" />
+    <ClCompile Include="..\Common\Socket\Accepter.cpp" />
+    <ClCompile Include="..\Common\Socket\CircularQueue.cpp" />
+    <ClCompile Include="..\Common\Socket\IOCP.cpp" />
+    <ClCompile Include="..\Common\Socket\IOThread.cpp" />
+    <ClCompile Include="..\Common\Socket\KTDNUDP.cpp" />
+    <ClCompile Include="..\Common\Socket\LBSUdpEcho.cpp" />
+    <ClCompile Include="..\Common\Socket\NetCommon.cpp" />
+    <ClCompile Include="..\Common\Socket\Session.cpp" />
+    <ClCompile Include="..\Common\Socket\SocketObject.cpp" />
+    <ClCompile Include="..\Common\Socket\UdpEcho.cpp" />
+    <ClCompile Include="..\Common\Socket\X2Packet.cpp" />
+    <ClCompile Include="..\Common\DBThreadManager.cpp" />
+    <ClCompile Include="..\Common\ThreadManager.cpp" />
+    <ClCompile Include="..\Common\ui\DBConnectionDlg.cpp" />
+    <ClCompile Include="..\Common\ui\EditLog.cpp" />
+    <ClCompile Include="..\Common\ui\HookStdio.cpp" />
+    <ClCompile Include="..\Common\ui\ServerApp.cpp" />
+    <ClCompile Include="..\Common\ui\ServerUIDlg.cpp" />
+    <ClCompile Include="..\Common\ui\stdafx.cpp" />
+    <ClCompile Include="..\Common\ui\SubclassWnd.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLCheckSumManager.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLDungeon.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLDungeonManager.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLDungeonStage.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLDungeonSubStage.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLGuildManager.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLGUNPCAI.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLInventory.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLItem.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLItemManager.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLMain.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLMapData.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLRoom.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLSkillTree.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLSquareGame.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLStat.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLUnit.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLUnitManager.cpp" />
+    <ClCompile Include="..\Common\X2Data\XSLUser.cpp" />
+    <ClCompile Include="..\Common\Lua\KLuaManager.cpp" />
+    <ClCompile Include="..\Common\XML\Markup.cpp" />
+    <ClCompile Include="..\Common\Room\RoomManager.cpp" />
+    <ClCompile Include="..\Common\Profiler\Profiler.cpp" />
+    <ClCompile Include="..\Common\Mornitoring\MornitoringManager.cpp" />
+    <ClCompile Include="..\Common\Mail\base64.cpp" />
+    <ClCompile Include="..\Common\Mail\MailManager.cpp" />
+    <ClCompile Include="..\Common\Mail\X2SMTPMail.cpp" />
+    <ClCompile Include="GlobalScriptRefreshManager.cpp" />
+    <ClCompile Include="GlobalScriptRefreshThread.cpp" />
+    <ClCompile Include="GlobalServer.cpp" />
+    <ClCompile Include="GlobalServerCCUManager.cpp" />
+    <ClCompile Include="UserList.cpp" />
+    <ClCompile Include="WorldMissionManager.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

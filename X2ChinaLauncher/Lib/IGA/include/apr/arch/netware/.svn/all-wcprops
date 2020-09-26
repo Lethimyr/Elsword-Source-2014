@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware
+END
+apr_arch_internal_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_internal_time.h
+END
+apr_arch_pre_nw.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_pre_nw.h
+END
+apr_arch_thread_cond.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_thread_cond.h
+END
+apr_arch_threadproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_threadproc.h
+END
+apr_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_private.h
+END
+apr_arch_networkio.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_networkio.h
+END
+apr_arch_global_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_global_mutex.h
+END
+apr_arch_dso.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_dso.h
+END
+apr_arch_proc_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_proc_mutex.h
+END
+apr_arch_file_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_file_io.h
+END
+apr_arch_thread_rwlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_thread_rwlock.h
+END
+apr_arch_thread_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/IGA/include/apr/arch/netware/apr_arch_thread_mutex.h
+END

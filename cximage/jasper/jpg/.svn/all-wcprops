@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg
+END
+jpg_jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_jpeglib.h
+END
+jpg_val.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_val.c
+END
+jpg_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_enc.c
+END
+jpg_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_cod.h
+END
+jpg_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_enc.h
+END
+jpg_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_dec.c
+END
+jpg_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/jpg_dummy.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jasper/jpg/README
+END

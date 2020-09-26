@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GMSMissionSystemMain] ADD
+CONSTRAINT [FK_GMSMissionSystemMain_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

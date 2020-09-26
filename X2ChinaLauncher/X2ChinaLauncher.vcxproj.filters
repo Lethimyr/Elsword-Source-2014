@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\tinyxml">
+      <UniqueIdentifier>{e48c50d2-2200-4145-bf94-786318c83354}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PngWindow">
+      <UniqueIdentifier>{8e6e9b89-10b5-452c-82c2-be159c3f5a13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ximage">
+      <UniqueIdentifier>{b2a5fe1c-6a2a-4920-a4b1-54cb8e974c63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\X2ChinaLauncher.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\X2ChinaLauncher.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\AccountButton.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\AccountButtonOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\BBS.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\BBSOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Close.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\CloseOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Guide.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\GuideOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Home.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\HomeOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Hot.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\LauncherBackground.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ManualPatch.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ManualPatchOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Minimize.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\MinimizeOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\New.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\open.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Paid.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\PaidOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\PatchAllProgress.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\PatchAllProgressBG.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\PatchCurProgress.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\PatchCurProgressBG.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ScrollBar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ScrollBarView.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ScrollElemenRightView.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ScrollElementLeftView.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ServerElementButtonDisabled.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ServerElementButtonDown.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ServerElementButtonSelected.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ServerElementButtonUp.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\StartDisable.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\StartEnable.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\StartOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Support.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\SupportOver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\rt_manif.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="X2ChinaLauncher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X2ChinaLauncherDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BannerDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoticeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PatchReadyDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="adler32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapScrollBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapScrollBarView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapScrollElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapScrollElementView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerElementButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KBrowserWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KNCSingleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KPCHWebBrowser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="patch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="patchthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml\tinyxml.h">
+      <Filter>Source Files\tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="PngWindow\PngWindow.h">
+      <Filter>PngWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="LauncherBackgroundData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LauncherBackgroundDataWeek1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LauncherBackgroundDataWeek2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="X2ChinaLauncher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="X2ChinaLauncherDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BannerDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoticeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PatchReadyDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Browser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="adler32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapScrollBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapScrollBarView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapScrollElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapScrollElementView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KBrowserWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KPCHWebBrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patchthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerElementButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp">
+      <Filter>Source Files\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp">
+      <Filter>Source Files\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxml.cpp">
+      <Filter>Source Files\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="PngWindow\PngWindow.cpp">
+      <Filter>PngWindow</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="X2ChinaLauncher.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="elsword.exe.MANIFEST" />
+  </ItemGroup>
+</Project>

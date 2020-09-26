@@ -1,0 +1,522 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53629106-C143-41EE-9194-1FC30CD0D540}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DBManager</RootNamespace>
+    <AssemblyName>DBManager</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttribEnchantItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttribEnchantItemAdd.Designer.cs">
+      <DependentUpon>AttribEnchantItemAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttribEnchantRequireAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttribEnchantRequireAdd.Designer.cs">
+      <DependentUpon>AttribEnchantRequireAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColumnManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColumnManager.Designer.cs">
+      <DependentUpon>ColumnManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExChangeTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExChangeTableAdd.Designer.cs">
+      <DependentUpon>ExChangeTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpTableAdd.Designer.cs">
+      <DependentUpon>ExpTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBManager.Designer.cs">
+      <DependentUpon>DBManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtering.Designer.cs">
+      <DependentUpon>Filtering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemAdd.Designer.cs">
+      <DependentUpon>ItemAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemTable.Designer.cs">
+      <DependentUpon>ItemTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinkListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LinkListView.Designer.cs">
+      <DependentUpon>LinkListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizationDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalizationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ManufactureResultGroupAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManufactureResultGroupAdd.Designer.cs">
+      <DependentUpon>ManufactureResultGroupAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManufactureTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManufactureTableAdd.Designer.cs">
+      <DependentUpon>ManufactureTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManufactureVillageAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManufactureVillageAdd.Designer.cs">
+      <DependentUpon>ManufactureVillageAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultiAdd.Designer.cs">
+      <DependentUpon>MultiAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NpcExtraAbilityAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NpcExtraAbilityAdd.Designer.cs">
+      <DependentUpon>NpcExtraAbilityAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuestTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestTable.Designer.cs">
+      <DependentUpon>QuestTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuestTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestTableAdd.Designer.cs">
+      <DependentUpon>QuestTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandomBoxTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandomBoxTableAdd.Designer.cs">
+      <DependentUpon>RandomBoxTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandomItemGroupAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandomItemGroupAdd.Designer.cs">
+      <DependentUpon>RandomItemGroupAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptData_HKDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScriptData_HKDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptData_JPDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScriptData_JPDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptData_TWDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScriptData_TWDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTable.Designer.cs">
+      <DependentUpon>SelectTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpTable.Designer.cs">
+      <DependentUpon>ExpTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchWindow.Designer.cs">
+      <DependentUpon>SearchWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AttribEnchantItemAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AttribEnchantItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttribEnchantRequireAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AttribEnchantRequireAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColumnManager.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ColumnManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExChangeTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExChangeTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExpTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBManager.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DBManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtering.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Filtering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LinkListView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LinkListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManufactureResultGroupAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManufactureResultGroupAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManufactureTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManufactureTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManufactureVillageAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManufactureVillageAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MultiAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NpcExtraAbilityAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NpcExtraAbilityAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QuestTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QuestTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandomBoxTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RandomBoxTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandomItemGroupAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RandomItemGroupAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SelectTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExpTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchWindow.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetItemAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillEnumAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SkillEnumAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SkillTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SkillTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SocketGroupAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SocketGroupAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SocketItemAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SocketItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SocketRandomAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SocketRandomAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialAbilityAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SpecialAbilityAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubQuestTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SubQuestTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubTitleMissionAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SubTitleMissionAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TitleMissionAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TitleMissionAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TitleTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TitleTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TitleTableAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TitleTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="LocalizationDataSet.xsc">
+      <DependentUpon>LocalizationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LocalizationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LocalizationDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LocalizationDataSet.xss">
+      <DependentUpon>LocalizationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ScriptData_HKDataSet.xsc">
+      <DependentUpon>ScriptData_HKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ScriptData_HKDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ScriptData_HKDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ScriptData_HKDataSet.xss">
+      <DependentUpon>ScriptData_HKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ScriptData_JPDataSet.xsc">
+      <DependentUpon>ScriptData_JPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ScriptData_JPDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ScriptData_JPDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ScriptData_JPDataSet.xss">
+      <DependentUpon>ScriptData_JPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ScriptData_TWDataSet.xsc">
+      <DependentUpon>ScriptData_TWDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ScriptData_TWDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ScriptData_TWDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ScriptData_TWDataSet.xss">
+      <DependentUpon>ScriptData_TWDataSet.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SetItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetItemAdd.Designer.cs">
+      <DependentUpon>SetItemAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillEnumAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillEnumAdd.Designer.cs">
+      <DependentUpon>SkillEnumAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillTable.Designer.cs">
+      <DependentUpon>SkillTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillTableAdd.Designer.cs">
+      <DependentUpon>SkillTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocketGroupAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SocketGroupAdd.Designer.cs">
+      <DependentUpon>SocketGroupAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocketItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SocketItemAdd.Designer.cs">
+      <DependentUpon>SocketItemAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocketRandomAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SocketRandomAdd.Designer.cs">
+      <DependentUpon>SocketRandomAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialAbilityAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialAbilityAdd.Designer.cs">
+      <DependentUpon>SpecialAbilityAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatTable.Designer.cs">
+      <DependentUpon>StatTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatTableAdd.Designer.cs">
+      <DependentUpon>StatTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubQuestTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubQuestTableAdd.Designer.cs">
+      <DependentUpon>SubQuestTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubTitleMissionAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubTitleMissionAdd.Designer.cs">
+      <DependentUpon>SubTitleMissionAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TitleMissionAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TitleMissionAdd.Designer.cs">
+      <DependentUpon>TitleMissionAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TitleTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TitleTable.Designer.cs">
+      <DependentUpon>TitleTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TitleTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TitleTableAdd.Designer.cs">
+      <DependentUpon>TitleTableAdd.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

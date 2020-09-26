@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions
+END
+dbo.zaLogin_LoginUID.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zaLogin_LoginUID.function.sql
+END
+dbo.zaLoginUID_Login.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zaLoginUID_Login.function.sql
+END
+dbo.fnWinRate.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.fnWinRate.function.sql
+END
+dbo.zdGrade_Win.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zdGrade_Win.function.sql
+END
+dbo.ufn_ranking_guildweek.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.ufn_ranking_guildweek.function.sql
+END
+dbo.IPs_IPn.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.IPs_IPn.function.sql
+END
+dbo.IPn_IPs.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.IPn_IPs.function.sql
+END
+dbo.fnTransformGrade.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.fnTransformGrade.function.sql
+END
+dbo.zaNick_Login.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zaNick_Login.function.sql
+END
+dbo.zaLogin_Nick.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zaLogin_Nick.function.sql
+END
+dbo.fnCalcLotto.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.fnCalcLotto.function.sql
+END
+dbo.zaLoginUID_Nick.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zaLoginUID_Nick.function.sql
+END
+dbo.zaNick_LoginUID.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zaNick_LoginUID.function.sql
+END
+dbo.fnLevelToExp.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.fnLevelToExp.function.sql
+END
+dbo.fnTransformGradePoint.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.fnTransformGradePoint.function.sql
+END
+dbo.zbExp_Level.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zbExp_Level.function.sql
+END
+dbo.zbLevel_Exp.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zbLevel_Exp.function.sql
+END
+dbo.zcGamePoint.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.zcGamePoint.function.sql
+END
+dbo.Grade.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.Grade.function.sql
+END
+dbo.ufn_ranking_guildday.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.ufn_ranking_guildday.function.sql
+END
+dbo.fnGetItemType.function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Functions/dbo.fnGetItemType.function.sql
+END

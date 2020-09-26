@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jasper", "jasper.vcproj", "{E256646B-89D2-4F64-A74A-DB0D38396AB6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		Unicode Debug = Unicode Debug
+		Unicode Release = Unicode Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Debug.ActiveCfg = Debug|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Debug.Build.0 = Debug|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Release.ActiveCfg = Release|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Release.Build.0 = Release|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Unicode Debug.ActiveCfg = Unicode Debug|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Unicode Debug.Build.0 = Unicode Debug|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Unicode Release.ActiveCfg = Unicode Release|Win32
+		{E256646B-89D2-4F64-A74A-DB0D38396AB6}.Unicode Release.Build.0 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

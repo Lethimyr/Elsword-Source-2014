@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/104968/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW
+END
+HenirData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/HenirData.lua
+END
+SecretDungeonData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/SecretDungeonData.lua
+END
+BadAttitudeTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/BadAttitudeTable.lua
+END
+DefenceDungeonData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/DefenceDungeonData.lua
+END
+WaitQueueData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/WaitQueueData.lua
+END
+ContentData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ContentData.lua
+END
+FieldBossData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/FieldBossData.lua
+END
+BillingConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/BillingConfig.lua
+END
+EDInventoryExpand.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/EDInventoryExpand.lua
+END
+MapData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/MapData.lua
+END
+CompanyIPTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/CompanyIPTable.lua
+END
+HenirChallangeReward.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/HenirChallangeReward.lua
+END
+FieldData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/FieldData.lua
+END
+FieldBonusDrop.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/FieldBonusDrop.lua
+END
+SubTitleOpenMission.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/SubTitleOpenMission.lua
+END
+ValenTineData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102645/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ValenTineData.lua
+END
+WorldMissionConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/WorldMissionConfig.lua
+END
+RecommendUserTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RecommendUserTable.lua
+END
+ResultData_new.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ResultData_new.lua
+END
+ManufactureResultTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/104820/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ManufactureResultTable.lua
+END
+PvpNpcData_EN.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PvpNpcData_EN.lua
+END
+RankingData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RankingData.lua
+END
+GameSysValTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/GameSysValTable.lua
+END
+ClassChangeTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ClassChangeTable.lua
+END
+PvpMatchResultTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PvpMatchResultTable.lua
+END
+ClassChangeMemo.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ClassChangeMemo.lua
+END
+AttribEnchantTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/AttribEnchantTable.lua
+END
+SMSPhoneNumberList.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/SMSPhoneNumberList.lua
+END
+PaymentItemTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/103385/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PaymentItemTable.lua
+END
+ResultData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ResultData.lua
+END
+ItemRandomSocket.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ItemRandomSocket.lua
+END
+ClassChangeSkill.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ClassChangeSkill.lua
+END
+DeleteItemData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/DeleteItemData.lua
+END
+DropTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/103938/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/DropTable.lua
+END
+CnHackingCheckData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/CnHackingCheckData.lua
+END
+PartyServerData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PartyServerData.lua
+END
+CashItemPrice.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/104834/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/CashItemPrice.lua
+END
+AttribAttachTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/AttribAttachTable.lua
+END
+KFLOAT_FUNC.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/KFLOAT_FUNC.lua
+END
+HenirSpecialNpcDrop.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/HenirSpecialNpcDrop.lua
+END
+DailyGiftBoxPackage.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/DailyGiftBoxPackage.lua
+END
+SynthesisTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/SynthesisTable.lua
+END
+RoomListData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RoomListData.lua
+END
+PvPDropTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PvPDropTable.lua
+END
+NpcExpTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/NpcExpTable.lua
+END
+RandomItemMapping.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RandomItemMapping.lua
+END
+EventData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104922/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/EventData.lua
+END
+HenirResultTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/HenirResultTable.lua
+END
+BingoEventInfo.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/BingoEventInfo.lua
+END
+AbuserList.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/AbuserList.lua
+END
+RidingPetData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RidingPetData.lua
+END
+PetData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104792/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PetData.lua
+END
+AutoPartyData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/AutoPartyData.lua
+END
+EventMonsterData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/103540/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/EventMonsterData.lua
+END
+CashItemData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/CashItemData.lua
+END
+RandomItemData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/104968/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RandomItemData.lua
+END
+ClassChangeItem.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ClassChangeItem.lua
+END
+ExpandPeriodItemData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ExpandPeriodItemData.lua
+END
+channels.lua
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/channels.lua
+END
+ClassChangeQuest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ClassChangeQuest.lua
+END
+PvpNpcData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PvpNpcData.lua
+END
+BattleFieldServerData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/BattleFieldServerData.lua
+END
+UdpRelayCheckerConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/UdpRelayCheckerConfig.lua
+END
+CorruptionMonitorConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/CorruptionMonitorConfig.lua
+END
+KeepItem.lua
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102194/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/KeepItem.lua
+END
+RandomItemTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/104962/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/RandomItemTable.lua
+END
+LogConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/LogConfig.lua
+END
+PvpMatchData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/104617/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/PvpMatchData.lua
+END
+SocketItemTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/SocketItemTable.lua
+END
+MiracleCubeTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/MiracleCubeTable.lua
+END
+StatTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/StatTable.lua
+END
+ServerMornitoringConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ServerMornitoringConfig.lua
+END
+StaticDropTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/104333/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/StaticDropTable.lua
+END
+ResolveTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/ResolveTable.lua
+END
+EnchantTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/103627/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/EnchantTable.lua
+END
+AttribNpcTable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/AttribNpcTable.lua
+END
+DropData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ServerResource/TW/DropData.lua
+END

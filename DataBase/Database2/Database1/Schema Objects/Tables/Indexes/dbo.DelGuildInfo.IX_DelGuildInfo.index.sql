@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IX_DelGuildInfo] ON [dbo].[DelGuildInfo] ([GuildName]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

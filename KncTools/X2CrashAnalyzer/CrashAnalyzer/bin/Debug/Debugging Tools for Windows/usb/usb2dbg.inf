@@ -1,0 +1,64 @@
+;---------------------------------------------------------------;
+;                                                               ;
+; USB2DBG.INF                                                   ;
+;                                                               ;
+; Device information file for using a USB 2.0                   ;
+;  debug connection device.                                     ;
+;                                                               ;
+;---------------------------------------------------------------;
+
+[Version]
+Signature="$CHICAGO$"
+Class=USB
+provider=%MSFT%
+DriverVer=12/13/2005,6.0.5268.0 
+CatalogFile=usb2dbg.cat
+
+[Manufacturer]
+%MfgName%=Microsoft
+
+[Microsoft]
+%USB\VID_3495&PID_00E0.DeviceDesc%=USB2DBG, USB\VID_3495&PID_00E0
+%USB\VID_0525&PID_127A.DeviceDesc%=USB2DBG, USB\VID_0525&PID_127A
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[DestinationDirs]
+USB2DBG.CopyList = 12
+
+[USB2DBG.NT]
+CopyFiles=USB2DBG.CopyList
+AddReg=USB2DBG.AddReg
+
+[USB2DBG.NT.Services]
+Addservice = USB2DBG, 0x00000002, USB2DBG.AddService
+
+[USB2DBG.AddService]
+DisplayName    = %USB2DBG.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\USB2DBG.SYS
+LoadOrderGroup = Base
+
+[USB2DBG.AddReg]
+
+[USB2DBG.CopyList]
+usb2dbg.sys
+
+[SourceDisksNames]
+1 = %USBdbg.Disk%,disk1,,,,,
+
+
+[SourceDisksFiles]
+usb2dbg.sys = 1,,,
+
+
+[Strings]
+MSFT="Microsoft"
+MfgName="Microsoft"
+USB2DBG.SvcDesc="USB 2.0 Debug Connection Driver"
+USB\VID_3495&PID_00E0.DeviceDesc="USB 2.0 Debug Connection Device"
+USB\VID_0525&PID_127A.DeviceDesc="USB 2.0 Debug Connection Device"
+USBdbg.Disk="USB 2.0 Debug Installation Disk" 

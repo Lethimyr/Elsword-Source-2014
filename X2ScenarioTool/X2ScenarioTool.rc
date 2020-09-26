@@ -1,0 +1,245 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어 resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_X2SCENARIOTOOL      ICON                    "X2ScenarioTool.ico"
+IDI_SMALL               ICON                    "small.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDC_X2SCENARIOTOOL MENU 
+BEGIN
+    POPUP "파일(&F)"
+    BEGIN
+        MENUITEM "끝내기(&X)",                  IDM_EXIT
+    END
+    POPUP "도움말(&H)"
+    BEGIN
+        MENUITEM "정보(&A)...",                 IDM_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDC_X2SCENARIOTOOL ACCELERATORS 
+BEGIN
+    "?",            IDM_ABOUT,              ASCII,  ALT
+    "/",            IDM_ABOUT,              ASCII,  ALT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG  22, 17, 230, 75
+STYLE DS_SETFONT | DS_MODALFRAME | WS_CAPTION | WS_SYSMENU
+CAPTION "정보"
+FONT 9, "System"
+BEGIN
+    ICON            IDI_X2SCENARIOTOOL,IDC_MYICON,14,9,16,16
+    LTEXT           "X2ScenarioTool 버전 1.0",IDC_STATIC,49,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2009",IDC_STATIC,49,20,119,8
+    DEFPUSHBUTTON   "확인",IDOK,195,6,30,11,WS_GROUP
+END
+
+IDD_DIALOG_RESOURCE DIALOGEX 0, 0, 186, 353
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+CAPTION "Resoruce"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_LIST1,"SysListView32",LVS_REPORT | LVS_SINGLESEL | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,7,172,305
+    LTEXT           "add file : drag and drop",IDC_STATIC,12,318,162,12
+    LTEXT           "del file : double click",IDC_STATIC,12,330,162,12
+END
+
+IDD_ACTION DIALOGEX 0, 0, 400, 300
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+CAPTION "Action list"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_TAB1,"SysTabControl32",TCS_BUTTONS,0,0,400,12
+END
+
+IDD_ACTION_TEX_IO DIALOGEX 25, 15, 350, 250
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_VISIBLE | WS_BORDER
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "이미지",IDC_STATIC,6,24,42,12
+    COMBOBOX        IDC_COMBO_SEL_IMAGE,48,24,162,102,CBS_DROPDOWN | 
+                    CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "사이즈",IDC_STATIC,6,54,30,12
+    EDITTEXT        IDC_EDIT_SIZE_X,48,54,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_SIZE_Y,108,54,40,14,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,92,54,12,12,SS_CENTERIMAGE
+    LTEXT           "위치",IDC_STATIC,6,78,30,12
+    EDITTEXT        IDC_EDIT_POS_X,48,78,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_POS_Y,108,78,40,14,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,92,78,12,12,SS_CENTERIMAGE
+    CTEXT           "[ 이미지 출력 ]",IDC_STATIC,6,6,108,12,SS_CENTERIMAGE
+    CTEXT           "[ 이미지 삭제 ]",IDC_STATIC,6,150,108,12,SS_CENTERIMAGE
+    LTEXT           "이미지",IDC_STATIC,6,168,42,12
+    COMBOBOX        IDC_COMBO_DEL_IMAGE,48,168,162,102,CBS_DROPDOWN | 
+                    CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "[액션] 이미지 추가",IDC_BTN_ADD_TEX,48,96,102,18
+    PUSHBUTTON      "[액션] 이미지 삭제",IDC_BTN_DEL_TEX,48,192,102,18
+END
+
+IDD_ACTION_TEXTURE_02 DIALOGEX 25, 15, 350, 250
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_BORDER
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "이미지 효과\n이미지 효과\n이미지 효과\n",IDC_STATIC,109,
+                    90,125,71
+END
+
+IDD_ACTION_LIST DIALOGEX 0, 0, 271, 402
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+CAPTION "Action Frame"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_LIST_ACTION,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,6,6,258,366
+END
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#define APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""windows.h""\r\n"
+    "#undef APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_DIALOG_RESOURCE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 330
+    END
+
+    IDD_ACTION, DIALOG
+    BEGIN
+        TOPMARGIN, 7
+    END
+
+    IDD_ACTION_TEX_IO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 343
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 243
+    END
+
+    IDD_ACTION_TEXTURE_02, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 343
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 243
+    END
+
+    IDD_ACTION_LIST, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 264
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 395
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_TITLE           "X2ScenarioTool"
+    IDC_X2SCENARIOTOOL      "X2SCENARIOTOOL"
+END
+
+#endif    // 한국어 resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

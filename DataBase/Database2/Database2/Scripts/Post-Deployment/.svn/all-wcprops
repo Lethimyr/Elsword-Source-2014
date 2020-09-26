@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment
+END
+Signatures.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment/Signatures.sql
+END
+RulesAndDefaults.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment/RulesAndDefaults.sql
+END
+DatabaseObjectOptions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment/DatabaseObjectOptions.sql
+END
+Script.PostDeployment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment/Script.PostDeployment.sql
+END
+Permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment/Permissions.sql
+END
+RoleMemberships.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Scripts/Post-Deployment/RoleMemberships.sql
+END

@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=warnet_acc
+DATABASE=NetmarbleWarnet
+WSID=ES_INTERNAL
+APP=Microsoft Data Access Components
+SERVER=182.16.248.103,21051
+PWD=pika!wrnt@

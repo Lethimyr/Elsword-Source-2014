@@ -1,0 +1,12 @@
+﻿CREATE PROCEDURE [dbo].[gup_get_quest_Repeat_complete_list]
+	@iUnitUID	bigint
+AS
+SET NOCOUNT ON;
+SET XACT_ABORT ON;
+
+
+SELECT DISTINCT(QUESTID)
+	FROM DBO.GQUESTS_REPEAT WITH (NOLOCK)
+		WHERE UNITUID = @iUnitUID
+
+

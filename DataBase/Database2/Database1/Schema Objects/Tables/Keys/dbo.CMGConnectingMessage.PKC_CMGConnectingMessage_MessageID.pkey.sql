@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[CMGConnectingMessage] ADD CONSTRAINT [PKC_CMGConnectingMessage_MessageID] PRIMARY KEY CLUSTERED  ([MessageID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

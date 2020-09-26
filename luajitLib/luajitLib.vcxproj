@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug_EU|Win32">
+      <Configuration>Debug_EU</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug_IN|Win32">
+      <Configuration>Debug_IN</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IN_INTERNAL|Win32">
+      <Configuration>IN_INTERNAL</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IN_SERVICE|Win32">
+      <Configuration>IN_SERVICE</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IN_TEST|Win32">
+      <Configuration>IN_TEST</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release_NoInterpreter|Win32">
+      <Configuration>Release_NoInterpreter</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="X2TOOL_Debug|Win32">
+      <Configuration>X2TOOL_Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="X2TOOL_Release|Win32">
+      <Configuration>X2TOOL_Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{7F92974D-40C2-43FD-A3D6-42BEFBD34A50}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>luajitLib</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release_NoInterpreter|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release_NoInterpreter|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)</TargetName>
+    <TargetExt>.lib</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Release|Win32'">
+    <OutDir>C:\buildtool\nant-0.94\bin</OutDir>
+    <TargetName>luajit</TargetName>
+    <TargetExt>.exe</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release_NoInterpreter|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)_NoInterpreter</TargetName>
+    <TargetExt>.lib</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)_NoInterpreter</TargetName>
+    <TargetExt>.lib</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)_NoInterpreter</TargetName>
+    <TargetExt>.lib</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)_NoInterpreter</TargetName>
+    <TargetExt>.lib</TargetExt>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)D</TargetName>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)D</TargetName>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)D</TargetName>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Debug|Win32'">
+    <OutDir>..\KTDXLIB\</OutDir>
+    <TargetName>$(ProjectName)D</TargetName>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_USE_LUAJIT_;WIN32;_DEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <StringPooling>false</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_USE_LUAJIT_;WIN32;_DEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <StringPooling>false</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_USE_LUAJIT_;WIN32;_DEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <StringPooling>false</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_USE_LUAJIT_;WIN32;_DEBUG;_CONSOLE;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <StringPooling>false</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_USE_LUAJIT_;WIN32;NDEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <EnableFiberSafeOptimizations>false</EnableFiberSafeOptimizations>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+      <StringPooling>true</StringPooling>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)luajit$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;lj_vm.obj;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_USE_LUAJIT_;WIN32;NDEBUG;_CONSOLE;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <EnableFiberSafeOptimizations>false</EnableFiberSafeOptimizations>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+      <StringPooling>true</StringPooling>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)luajit$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;lj_vm.obj;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release_NoInterpreter|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_USE_LUAJIT_;X2OPTIMIZE_REMOVE_LUA_INTERPRETER_MODULE;WIN32;NDEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <EnableFiberSafeOptimizations>false</EnableFiberSafeOptimizations>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+      <StringPooling>true</StringPooling>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)luajit$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;lj_vm.obj;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_USE_LUAJIT_;X2OPTIMIZE_REMOVE_LUA_INTERPRETER_MODULE;WIN32;NDEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <EnableFiberSafeOptimizations>false</EnableFiberSafeOptimizations>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+      <StringPooling>true</StringPooling>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)luajit$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;lj_vm.obj;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_USE_LUAJIT_;X2OPTIMIZE_REMOVE_LUA_INTERPRETER_MODULE;WIN32;NDEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <EnableFiberSafeOptimizations>false</EnableFiberSafeOptimizations>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+      <StringPooling>true</StringPooling>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)luajit$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;lj_vm.obj;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_USE_LUAJIT_;X2OPTIMIZE_REMOVE_LUA_INTERPRETER_MODULE;WIN32;NDEBUG;_LIB;_HAS_ITERATOR_DEBUGGING=0;_USE_32BIT_TIME_T;_CONVERT_VS_2010;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <EnableFiberSafeOptimizations>false</EnableFiberSafeOptimizations>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+      <StringPooling>true</StringPooling>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)luajit$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;lj_vm.obj;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>lj_vm.obj</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>./LuaJIT-2.0.2/src</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\LuaCommon\KLuabinder.cpp" />
+    <ClCompile Include="..\LuaCommon\KLuaManager.cpp" />
+    <ClCompile Include="..\LuaCommon\lua_tinker.cpp" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_aux.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_base.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_bit.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_debug.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_ffi.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_init.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_io.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_jit.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_math.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_os.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_package.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_string.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_table.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_alloc.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_api.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_asm.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_bc.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_bcread.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_bcwrite.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_carith.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ccall.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ccallback.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_cconv.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_cdata.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_char.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_clib.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_cparse.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_crecord.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ctype.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_debug.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_dispatch.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_err.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ffrecord.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_func.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_gc.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_gdbjit.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ir.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_lex.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_lib.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_load.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_mcode.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_meta.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_obj.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_dce.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_fold.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_loop.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_mem.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_narrow.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_sink.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_split.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_parse.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_record.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_snap.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_state.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_str.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_strscan.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_tab.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_trace.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_udata.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_vmevent.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_vmmath.c" />
+    <ClCompile Include="LuaJIT-2.0.2\src\luajit.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='X2TOOL_Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release_NoInterpreter|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='IN_SERVICE|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='IN_INTERNAL|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='IN_TEST|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug_EU|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug_IN|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\LuaCommon\KLuabinder.h" />
+    <ClInclude Include="..\LuaCommon\KLuaManager.h" />
+    <ClInclude Include="..\LuaCommon\LuaHeaderCommon.h" />
+    <ClInclude Include="..\LuaCommon\lua_tinker.h" />
+    <ClInclude Include="lua.hpp" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lauxlib.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_alloc.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_arch.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_arm.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_mips.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_ppc.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_x86.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_bc.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_bcdef.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_bcdump.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_carith.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ccall.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ccallback.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_cconv.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_cdata.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_char.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_clib.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_cparse.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_crecord.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ctype.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_debug.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_def.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_dispatch.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_arm.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_mips.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_ppc.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_x86.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_err.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_errmsg.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ff.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ffdef.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ffrecord.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_folddef.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_frame.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_func.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_gc.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_gdbjit.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ir.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ircall.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_iropt.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_jit.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_lex.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_lib.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_libdef.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_mcode.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_meta.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_obj.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_parse.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_recdef.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_record.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_snap.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_state.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_str.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_strscan.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_tab.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_arm.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_mips.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_ppc.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_x86.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_trace.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_traceerr.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_udata.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_vm.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_vmevent.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lua.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\luaconf.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\luajit.h" />
+    <ClInclude Include="LuaJIT-2.0.2\src\lualib.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Lib/OnlyGlobal/ID/NMClientAuthLib
+END
+NMClientAuthDLL_MTd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Lib/OnlyGlobal/ID/NMClientAuthLib/NMClientAuthDLL_MTd.lib
+END
+NMClientAuthLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Lib/OnlyGlobal/ID/NMClientAuthLib/NMClientAuthLib.h
+END
+NMClientAuthDLL_MT.lib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Lib/OnlyGlobal/ID/NMClientAuthLib/NMClientAuthDLL_MT.lib
+END

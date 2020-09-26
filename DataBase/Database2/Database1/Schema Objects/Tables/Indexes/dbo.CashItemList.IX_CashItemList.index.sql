@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IX_CashItemList] ON [dbo].[CashItemList] ([OwnerLoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

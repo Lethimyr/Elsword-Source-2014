@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Security/Users
+END
+Nexon.user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Security/Users/Nexon.user.sql
+END
+han_se.user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Security/Users/han_se.user.sql
+END
+elsword.user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Security/Users/elsword.user.sql
+END

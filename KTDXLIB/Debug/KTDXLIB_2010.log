@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  G:\Elsword\JP_TW_EU_CN_US\Trunk\KTDXLIB\KTDX.h(159): [NOTE] ktdx.h ÀÇ _IN_HOUSE_ ½ÇÇà!
+  DAMAGE_HISTORY, VIRTUALIZER_CODE°¡ Àû¿ëµË´Ï´Ù.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\KTDXLIB\KTDX.h(688,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory

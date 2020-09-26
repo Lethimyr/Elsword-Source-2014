@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[UAGUserAuthStatus] ADD
+CONSTRAINT [FK_UAGUserAuthStatus_UAGUserAuth] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[UAGUserAuth] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_ECEventChatWord_UID] ON [dbo].[ECEventChatWord] ([UID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

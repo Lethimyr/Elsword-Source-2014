@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[EAGExperienceAccount] ADD CONSTRAINT [PKC_EAGExperienceAccount_Login] PRIMARY KEY CLUSTERED  ([Login]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

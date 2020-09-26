@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GPost_Socket] ADD CONSTRAINT [PKC_GPost_Socket_PostNo] PRIMARY KEY CLUSTERED  ([PostNo]) ON [PRIMARY]
+
+

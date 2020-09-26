@@ -1,0 +1,3 @@
+﻿CREATE UNIQUE NONCLUSTERED INDEX [IXU_IndigoRank_Nick] ON [dbo].[IndigoRank] ([Nick]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

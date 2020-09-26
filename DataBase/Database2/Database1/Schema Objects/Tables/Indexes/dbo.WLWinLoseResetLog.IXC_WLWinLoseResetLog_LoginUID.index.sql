@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_WLWinLoseResetLog_LoginUID] ON [dbo].[WLWinLoseResetLog] ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

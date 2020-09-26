@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[PIGAPetInfoCharacter] ADD CONSTRAINT [PKC_PIGAPetInfoCharacter_PetUID_CharType] PRIMARY KEY CLUSTERED  ([PetUID], [CharType]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GTitle_Complete] ADD
+CONSTRAINT [FK_GTitle_Complete_GUnit_UnitUID] FOREIGN KEY ([UnitUID]) REFERENCES [dbo].[GUnit] ([UnitUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

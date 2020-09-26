@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit
+END
+dis_x64.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dis_x64.lua
+END
+dis_ppc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dis_ppc.lua
+END
+vmdef.lua
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/vmdef.lua
+END
+bcsave.lua
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/bcsave.lua
+END
+bc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/bc.lua
+END
+dis_x86.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dis_x86.lua
+END
+dump.lua
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dump.lua
+END
+v.lua
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/v.lua
+END
+dis_mips.lua
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dis_mips.lua
+END
+dis_mipsel.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dis_mipsel.lua
+END
+dis_arm.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/luajitLib/LuaJIT-2.0.2/src/jit/dis_arm.lua
+END

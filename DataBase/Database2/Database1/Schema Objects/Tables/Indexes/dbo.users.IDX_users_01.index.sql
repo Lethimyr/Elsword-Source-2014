@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IDX_users_01] ON [dbo].[users] ([firstLogin]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

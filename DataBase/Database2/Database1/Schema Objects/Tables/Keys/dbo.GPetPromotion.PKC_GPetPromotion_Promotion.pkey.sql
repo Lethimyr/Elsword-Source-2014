@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GPetPromotion] ADD CONSTRAINT [PKC_GPetPromotion_Promotion] PRIMARY KEY CLUSTERED  ([Promotion]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

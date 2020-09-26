@@ -1,0 +1,12 @@
+K 13
+svn:mergeinfo
+V 758
+/ES_INT/Branches/ES_CN/KncWX2Server/Common/OnlyGlobal/AuthAndBilling:76981-77156,77249,77273,79179,80287,89627-89628,89630,89806
+/ES_INT/Branches/ES_EU/KncWX2Server/Common/OnlyGlobal/AuthAndBilling:77312
+/ES_INT/Branches/ES_ID/KncWX2Server/Common/OnlyGlobal/AuthAndBilling:78574,78602-78603,79146
+/ES_INT/Branches/ES_TH/KncWX2Server/Common/OnlyGlobal/AuthAndBilling:81788
+/ES_INT/Branches/ES_TW/KncWX2Server/Common/OnlyGlobal/AuthAndBilling:77098,77194
+/KR/Branches/Defence_Dungeon/KncWX2Server/Common/OnlyGlobal/Auth:28039-28270
+/PH/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling:85988-86210,86508-86509,86520,86523,87126,87261,87617,87758,87861,88444,88465,88467-88468,88507,88528
+/TW/Trunk/KncWX2Server/Common/OnlyGlobal/Auth:8746,8754,8757,8809,8818
+END

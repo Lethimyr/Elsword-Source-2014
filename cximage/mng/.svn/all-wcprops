@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng
+END
+libmng_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_types.h
+END
+libmng_object_prc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_object_prc.c
+END
+libmng_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_display.h
+END
+libmng_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_read.c
+END
+libmng_object_prc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_object_prc.h
+END
+libmng_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_read.h
+END
+mng.vcproj.크르릉훈쓰.Hoons.user
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/mng.vcproj.%ED%81%AC%EB%A5%B4%EB%A6%89%ED%9B%88%EC%93%B0.Hoons.user
+END
+libmng_chunk_xs.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_xs.c
+END
+libmng_jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_jpeg.c
+END
+libmng.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng.h
+END
+libmng_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_error.c
+END
+libmng_jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_jpeg.h
+END
+libmng_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_conf.h
+END
+libmng_prop_xs.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_prop_xs.c
+END
+libmng_hlapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_hlapi.c
+END
+mng.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/mng.dsp
+END
+libmng_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_objects.h
+END
+libmng_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_error.h
+END
+libmng_chunk_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_io.c
+END
+libmng_zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_zlib.c
+END
+libmng_chunk_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_io.h
+END
+libmng_pixels.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_pixels.c
+END
+mng.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/mng.dsw
+END
+libmng_zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_zlib.h
+END
+libmng_callback_xs.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_callback_xs.c
+END
+libmng_pixels.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_pixels.h
+END
+mng.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/mng.vcproj
+END
+libmng_chunk_prc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_prc.c
+END
+libmng_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_memory.h
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/CHANGES.txt
+END
+libmng_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_data.h
+END
+libmng_dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_dither.c
+END
+libmng_chunk_prc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_prc.h
+END
+libmng_cms.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_cms.c
+END
+libmng_dither.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_dither.h
+END
+libmng_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_filter.c
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/LICENSE.txt
+END
+libmng_cms.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_cms.h
+END
+libmng_chunk_descr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_descr.c
+END
+libmng_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_filter.h
+END
+libmng_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_write.c
+END
+libmng_chunk_descr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunk_descr.h
+END
+libmng_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_trace.c
+END
+libmng_write.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_write.h
+END
+mng.vcproj.KOG.demiahun.user
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/mng.vcproj.KOG.demiahun.user
+END
+libmng_chunks.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_chunks.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/README.txt
+END
+libmng_trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_trace.h
+END
+libmng_display.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/mng/libmng_display.c
+END

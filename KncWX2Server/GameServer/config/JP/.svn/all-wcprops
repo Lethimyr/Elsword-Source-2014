@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/105187/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP
+END
+Account.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Account.dsn
+END
+game02_GAIA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/game02_GAIA.dsn
+END
+SMS.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/SMS.dsn
+END
+log_GAIA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/log_GAIA.dsn
+END
+Script.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104117/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Script.dsn
+END
+Account_NHN_JAPAN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Account_NHN_JAPAN_INTERNAL.dsn
+END
+Event_JP_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Event_JP_INTERNAL.dsn
+END
+config_gs_NHN_JAPAN_ALPHA.lua
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/104970/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/config_gs_NHN_JAPAN_ALPHA.lua
+END
+Billing_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Billing_INTERNAL.dsn
+END
+game01_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/game01_SOLES.dsn
+END
+config_gs_JP_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/config_gs_JP_INTERNAL.lua
+END
+ManagerDB.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/ManagerDB.dsn
+END
+Game01_NHN_JAPAN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Game01_NHN_JAPAN_INTERNAL.dsn
+END
+NXWeb.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/NXWeb.dsn
+END
+PCBang_ID_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/PCBang_ID_SERVICE.dsn
+END
+PCBang_ID_OPEN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/PCBang_ID_OPEN_TEST.dsn
+END
+log_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/log_SOLES.dsn
+END
+config_gs_NHN_JAPAN_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/eskr/source/!svn/ver/105187/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/config_gs_NHN_JAPAN_SERVICE.lua
+END
+Billing_NHN_JAPAN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Billing_NHN_JAPAN_INTERNAL.dsn
+END
+config_gs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/105006/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/config_gs.ini
+END
+Log_NHN_JAPAN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GameServer/config/JP/Log_NHN_JAPAN_INTERNAL.dsn
+END

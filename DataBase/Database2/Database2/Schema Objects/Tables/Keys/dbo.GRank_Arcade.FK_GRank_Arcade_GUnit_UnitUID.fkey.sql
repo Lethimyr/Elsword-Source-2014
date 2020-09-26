@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GRank_Arcade] ADD
+CONSTRAINT [FK_GRank_Arcade_GUnit_UnitUID] FOREIGN KEY ([UnitUID]) REFERENCES [dbo].[GUnit] ([UnitUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

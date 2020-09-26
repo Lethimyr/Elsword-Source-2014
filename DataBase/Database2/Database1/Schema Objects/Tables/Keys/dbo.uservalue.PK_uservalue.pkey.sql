@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[uservalue] ADD CONSTRAINT [PK_uservalue] PRIMARY KEY CLUSTERED  ([Date]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdatadst.c
+END
+Jpeg.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Jpeg.dsw
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdtrans.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jchuff.c
+END
+Jpeg.suo
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Jpeg.suo
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jchuff.h
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcparam.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jquant1.c
+END
+change.log
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/change.log
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcphuff.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jccolor.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdmarker.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jfdctflt.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jctrans.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jpegint.h
+END
+jpeg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jpeg.vcproj
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcprepct.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jutils.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdinput.c
+END
+Jpeg.vcproj.크르릉훈쓰.Hoons.user
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Jpeg.vcproj.%ED%81%AC%EB%A5%B4%EB%A6%89%ED%9B%88%EC%93%B0.Hoons.user
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jpeglib.h
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdapimin.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jddctmgr.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jerror.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jfdctfst.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jerror.h
+END
+filelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/filelist.txt
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcmaster.c
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jmemnobs.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdhuff.h
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcinit.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jquant2.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdct.h
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Readme.txt
+END
+Jpeg.vcproj.KOG.demiahun.user
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Jpeg.vcproj.KOG.demiahun.user
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdatasrc.c
+END
+Jpeg.sln
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Jpeg.sln
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdapistd.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jversion.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jidctint.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdmerge.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdphuff.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jidctred.c
+END
+Jpeg.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/Jpeg.dsp
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/cximage/jpeg/jdcolor.c
+END

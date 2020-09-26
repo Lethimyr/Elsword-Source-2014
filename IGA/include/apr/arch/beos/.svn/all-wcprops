@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos
+END
+apr_arch_thread_cond.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos/apr_arch_thread_cond.h
+END
+apr_arch_threadproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos/apr_arch_threadproc.h
+END
+apr_arch_dso.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos/apr_arch_dso.h
+END
+apr_arch_proc_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos/apr_arch_proc_mutex.h
+END
+apr_arch_thread_rwlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos/apr_arch_thread_rwlock.h
+END
+apr_arch_thread_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/IGA/include/apr/arch/beos/apr_arch_thread_mutex.h
+END

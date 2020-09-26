@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer
+END
+ByteOrder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/ByteOrder.cpp
+END
+SerDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerDefs.h
+END
+KeyedSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/KeyedSerializer.h
+END
+ByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/ByteOrder.h
+END
+BaseTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/BaseTypes.h
+END
+Serializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/Serializer.cpp
+END
+SerSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerSet.h
+END
+SerPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerPair.h
+END
+SerializeMacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerializeMacro.h
+END
+Serializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/Serializer.h
+END
+SerVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerVector.h
+END
+SerSTL.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerSTL.h
+END
+SerDeque.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerDeque.h
+END
+SerBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerBuffer.cpp
+END
+SerBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerBuffer.h
+END
+SerList.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerList.h
+END
+SerMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KNCSDK/Include/Serializer/SerMap.h
+END

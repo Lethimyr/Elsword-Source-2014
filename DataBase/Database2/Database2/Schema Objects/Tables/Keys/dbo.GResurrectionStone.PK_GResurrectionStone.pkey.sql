@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GResurrectionStone] ADD CONSTRAINT [PK_GResurrectionStone] PRIMARY KEY CLUSTERED  ([UnitUID]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

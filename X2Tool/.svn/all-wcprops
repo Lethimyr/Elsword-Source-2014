@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool
+END
+ParticleList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ParticleList.cpp
+END
+ViewTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ViewTree.h
+END
+LineCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineCamera.cpp
+END
+X2Tool.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.vcxproj
+END
+SkinButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/SkinButton.h
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/Global.h
+END
+XComboBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XComboBox.h
+END
+XHeaderCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XHeaderCtrl.cpp
+END
+X2Tool.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.vcxproj.filters
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/targetver.h
+END
+TriggerEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/TriggerEdit.cpp
+END
+OutputWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/OutputWnd.cpp
+END
+X2EnumManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2EnumManager.cpp
+END
+X2Tool.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.rc
+END
+XSpinBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XSpinBox.h
+END
+SelectToolUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/SelectToolUnit.h
+END
+X2ToolDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2ToolDoc.h
+END
+XEditBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XEditBox.cpp
+END
+X2ToolView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2ToolView.h
+END
+DefaultCursor.cur
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/DefaultCursor.cur
+END
+MemDC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/MemDC.h
+END
+LineStartPosition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineStartPosition.cpp
+END
+X2Tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.h
+END
+XListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XListCtrl.h
+END
+UserImages.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/UserImages.bmp
+END
+X2ToolMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2ToolMain.h
+END
+ToolStartNotice.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ToolStartNotice.h
+END
+CameraInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/CameraInfo.cpp
+END
+LineCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineCamera.h
+END
+PropertiesWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/PropertiesWnd.h
+END
+FileView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/FileView.cpp
+END
+LineSector.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineSector.h
+END
+SelectToolUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/SelectToolUnit.cpp
+END
+X2ToolDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2ToolDoc.cpp
+END
+DungeonInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/DungeonInfo.h
+END
+DungeonDataDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/DungeonDataDlg.cpp
+END
+TriggerFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/TriggerFunc.h
+END
+X2Tool.exe
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.exe
+END
+X2Tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.cpp
+END
+X2Tool.aps
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.aps
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ReadMe.txt
+END
+MeshCategory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/MeshCategory.cpp
+END
+XEditBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XEditBox.h
+END
+ToolStartNotice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ToolStartNotice.cpp
+END
+TriggerPropertiesWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/TriggerPropertiesWnd.h
+END
+CalendarBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/CalendarBar.cpp
+END
+LineBaseEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineBaseEditor.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/stdafx.h
+END
+LineStartPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineStartPosition.h
+END
+ToolDungeonMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ToolDungeonMap.h
+END
+ClassView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ClassView.cpp
+END
+EditWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/EditWorld.h
+END
+PropertiesWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/PropertiesWnd.cpp
+END
+LineStartPositionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineStartPositionInfo.cpp
+END
+LineSector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineSector.cpp
+END
+CameraInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/CameraInfo.h
+END
+EditDungeon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/EditDungeon.h
+END
+DungeonInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/DungeonInfo.cpp
+END
+NpcList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/NpcList.cpp
+END
+XDateBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XDateBox.cpp
+END
+TriggerFunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/TriggerFunc.cpp
+END
+FileView.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/FileView.h
+END
+SkinDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/SkinDialog.cpp
+END
+DungeonDataDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/DungeonDataDlg.h
+END
+UserProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/UserProperty.h
+END
+TriggerPropertiesWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/TriggerPropertiesWnd.cpp
+END
+LineBaseEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineBaseEditor.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/stdafx.cpp
+END
+ViewTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ViewTree.cpp
+END
+ToolDungeonMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ToolDungeonMap.cpp
+END
+MachineIdLib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/MachineIdLib.lib
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/resource.h
+END
+EditWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/EditWorld.cpp
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/MainFrm.h
+END
+MeshCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/MeshCategory.h
+END
+SkinButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/SkinButton.cpp
+END
+Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/Global.cpp
+END
+XComboBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XComboBox.cpp
+END
+CalendarBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/CalendarBar.h
+END
+ParticleList.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ParticleList.h
+END
+EditDungeon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/EditDungeon.cpp
+END
+ClassView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ClassView.h
+END
+X2Tool.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.pdb
+END
+XHeaderCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XHeaderCtrl.h
+END
+XSpinBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XSpinBox.cpp
+END
+LineStartPositionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/LineStartPositionInfo.h
+END
+X2Tool.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2Tool.vcxproj.user
+END
+TriggerEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/TriggerEdit.h
+END
+OutputWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/OutputWnd.h
+END
+X2EnumManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2EnumManager.h
+END
+NpcList.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/NpcList.h
+END
+ToolEnumDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/ToolEnumDefine.h
+END
+X2ToolView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2ToolView.cpp
+END
+UserProperty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/UserProperty.cpp
+END
+XDateBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XDateBox.h
+END
+XListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/XListCtrl.cpp
+END
+SkinDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/SkinDialog.h
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/MainFrm.cpp
+END
+X2ToolMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2Tool/X2ToolMain.cpp
+END

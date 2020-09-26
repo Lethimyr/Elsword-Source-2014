@@ -1,0 +1,1301 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables
+END
+dbo.IndigoSupplyLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoSupplyLog.table.sql
+END
+dbo.CashItemList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CashItemList.table.sql
+END
+dbo.EPGAEventPerfectMode.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfectMode.table.sql
+END
+dbo.RecommenderList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RecommenderList.table.sql
+END
+dbo.STGSkillTreeSetEquip.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STGSkillTreeSetEquip.table.sql
+END
+dbo.GoodsObjectList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GoodsObjectList.table.sql
+END
+dbo.CPDailyCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CPDailyCount.table.sql
+END
+dbo.LimitGamePlay.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LimitGamePlay.table.sql
+END
+dbo.WIItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WIItem.table.sql
+END
+dbo.GPointBagAttendance.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagAttendance.table.sql
+END
+dbo.TEGTimerEventItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TEGTimerEventItem.table.sql
+END
+dbo.UAGUserAuthStatus.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UAGUserAuthStatus.table.sql
+END
+dbo.AdminDelDurationItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.AdminDelDurationItem.table.sql
+END
+dbo.EPGAEventPerfectCharacter.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfectCharacter.table.sql
+END
+dbo.DelGuildInfo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.DelGuildInfo.table.sql
+END
+dbo.SUTUserTraceCharacter.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SUTUserTraceCharacter.table.sql
+END
+dbo.Agreement.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.Agreement.table.sql
+END
+dbo.GNGAGameNotice.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GNGAGameNotice.table.sql
+END
+dbo.LogProcCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LogProcCount.table.sql
+END
+dbo.QuestionBoard.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.QuestionBoard.table.sql
+END
+dbo.GPointBagItemPart.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagItemPart.table.sql
+END
+dbo.GoodsInfoList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GoodsInfoList.table.sql
+END
+dbo.EventLottoP.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EventLottoP.table.sql
+END
+dbo.IndigoRank.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoRank.table.sql
+END
+dbo.CashPackageInfoDetailList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CashPackageInfoDetailList.table.sql
+END
+dbo.RGRRankGrandchaserExp.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserExp.table.sql
+END
+dbo.GMSMissionSystemUniqueLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GMSMissionSystemUniqueLog.table.sql
+END
+dbo.EALExperienceAccount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EALExperienceAccount.table.sql
+END
+dbo.GEIEquipItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GEIEquipItem.table.sql
+END
+dbo.RGRRankGrandchaserWeekly_old.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserWeekly_old.table.sql
+END
+dbo.WIExhaustionType.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WIExhaustionType.table.sql
+END
+dbo.GPointBagItemLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagItemLog.table.sql
+END
+dbo.GMessageName.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GMessageName.table.sql
+END
+dbo.GPet.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPet.table.sql
+END
+dbo.GMSMissionSystemLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GMSMissionSystemLog.table.sql
+END
+dbo.RSGRecommendSystemE.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RSGRecommendSystemE.table.sql
+END
+dbo.CashPackageInfoList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CashPackageInfoList.table.sql
+END
+dbo.UALUserAuth.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UALUserAuth.table.sql
+END
+dbo.UserPCBangCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UserPCBangCount.table.sql
+END
+dbo.GuildUserState.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GuildUserState.table.sql
+END
+dbo.CSGACoupleSystemCharacter.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACoupleSystemCharacter.table.sql
+END
+dbo.GIIIndigoIslandRank.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GIIIndigoIslandRank.table.sql
+END
+dbo.ESantaDate.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESantaDate.table.sql
+END
+dbo.LogNickNames.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LogNickNames.table.sql
+END
+dbo.GGGAGameGameBuyCountData.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GGGAGameGameBuyCountData.table.sql
+END
+dbo.CashItemDetailList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CashItemDetailList.table.sql
+END
+dbo.TDNDataNo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TDNDataNo.table.sql
+END
+dbo.CPCharacter.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CPCharacter.table.sql
+END
+dbo.EPEventPerfect.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPEventPerfect.table.sql
+END
+dbo.ESantaEventUID.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESantaEventUID.table.sql
+END
+dbo.StatPlayTime.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatPlayTime.table.sql
+END
+dbo.EAGExperienceAccount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EAGExperienceAccount.table.sql
+END
+dbo.CMGConnectingMessage.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CMGConnectingMessage.table.sql
+END
+dbo.RGRRankGrandchaserMonthly.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserMonthly.table.sql
+END
+dbo.ComicBookCouponList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ComicBookCouponList.table.sql
+END
+dbo.DurationItemObjectList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.DurationItemObjectList.table.sql
+END
+dbo.TELTimerEvent.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TELTimerEvent.table.sql
+END
+dbo.IndigoBesta.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoBesta.table.sql
+END
+dbo.FHInviteInfo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.FHInviteInfo.table.sql
+END
+dbo.CGGAContributionGP.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CGGAContributionGP.table.sql
+END
+dbo.STGSkillTreeSet.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STGSkillTreeSet.table.sql
+END
+dbo.ESantaItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESantaItem.table.sql
+END
+dbo.VCLVirtualCash.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.VCLVirtualCash.table.sql
+END
+dbo.RGRRankGrandchaserDaily.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserDaily.table.sql
+END
+dbo.CSGACoupleSystemMessage.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACoupleSystemMessage.table.sql
+END
+dbo.TCGTitleCollectionMain.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TCGTitleCollectionMain.table.sql
+END
+dbo.ClientChecksum.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ClientChecksum.table.sql
+END
+dbo.RecommenderLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RecommenderLog.table.sql
+END
+dbo.GPetEquip.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetEquip.table.sql
+END
+dbo.ConnectStatusDB.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ConnectStatusDB.table.sql
+END
+dbo.SILStrongItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SILStrongItem.table.sql
+END
+dbo.UEGAUserEquipItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UEGAUserEquipItem.table.sql
+END
+dbo.WISupplier.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WISupplier.table.sql
+END
+dbo.GStrongItemLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GStrongItemLog.table.sql
+END
+dbo.GPetPromotion.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetPromotion.table.sql
+END
+dbo.GPointBagCalender.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagCalender.table.sql
+END
+dbo.NickNames.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.NickNames.table.sql
+END
+dbo.IndigoOpenTime.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoOpenTime.table.sql
+END
+dbo.IndigoSupplyItemByRank.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoSupplyItemByRank.table.sql
+END
+dbo.CSGACoupleSystemWarehouse.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACoupleSystemWarehouse.table.sql
+END
+dbo.EPGAEventPerfectServer.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfectServer.table.sql
+END
+dbo.LogCashItemDetailList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LogCashItemDetailList.table.sql
+END
+dbo.WIUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WIUser.table.sql
+END
+dbo.GuildInfo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GuildInfo.table.sql
+END
+dbo.CMGConnectingMessageUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CMGConnectingMessageUser.table.sql
+END
+dbo.PIGAPetInfoCharacter.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.PIGAPetInfoCharacter.table.sql
+END
+dbo.SCLCharacterLevelStat.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SCLCharacterLevelStat.table.sql
+END
+dbo.RCRRankCharacterCollect.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RCRRankCharacterCollect.table.sql
+END
+dbo.VCGAVirtualCash.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.VCGAVirtualCash.table.sql
+END
+dbo.GGGGameGameUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GGGGameGameUser.table.sql
+END
+dbo.EventLottoU.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EventLottoU.table.sql
+END
+dbo.StatPCBangIPCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatPCBangIPCount.table.sql
+END
+dbo.WIIssue.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WIIssue.table.sql
+END
+dbo.WLWinLoseResetLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WLWinLoseResetLog.table.sql
+END
+dbo.GPetEquipHackDetection.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetEquipHackDetection.table.sql
+END
+dbo.SUTUserTrace.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SUTUserTrace.table.sql
+END
+dbo.CSGACoupleSystem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACoupleSystem.table.sql
+END
+dbo.ComicBookCouponType.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ComicBookCouponType.table.sql
+END
+dbo.CSGACoupleSystemEquip.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACoupleSystemEquip.table.sql
+END
+dbo.RCRRankCharacterAbuse.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RCRRankCharacterAbuse.table.sql
+END
+dbo.UNGAUserNickname.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UNGAUserNickname.table.sql
+END
+dbo.CSGACheckSum.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACheckSum.table.sql
+END
+dbo.IndigoSupplyItemByRP.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoSupplyItemByRP.table.sql
+END
+dbo.AdminInsertNormalItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.AdminInsertNormalItem.table.sql
+END
+dbo.PIGAPetInfoCostume.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.PIGAPetInfoCostume.table.sql
+END
+dbo.TCGTitleCollectionSub.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TCGTitleCollectionSub.table.sql
+END
+dbo.EPGAEventPerfectItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfectItem.table.sql
+END
+dbo.IndigoUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoUser.table.sql
+END
+dbo.GPointBag.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBag.table.sql
+END
+dbo.ESanta.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESanta.table.sql
+END
+dbo.ESantaUserType.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESantaUserType.table.sql
+END
+dbo.RSGRecommendSystemR.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RSGRecommendSystemR.table.sql
+END
+dbo.CashItemDisplayList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CashItemDisplayList.table.sql
+END
+dbo.EPGAEventPerfectLevel.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfectLevel.table.sql
+END
+dbo.STGSkillTreeSP.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STGSkillTreeSP.table.sql
+END
+dbo.GInventoryInfo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GInventoryInfo.table.sql
+END
+dbo.tbl_Event_SnowCoinCollected.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.tbl_Event_SnowCoinCollected.table.sql
+END
+dbo.MGGMiniGame.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.MGGMiniGame.table.sql
+END
+dbo.Notice.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.Notice.table.sql
+END
+dbo.GInventoryInfoLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GInventoryInfoLog.table.sql
+END
+dbo.LSGLoginServerConnectStatus.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LSGLoginServerConnectStatus.table.sql
+END
+dbo.StatStatistics.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatStatistics.table.sql
+END
+dbo.WIPropertyType.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WIPropertyType.table.sql
+END
+dbo.DelGuildUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.DelGuildUser.table.sql
+END
+dbo.GC_PCBANG_IP.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GC_PCBANG_IP.table.sql
+END
+dbo.DescModeCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.DescModeCount.table.sql
+END
+dbo.GPointBagLuckyDayItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagLuckyDayItem.table.sql
+END
+dbo.GStrongItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GStrongItem.table.sql
+END
+dbo.GPetNameLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetNameLog.table.sql
+END
+dbo.FHInviteTemp.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.FHInviteTemp.table.sql
+END
+dbo.AdminInsertDurationItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.AdminInsertDurationItem.table.sql
+END
+dbo.PackageInfoList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.PackageInfoList.table.sql
+END
+dbo.EventLottoB.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EventLottoB.table.sql
+END
+dbo.BEStatBillingErrorCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.BEStatBillingErrorCount.table.sql
+END
+dbo.GPetPromotionLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetPromotionLog.table.sql
+END
+dbo.ESantaLimitDate.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESantaLimitDate.table.sql
+END
+dbo.CheckList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CheckList.table.sql
+END
+dbo.ESantaUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ESantaUser.table.sql
+END
+dbo.IndigoReward.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoReward.table.sql
+END
+dbo.Characters.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.Characters.table.sql
+END
+dbo.ItemPriceByPeriod.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ItemPriceByPeriod.table.sql
+END
+dbo.StatClientErrReport.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatClientErrReport.table.sql
+END
+dbo.EventLottoN.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EventLottoN.table.sql
+END
+dbo.IndigoRank_old.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoRank_old.table.sql
+END
+dbo.RGRRankGrandchaserExp_old.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserExp_old.table.sql
+END
+dbo.EPEventPerfectMode.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPEventPerfectMode.table.sql
+END
+dbo.STLSkillTreeSP.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STLSkillTreeSP.table.sql
+END
+dbo.EventLottoR.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EventLottoR.table.sql
+END
+dbo.EPGAEventPerfect.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfect.table.sql
+END
+dbo.CSGACoupleSystemCheck.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CSGACoupleSystemCheck.table.sql
+END
+dbo.IndigoSupplyType.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoSupplyType.table.sql
+END
+dbo.GlobalVariables.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GlobalVariables.table.sql
+END
+dbo.RGRRankGrandchaserWeekly.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserWeekly.table.sql
+END
+dbo.STGSkillTreeGroup.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STGSkillTreeGroup.table.sql
+END
+dbo.STGSkillTreeID.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STGSkillTreeID.table.sql
+END
+dbo.StatModeCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatModeCount.table.sql
+END
+dbo.LogCashItemList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LogCashItemList.table.sql
+END
+dbo.UAGUserAuthDate.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UAGUserAuthDate.table.sql
+END
+dbo.NMWNetMarbleGoodsInfoList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.NMWNetMarbleGoodsInfoList.table.sql
+END
+dbo.ComicBookItemInfo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ComicBookItemInfo.table.sql
+END
+dbo.users.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.users.table.sql
+END
+dbo.GPointBagRecommend.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagRecommend.table.sql
+END
+dbo.BEDataBillingErrorCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.BEDataBillingErrorCount.table.sql
+END
+dbo.StatP2PFailRate.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatP2PFailRate.table.sql
+END
+dbo.guild_log.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.guild_log.table.sql
+END
+dbo.RecommenderPointList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RecommenderPointList.table.sql
+END
+dbo.GMSMissionSystemSub.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GMSMissionSystemSub.table.sql
+END
+dbo.ComicBookReceiveUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ComicBookReceiveUser.table.sql
+END
+dbo.FHInviteUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.FHInviteUser.table.sql
+END
+dbo.SDGAServerDataInteger.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SDGAServerDataInteger.table.sql
+END
+dbo.GStrongItemInfo.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GStrongItemInfo.table.sql
+END
+dbo.RCRRankCharacter.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RCRRankCharacter.table.sql
+END
+dbo.RGRRankGrandchaserMonthly_old.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserMonthly_old.table.sql
+END
+dbo.UGGAUserGameClear.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UGGAUserGameClear.table.sql
+END
+dbo.WebEventCouponPatterns.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WebEventCouponPatterns.table.sql
+END
+dbo.RGRRankGrandchaserDaily_old.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RGRRankGrandchaserDaily_old.table.sql
+END
+dbo.GMessage.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GMessage.table.sql
+END
+dbo.TCGTitleCollection.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TCGTitleCollection.table.sql
+END
+dbo.UserModeCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UserModeCount.table.sql
+END
+dbo.SIGStrongItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SIGStrongItem.table.sql
+END
+dbo.STLSkillTreeID.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.STLSkillTreeID.table.sql
+END
+dbo.GPetLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetLog.table.sql
+END
+dbo.GMSMissionSystemMain.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GMSMissionSystemMain.table.sql
+END
+dbo.GuildUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GuildUser.table.sql
+END
+dbo.WebEventCoupon.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WebEventCoupon.table.sql
+END
+dbo.GUserAuthValue.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GUserAuthValue.table.sql
+END
+dbo.RecommenderItemList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RecommenderItemList.table.sql
+END
+dbo.uservalue.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.uservalue.table.sql
+END
+dbo.SDGAServerDataIntegerUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.SDGAServerDataIntegerUser.table.sql
+END
+dbo.TotalConnectUsers.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TotalConnectUsers.table.sql
+END
+dbo.IndigoRewardLog.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.IndigoRewardLog.table.sql
+END
+dbo.GPointBagMonth.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagMonth.table.sql
+END
+dbo.StatNewUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatNewUser.table.sql
+END
+dbo.PBGAPoingBagReward.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.PBGAPoingBagReward.table.sql
+END
+dbo.DQSTDbQueue.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.DQSTDbQueue.table.sql
+END
+dbo.StatPCBangLoginCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.StatPCBangLoginCount.table.sql
+END
+dbo.DQSTDbQueueTotal.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.DQSTDbQueueTotal.table.sql
+END
+dbo.RSGRecommendSystem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.RSGRecommendSystem.table.sql
+END
+dbo.GuildShieldUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GuildShieldUser.table.sql
+END
+dbo.UAGUserAuth.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.UAGUserAuth.table.sql
+END
+dbo.EventMobileShop.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EventMobileShop.table.sql
+END
+dbo.AdminDelNormalItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.AdminDelNormalItem.table.sql
+END
+dbo.LogWebEventCoupon.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.LogWebEventCoupon.table.sql
+END
+dbo.CPStatCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CPStatCount.table.sql
+END
+dbo.EPGAEventPerfectParty.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.EPGAEventPerfectParty.table.sql
+END
+dbo.CPPromotion.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.CPPromotion.table.sql
+END
+dbo.GLBLifeBonus.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GLBLifeBonus.table.sql
+END
+dbo.GPetExp.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetExp.table.sql
+END
+dbo.GPetItem.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPetItem.table.sql
+END
+dbo.FHInviteType.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.FHInviteType.table.sql
+END
+dbo.TEGTimerEventDate.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.TEGTimerEventDate.table.sql
+END
+dbo.GGGAGameGameBuyCount.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GGGAGameGameBuyCount.table.sql
+END
+dbo.WeekShieldUser.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.WeekShieldUser.table.sql
+END
+dbo.GPointBagItemList.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.GPointBagItemList.table.sql
+END
+dbo.ECEventChatWord.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ECEventChatWord.table.sql
+END
+dbo.ECEventChatDate.table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/dbo.ECEventChatDate.table.sql
+END

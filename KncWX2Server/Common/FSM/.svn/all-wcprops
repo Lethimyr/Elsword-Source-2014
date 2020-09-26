@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/FSM
+END
+FSMclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/FSM/FSMclass.h
+END
+FSMstate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/FSM/FSMstate.cpp
+END
+support_FSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/FSM/support_FSM.h
+END
+FSMclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/FSM/FSMclass.cpp
+END
+FSMstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/FSM/FSMstate.h
+END

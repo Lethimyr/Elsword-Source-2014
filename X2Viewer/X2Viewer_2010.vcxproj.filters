@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{bbd47c18-e90e-4643-923b-91ea89d00363}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{168b3bc2-a11d-44ee-8c82-990f4c0b5908}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat">
+      <UniqueIdentifier>{0ad02fde-dec4-4098-815f-337d84ba4e39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System">
+      <UniqueIdentifier>{448a387a-7227-4394-8c09-ce5525aa2004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System\DLL">
+      <UniqueIdentifier>{55743b74-04a5-4498-a36d-246c5ef92c4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System\FX">
+      <UniqueIdentifier>{3832bba2-860d-4dda-b607-a6b124fbe932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System\Texture">
+      <UniqueIdentifier>{fecdab67-d235-4469-9685-bbe3c5e09e92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System\Viewer">
+      <UniqueIdentifier>{eb06265a-222b-4c65-b8bb-c4934601ec70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="dat\System\Dll\msvcp71.dll">
+      <Filter>dat\System\DLL</Filter>
+    </None>
+    <None Include="dat\System\Dll\msvcr71.dll">
+      <Filter>dat\System\DLL</Filter>
+    </None>
+    <None Include="dat\System\Dll\unicows.dll">
+      <Filter>dat\System\DLL</Filter>
+    </None>
+    <None Include="dat\System\Fx\GCSkin.fx">
+      <Filter>dat\System\FX</Filter>
+    </None>
+    <None Include="dat\System\Fx\XRenderer.fx">
+      <Filter>dat\System\FX</Filter>
+    </None>
+    <None Include="dat\System\Fx\XSkinRenderer.fx">
+      <Filter>dat\System\FX</Filter>
+    </None>
+    <None Include="dat\System\Texture\CartoonFire.BMP">
+      <Filter>dat\System\Texture</Filter>
+    </None>
+    <None Include="dat\System\Texture\CartoonNormal.bmp">
+      <Filter>dat\System\Texture</Filter>
+    </None>
+    <None Include="dat\System\Viewer\Bounding_Sphere.X">
+      <Filter>dat\System\Viewer</Filter>
+    </None>
+    <None Include="dat\System\Viewer\Sun.tga">
+      <Filter>dat\System\Viewer</Filter>
+    </None>
+    <None Include="dat\System\Viewer\Sun.X">
+      <Filter>dat\System\Viewer</Filter>
+    </None>
+    <None Include="dat\System\Viewer\ViewerUI.lua">
+      <Filter>dat\System\Viewer</Filter>
+    </None>
+    <None Include="X2Viewer.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="X2ViewerCamera.h" />
+    <ClInclude Include="X2ViewerFileOS.h" />
+    <ClInclude Include="X2ViewerGrid.h" />
+    <ClInclude Include="X2ViewerMain.h" />
+    <ClInclude Include="X2ViewerMesh.h" />
+    <ClInclude Include="X2ViewerObject.h" />
+    <ClInclude Include="X2ViewerParam.h" />
+    <ClInclude Include="X2ViewerParticle.h" />
+    <ClInclude Include="X2ViewerParticleEditor.h" />
+    <ClInclude Include="X2ViewerSkinMesh.h" />
+    <ClInclude Include="X2ViewerUI.h" />
+    <ClInclude Include="X2ViewerWorldMesh.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="X2Viewer.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="X2Viewer.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="X2Viewer.cpp" />
+    <ClCompile Include="X2ViewerCamera.cpp" />
+    <ClCompile Include="X2ViewerFileOS.cpp" />
+    <ClCompile Include="X2ViewerGrid.cpp" />
+    <ClCompile Include="X2ViewerMain.cpp" />
+    <ClCompile Include="X2ViewerMesh.cpp" />
+    <ClCompile Include="X2ViewerObject.cpp" />
+    <ClCompile Include="X2ViewerParam.cpp" />
+    <ClCompile Include="X2ViewerParticle.cpp" />
+    <ClCompile Include="X2ViewerParticleEditor.cpp" />
+    <ClCompile Include="X2ViewerSkinMesh.cpp" />
+    <ClCompile Include="X2ViewerUI.cpp" />
+    <ClCompile Include="X2ViewerWorldMesh.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="MailMIME.lib">
+      <Filter>dat\System</Filter>
+    </Library>
+    <Library Include="MailSMTP.lib">
+      <Filter>dat\System</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

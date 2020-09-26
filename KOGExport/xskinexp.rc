@@ -1,0 +1,192 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 영어(미국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_PANEL DIALOGEX 0, 0, 175, 391
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "X-FILE Exporter(KOG-X2)"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "&Text",IDC_TEXT,"Button",BS_AUTORADIOBUTTON,16,108,129,
+                    10
+    CONTROL         "&Binary",IDC_BINARY,"Button",BS_AUTORADIOBUTTON,16,134,
+                    129,10
+    CONTROL         "Binary &Compressed",IDC_BINARYCOMPRESSED,"Button",
+                    BS_AUTORADIOBUTTON,16,121,129,10
+    CONTROL         "Export Patch Data",IDC_PATCHDATA,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,14,213,117,10
+    CONTROL         "Include Animation Data",IDC_ANIMATION,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,14,227,117,10
+    EDITTEXT        IDC_SAMPLERATE,113,238,27,14,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    CONTROL         "Looping Animation Data",IDC_LOOPINGANIMATION,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,280,97,10
+    DEFPUSHBUTTON   "&Go!",IDC_GO,5,370,65,14
+    PUSHBUTTON      "&Abort",IDC_CANCEL,103,370,65,14
+    CTEXT           "DirectX X File Export Plugin\nCopyright 1999-2000, Microsoft Corp.\n5st Revision(ELSWORD_JH) : 08.01.25",
+                    IDC_STATIC,6,5,162,30,0,WS_EX_CLIENTEDGE
+    GROUPBOX        "Skinning Summary",IDC_STATIC,6,40,162,50
+    LTEXT           "Max bones per vertex:",IDC_STATIC,12,55,72,10
+    CTEXT           "",IDC_MAX_BONES_PER_VERTEX,103,50,30,15,SS_CENTERIMAGE,
+                    WS_EX_CLIENTEDGE
+    LTEXT           "Max bones per face:",IDC_STATIC,12,69,78,10
+    CTEXT           "",IDC_MAX_BONES_PER_FACE,103,70,30,15,SS_CENTERIMAGE,
+                    WS_EX_CLIENTEDGE
+    GROUPBOX        "X File Data Format",IDC_STATIC,6,95,162,55
+    LTEXT           "Animation Sampling Rate:",IDC_STATIC,27,240,82,11
+    LTEXT           "Animation Name",IDC_STATIC,12,329,78,12
+    EDITTEXT        IDC_EDIT_ANIM_NAME,24,342,72,14,ES_AUTOHSCROLL
+    CONTROL         "Texture Full Path",IDC_TEXTURE_FULLPATH,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,14,168,97,10
+    GROUPBOX        "Texture Option",IDC_STATIC,6,155,162,50
+    COMBOBOX        IDC_COMBO1,35,186,48,101,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "ext",IDC_STATIC,16,188,13,8
+    LTEXT           "~",IDC_STATIC,59,254,11,12
+    EDITTEXT        IDC_EDIT_ANIM_FRAME_START,29,251,24,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_ANIM_FRAME_END,69,251,24,14,ES_AUTOHSCROLL
+    CONTROL         "On/Off empty children",IDC_CHILDREN_NOT_ATTACHED,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,297,97,10
+    CONTROL         "On/Off Object by Y Extension",IDC_EXTENSION,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,313,117,10
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_PANEL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 168
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 384
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 3,0,0,0
+ PRODUCTVERSION 3,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileVersion", "3.0.0.0"
+            VALUE "InternalName", "XSkinExp"
+            VALUE "OriginalFilename", "XSkinExp.dli"
+            VALUE "ProductName", "3D Studio MAX"
+            VALUE "ProductVersion", "3.0.0.0"
+            VALUE "FileDescription", "X File Export w/Skinning Info"
+            VALUE "Comments", "TECH: "
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_LIBDESCRIPTION      "X File Export w/Skinning Info"
+    IDS_CATEGORY            "X File Export w/Skinning Info"
+    IDS_CLASS_NAME          "XSkinExp"
+    IDS_PARAMS              "Parameters"
+    IDS_SPIN                "Spin"
+END
+
+#endif    // 영어(미국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

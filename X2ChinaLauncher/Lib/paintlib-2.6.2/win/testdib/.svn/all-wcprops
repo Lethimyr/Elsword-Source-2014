@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/StdAfx.h
+END
+testdib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/testdib.cpp
+END
+testdib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/testdib.dsp
+END
+testdib.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/testdib.h
+END
+drawhelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/drawhelp.cpp
+END
+grarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/grarray.cpp
+END
+dibwnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/dibwnd.cpp
+END
+mtdibwnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/mtdibwnd.cpp
+END
+maindlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/maindlg.cpp
+END
+drawhelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/drawhelp.h
+END
+grarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/grarray.h
+END
+dibwnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/dibwnd.h
+END
+mtdibwnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/mtdibwnd.h
+END
+testdib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/testdib.vcproj
+END
+testdib.rc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/testdib.rc
+END
+maindlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/maindlg.h
+END
+dibgrit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/dibgrit.cpp
+END
+testdib.mak
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/testdib.mak
+END
+shadow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/shadow.cpp
+END
+gritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/gritem.cpp
+END
+dibgrit.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/dibgrit.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/stdafx.cpp
+END
+read.me
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/read.me
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/shadow.h
+END
+gritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/gritem.h
+END
+TESTDIB.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/TESTDIB.mdp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/testdib/resource.h
+END

@@ -1,0 +1,803 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/105190/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer
+END
+RefreshTimeBackup.ini
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/RefreshTimeBackup.ini
+END
+Log_CN_TJ01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_TJ01.dsn
+END
+Log_CN_TJ03.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_TJ03.dsn
+END
+AutoPartyFSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyFSM.h
+END
+MatchFSMInput_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchFSMInput_def.h
+END
+MailSMTP.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MailSMTP.dll
+END
+AutoPartyMakingProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyMakingProcess.h
+END
+MatchFSMState_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchFSMState_def.h
+END
+config_gb_CN_BETA.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_CN_BETA.lua
+END
+AutoPartyUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserManager.h
+END
+tbbmalloc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/tbbmalloc.dll
+END
+tbbmalloc_proxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/tbbmalloc_proxy.dll
+END
+Match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Match.cpp
+END
+Log_CN_BETA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_BETA.dsn
+END
+Account.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Account.dsn
+END
+Log_CN_WH01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_WH01.dsn
+END
+GlobalMissionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalMissionManager.h
+END
+GlobalServer_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer_2010.vcxproj
+END
+GlobalScriptRefreshManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalScriptRefreshManager.h
+END
+config_gb_INT_OPEN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_INT_OPEN_TEST.lua
+END
+GlobalServer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer.rc
+END
+config_gb_CN_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_CN_SERVICE.lua
+END
+GlobalServer_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer_2003.vcproj
+END
+ACCOUNT_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/ACCOUNT_SERVICE.dsn
+END
+config_gb_BR_OPEN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_BR_OPEN_TEST.lua
+END
+GlobalAccountDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalAccountDBThread.h
+END
+BlockListManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102342/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/BlockListManager.cpp
+END
+ManagerDB.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/ManagerDB.dsn
+END
+log_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/log_SOLES.dsn
+END
+GlobalScriptRefreshThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalScriptRefreshThread.cpp
+END
+GlobalScriptRefreshManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalScriptRefreshManager.cpp
+END
+AutoPartyUserFSMInput_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserFSMInput_def.h
+END
+MatchUserFSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserFSM.cpp
+END
+ServerSNManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/ServerSNManager.cpp
+END
+GlobalAccountDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalAccountDBThread.cpp
+END
+MatchUserWaitList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserWaitList.cpp
+END
+GlobalServerCCUManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServerCCUManager.cpp
+END
+MatchMakingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchMakingManager.cpp
+END
+Log_CN_ZR01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_ZR01.dsn
+END
+Log_CN_ZR03.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_ZR03.dsn
+END
+AutoPartyUserFSMState_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserFSMState_def.h
+END
+game01_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/game01_SOLES.dsn
+END
+GlobalServer.aps
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer.aps
+END
+WorldMissionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/WorldMissionManager.h
+END
+BlockData.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/BlockData.h
+END
+config_gb_BR_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_BR_INTERNAL.lua
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/msvcr71.dll
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/resource.h
+END
+AutoPartyUserFSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserFSM.cpp
+END
+AutoParty.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoParty.h
+END
+GlobalUserList.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalUserList.h
+END
+FieldBossManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/FieldBossManager.cpp
+END
+GlobalEventDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalEventDBThread.h
+END
+GlobalLogDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalLogDBThread.h
+END
+ServerSNManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/ServerSNManager.h
+END
+GlobalNetLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalNetLayer.h
+END
+config_gb.ini
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb.ini
+END
+AutoPartyMakingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyMakingManager.cpp
+END
+MailMIME.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MailMIME.lib
+END
+icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/icon.ico
+END
+config_gb_INT_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_INT_INTERNAL.lua
+END
+MatchMakingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchMakingManager.h
+END
+KncCrashRptSV.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/KncCrashRptSV.dll
+END
+ACCOUNT_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/ACCOUNT_INTERNAL.dsn
+END
+GlobalUserList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalUserList.cpp
+END
+AutoPartyUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUser.h
+END
+GlobalGameDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalGameDBThread.h
+END
+Log_CN_TJ02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_TJ02.dsn
+END
+LOG_OPEN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/LOG_OPEN_TEST.dsn
+END
+AutoPartyUserWaitList.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserWaitList.h
+END
+config_gb_BR_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_BR_SERVICE.lua
+END
+LOG_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/LOG_INTERNAL.dsn
+END
+AutoPartyMakingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyMakingManager.h
+END
+GlobalSMSDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalSMSDBThread.cpp
+END
+BlockListManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102342/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/BlockListManager.h
+END
+AutoPartyUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUser.cpp
+END
+config_gb_CN_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_CN_INTERNAL.lua
+END
+Log_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_INTERNAL.dsn
+END
+tbbmalloc_proxy_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/tbbmalloc_proxy_debug.dll
+END
+AutoPartyFSMInput_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyFSMInput_def.h
+END
+Log_CN_WH02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_WH02.dsn
+END
+LOG_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/LOG_SERVICE.dsn
+END
+MatchUserFSMInput_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserFSMInput_def.h
+END
+GlobalUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalUser.h
+END
+MatchUserFSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserFSM.h
+END
+GlobalServer_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer_2010.vcxproj.filters
+END
+MailSMTP.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MailSMTP.lib
+END
+Log_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_SERVICE_TEST.dsn
+END
+AutoPartyFSMState_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyFSMState_def.h
+END
+GlobalServerCCUManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServerCCUManager.h
+END
+WorldMissionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/WorldMissionManager.cpp
+END
+BlockData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/BlockData.cpp
+END
+MatchUserFSMState_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserFSMState_def.h
+END
+AutoParty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoParty.cpp
+END
+GlobalServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer.h
+END
+GlobalMissionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalMissionManager.cpp
+END
+GlobalUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalUser.cpp
+END
+GlobalEventDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalEventDBThread.cpp
+END
+GlobalLogDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalLogDBThread.cpp
+END
+Match.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Match.h
+END
+Log_CN_ZD01.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_ZD01.dsn
+END
+PvpMatchScriptManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/PvpMatchScriptManager.cpp
+END
+MatchFSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchFSM.cpp
+END
+AutoPartyUserFSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserFSM.h
+END
+GlobalNetLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalNetLayer.cpp
+END
+GlobalSimLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalSimLayer.cpp
+END
+config_gb_INT_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/config_gb_INT_SERVICE.lua
+END
+FieldBossManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/FieldBossManager.h
+END
+ACCOUNT_OPEN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/ACCOUNT_OPEN_TEST.dsn
+END
+GlobalServer_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer_2010.vcxproj.user
+END
+Log_CN_ZR02.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/Log_CN_ZR02.dsn
+END
+MailMIME.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MailMIME.dll
+END
+MatchUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserManager.cpp
+END
+GlobalServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalServer.cpp
+END
+GlobalGameDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalGameDBThread.cpp
+END
+msvcp71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/msvcp71.dll
+END
+mfc71u.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/mfc71u.dll
+END
+AutoPartyFSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyFSM.cpp
+END
+tbbmalloc_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/tbbmalloc_debug.dll
+END
+MatchUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUser.h
+END
+GlobalScriptRefreshThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalScriptRefreshThread.h
+END
+log_GAIA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/log_GAIA.dsn
+END
+SMS.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/SMS.dsn
+END
+MatchFSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchFSM.h
+END
+PvpMatchScriptManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/PvpMatchScriptManager.h
+END
+AutoPartyUserWaitList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserWaitList.cpp
+END
+GlobalSimLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalSimLayer.h
+END
+AutoPartyMakingProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyMakingProcess.cpp
+END
+MatchUserWaitList.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserWaitList.h
+END
+AutoPartyUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/AutoPartyUserManager.cpp
+END
+GlobalSMSDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/GlobalSMSDBThread.h
+END
+MatchUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUserManager.h
+END
+MatchUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/GlobalServer/MatchUser.cpp
+END

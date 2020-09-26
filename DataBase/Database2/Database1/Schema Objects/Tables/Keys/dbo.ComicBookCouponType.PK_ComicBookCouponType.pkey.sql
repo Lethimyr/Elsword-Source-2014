@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[ComicBookCouponType] ADD CONSTRAINT [PK_ComicBookCouponType] PRIMARY KEY CLUSTERED  ([CouponType]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_VCLVirtualCash_LoginUID] ON [dbo].[VCLVirtualCash] ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GInventoryInfo] ADD
+CONSTRAINT [FK_GInventoryInfo_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

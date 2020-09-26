@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GMSMissionSystemMain] ADD CONSTRAINT [PKC_GMSMissionSystemMain_LoginUID_MainMissionID] PRIMARY KEY CLUSTERED  ([LoginUID], [MainMissionID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

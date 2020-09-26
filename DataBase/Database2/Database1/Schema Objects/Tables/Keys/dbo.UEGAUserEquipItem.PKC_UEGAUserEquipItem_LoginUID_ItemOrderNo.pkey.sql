@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[UEGAUserEquipItem] ADD CONSTRAINT [PKC_UEGAUserEquipItem_LoginUID_ItemOrderNo] PRIMARY KEY CLUSTERED  ([LoginUID], [ItemOrderNo]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

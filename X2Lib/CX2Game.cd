@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CX2Game">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="CX2Game::ReverseGravityData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CX2Game::PlayGuideManager" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CX2Game::CONNECT_TYPE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="CX2Game::CreateNPCData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CX2Game::GAME_STATE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="CX2Game::ScoreTime" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CX2Game::PlayGuide" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CX2Game::InfoTextManager" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="CX2Game::IntrudeData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="CX2Game::PLAY_GUIDE_TYPE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="CX2Game::NewGameUser" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CX2Game::GAME_TYPE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>X2Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>/7/f/fue94v37/+9uY/nm2/tP/99//2v+/+/337/d/o=</HashCode>
+      <FileName>X2Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

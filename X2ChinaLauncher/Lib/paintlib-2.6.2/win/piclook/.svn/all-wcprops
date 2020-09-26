@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook
+END
+PalViewDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PalViewDlg.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/StdAfx.h
+END
+WinBmpEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/WinBmpEx.h
+END
+DitherDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/DitherDialog.cpp
+END
+Readme.htm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/Readme.htm
+END
+PicLook.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PicLook.dsp
+END
+PicLook.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PicLook.h
+END
+CropFilterDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/CropFilterDlg.h
+END
+FilterDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/FilterDialog.cpp
+END
+DibCtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/DibCtl.h
+END
+DocMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/DocMan.h
+END
+Doc.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/Doc.h
+END
+PicLook.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PicLook.dsw
+END
+View.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/View.h
+END
+PreView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PreView.cpp
+END
+PicLook.rc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PicLook.rc
+END
+IntensityDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/IntensityDlg.h
+END
+ContrastDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/ContrastDlg.cpp
+END
+ZoomView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/ZoomView.h
+END
+LightnessDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/LightnessDlg.cpp
+END
+ThresholdDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/ThresholdDlg.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/StdAfx.cpp
+END
+WinBmpEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/WinBmpEx.cpp
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/MainFrm.h
+END
+PicLook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PicLook.cpp
+END
+CropFilterDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/CropFilterDlg.cpp
+END
+DibCtl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/DibCtl.cpp
+END
+DocMan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/DocMan.cpp
+END
+PalViewDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PalViewDlg.h
+END
+DitherDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/DitherDialog.h
+END
+Doc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/Doc.cpp
+END
+FilterDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/FilterDialog.h
+END
+View.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/View.cpp
+END
+IntensityDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/IntensityDlg.cpp
+END
+ZoomView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/ZoomView.cpp
+END
+PicLook.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PicLook.vcproj
+END
+ThresholdDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/ThresholdDlg.cpp
+END
+PreView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/PreView.h
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/MainFrm.cpp
+END
+ContrastDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/ContrastDlg.h
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/Resource.h
+END
+LightnessDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2ChinaLauncher/Lib/paintlib-2.6.2/win/piclook/LightnessDlg.h
+END

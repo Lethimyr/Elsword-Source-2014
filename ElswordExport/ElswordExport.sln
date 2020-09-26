@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ElswordExport", "ElswordExport.vcproj", "{05D50600-DA4F-4552-85D8-C68433CB0F32}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectUniqueName0 = ElswordExport.vcproj
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectName1 = Perforce\u0020Project
+		SccLocalPath1 = .
+		SccProvider1 = MSSCCI:Perforce\u0020SCM
+		CanCheckoutShared = true
+		SolutionUniqueID = {42D4246E-2751-404A-98D4-67F060129A7F}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{05D50600-DA4F-4552-85D8-C68433CB0F32}.Debug.ActiveCfg = Debug|Win32
+		{05D50600-DA4F-4552-85D8-C68433CB0F32}.Debug.Build.0 = Debug|Win32
+		{05D50600-DA4F-4552-85D8-C68433CB0F32}.Release.ActiveCfg = Release|Win32
+		{05D50600-DA4F-4552-85D8-C68433CB0F32}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[WIPropertyType] ADD CONSTRAINT [PKC_WIPropertyType_PropertyType] PRIMARY KEY CLUSTERED  ([PropertyType]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

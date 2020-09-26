@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/104373/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US
+END
+LoginServer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/104373/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/LoginServer.exe
+END
+tbbmalloc_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/tbbmalloc_debug.dll
+END
+MailSMTP.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/MailSMTP.dll
+END
+tbbmalloc_proxy_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/tbbmalloc_proxy_debug.dll
+END
+tbb.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/tbb.dll
+END
+MailMIME.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/MailMIME.dll
+END
+KncCrashRptSV.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/KncCrashRptSV.dll
+END
+tbb_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/tbb_debug.dll
+END
+AuthCheck.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/AuthCheck.dll
+END
+tbbmalloc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/tbbmalloc.dll
+END
+msvcp71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/msvcp71.dll
+END
+tbbmalloc_proxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/tbbmalloc_proxy.dll
+END
+mfc71u.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/mfc71u.dll
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102166/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/Release_US/msvcr71.dll
+END

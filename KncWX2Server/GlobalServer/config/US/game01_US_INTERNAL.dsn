@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=elsword
+DATABASE=Game01
+WSID=KOG-JSEOP
+APP=Microsoft Data Access Components
+SERVER=192.168.199.137,7753
+PWD=x2akstp!@#$

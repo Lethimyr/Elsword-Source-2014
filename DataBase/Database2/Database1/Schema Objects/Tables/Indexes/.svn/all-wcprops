@@ -1,0 +1,779 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes
+END
+dbo.CPStatCount.IXC_CPStatCount_RegDate_CharType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CPStatCount.IXC_CPStatCount_RegDate_CharType.index.sql
+END
+dbo.FHInviteInfo.IXC_FHInviteInfo_LoginUIDB.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.FHInviteInfo.IXC_FHInviteInfo_LoginUIDB.index.sql
+END
+dbo.tbl_Event_SnowCoinCollected.IX_tbl_Event_SnowCoinCollected_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.tbl_Event_SnowCoinCollected.IX_tbl_Event_SnowCoinCollected_1.index.sql
+END
+dbo.StatModeCount.IXC_StatModeCount_RegDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.StatModeCount.IXC_StatModeCount_RegDate.index.sql
+END
+dbo.VCLVirtualCash.IXC_VCLVirtualCash_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.VCLVirtualCash.IXC_VCLVirtualCash_LoginUID.index.sql
+END
+dbo.users.IXU_Users_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.users.IXU_Users_LoginUID.index.sql
+END
+dbo.SUTUserTrace.IXC_SUTUserTrace_StartDate_EndDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.SUTUserTrace.IXC_SUTUserTrace_StartDate_EndDate.index.sql
+END
+dbo.AdminDelDurationItem.IX_AdminDelDurationItem_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminDelDurationItem.IX_AdminDelDurationItem_1.index.sql
+END
+dbo.GuildUserState.IX_GuildUserState_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildUserState.IX_GuildUserState_1.index.sql
+END
+dbo.GuildUserState.IX_GuildUserState_CN.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildUserState.IX_GuildUserState_CN.index.sql
+END
+dbo.GuildInfo.idx_GuildInfo_Curl.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildInfo.idx_GuildInfo_Curl.index.sql
+END
+dbo.TotalConnectUsers.TotalConnectUsers_Date.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.TotalConnectUsers.TotalConnectUsers_Date.index.sql
+END
+dbo.NMWNetMarbleGoodsInfoList.IXC_NMWNetMarbleGoodsInfoList_RegDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.NMWNetMarbleGoodsInfoList.IXC_NMWNetMarbleGoodsInfoList_RegDate.index.sql
+END
+dbo.LogCashItemDetailList.IX_LogCashItemDetailList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogCashItemDetailList.IX_LogCashItemDetailList.index.sql
+END
+dbo.GuildUserState.IX_GuildUserState_Curl.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildUserState.IX_GuildUserState_Curl.index.sql
+END
+dbo.GPointBagItemPart.IXC_GPointBagItemPart_ItemID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GPointBagItemPart.IXC_GPointBagItemPart_ItemID.index.sql
+END
+dbo.RGRRankGrandchaserExp.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserExp.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.QuestionBoard.IDX_QuestionBoard_01.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.QuestionBoard.IDX_QuestionBoard_01.index.sql
+END
+dbo.LogWebEventCoupon.IX_LogWebEventCoupon_Login.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogWebEventCoupon.IX_LogWebEventCoupon_Login.index.sql
+END
+dbo.SILStrongItem.IXC_SILStrongItem_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.SILStrongItem.IXC_SILStrongItem_LoginUID.index.sql
+END
+dbo.MGGMiniGame.IX_MGGMiniGame_GameMode_Point_ETC.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.MGGMiniGame.IX_MGGMiniGame_GameMode_Point_ETC.index.sql
+END
+dbo.RGRRankGrandchaserWeekly.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserWeekly.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.GPointBagRecommend.IXC_GPointBagRecommend_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GPointBagRecommend.IXC_GPointBagRecommend_LoginUID.index.sql
+END
+dbo.ConnectStatusDB.IX_ConnectStatusDB.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.ConnectStatusDB.IX_ConnectStatusDB.index.sql
+END
+dbo.WebEventCouponPatterns.IX_WebEventCouponPatterns_PatternType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.WebEventCouponPatterns.IX_WebEventCouponPatterns_PatternType.index.sql
+END
+dbo.AdminInsertNormalItem.IX_AdminInsertNormalItem.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminInsertNormalItem.IX_AdminInsertNormalItem.index.sql
+END
+dbo.GoodsInfoList.idx_GoodsInfoList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsInfoList.idx_GoodsInfoList.index.sql
+END
+dbo.ComicBookReceiveUser.IX_ComicBookReceiveUser.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.ComicBookReceiveUser.IX_ComicBookReceiveUser.index.sql
+END
+dbo.EventLottoB.IX_EventLottoB_Clustered.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EventLottoB.IX_EventLottoB_Clustered.index.sql
+END
+dbo.RGRRankGrandchaserMonthly.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserMonthly.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.IndigoRank_old.IXU_IndigoRank_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank_old.IXU_IndigoRank_LoginUID.index.sql
+END
+dbo.GoodsInfoList.IX_GoodsInfoList_2.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsInfoList.IX_GoodsInfoList_2.index.sql
+END
+dbo.IndigoRank.IXU_IndigoRank_Login.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank.IXU_IndigoRank_Login.index.sql
+END
+dbo.DurationItemObjectList.IXC_DurationItemObjectList_OwnerLogin_GoodsID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.DurationItemObjectList.IXC_DurationItemObjectList_OwnerLogin_GoodsID.index.sql
+END
+dbo.RGRRankGrandchaserMonthly_old.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserMonthly_old.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.RGRRankGrandchaserDaily.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserDaily.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.RGRRankGrandchaserDaily_old.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserDaily_old.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.users.IDX_users_01.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.users.IDX_users_01.index.sql
+END
+dbo.IndigoRank.IXUC_IndigoRank_Rank.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank.IXUC_IndigoRank_Rank.index.sql
+END
+dbo.RGRRankGrandchaserExp_old.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserExp_old.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.RGRRankGrandchaserWeekly_old.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserWeekly_old.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.AdminDelNormalItem.IX_AdminDelNormalItem_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminDelNormalItem.IX_AdminDelNormalItem_1.index.sql
+END
+dbo.AdminDelNormalItem.IX_DelObjectList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminDelNormalItem.IX_DelObjectList.index.sql
+END
+dbo.SUTUserTraceCharacter.IXUC_SUTUserTraceCharacter_LoginUID_UID_CharType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.SUTUserTraceCharacter.IXUC_SUTUserTraceCharacter_LoginUID_UID_CharType.index.sql
+END
+dbo.GStrongItemLog.IXC_GStrongItemLog_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GStrongItemLog.IXC_GStrongItemLog_LoginUID.index.sql
+END
+dbo.EventMobileShop.IX_EventMobileShop.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EventMobileShop.IX_EventMobileShop.index.sql
+END
+dbo.EventLottoB.IX_EventLottoB.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EventLottoB.IX_EventLottoB.index.sql
+END
+dbo.GMSMissionSystemLog.IXC_GMSMissionSystemLog_Login_MainMissionID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GMSMissionSystemLog.IXC_GMSMissionSystemLog_Login_MainMissionID.index.sql
+END
+dbo.EALExperienceAccount.IXC_EALExperienceAccount_Login_Status_Data1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EALExperienceAccount.IXC_EALExperienceAccount_Login_Status_Data1.index.sql
+END
+dbo.IndigoRank_old.IXU_IndigoRank_Login.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank_old.IXU_IndigoRank_Login.index.sql
+END
+dbo.CashItemDetailList.IX_CashItemDetailList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CashItemDetailList.IX_CashItemDetailList.index.sql
+END
+dbo.GoodsInfoList.IX_GoodsInfoList_3.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsInfoList.IX_GoodsInfoList_3.index.sql
+END
+dbo.DurationItemObjectList.IX_DurationItemObjectList_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.DurationItemObjectList.IX_DurationItemObjectList_1.index.sql
+END
+dbo.RGRRankGrandchaserMonthly.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserMonthly.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.IndigoSupplyType.IXC_IndigoSupplyType_SupplyType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoSupplyType.IXC_IndigoSupplyType_SupplyType.index.sql
+END
+dbo.IndigoRank_old.IXU_IndigoRank_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank_old.IXU_IndigoRank_Nick.index.sql
+END
+dbo.SUTUserTrace.IXU_SUTUserTrace_LoginUID_UID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.SUTUserTrace.IXU_SUTUserTrace_LoginUID_UID.index.sql
+END
+dbo.CashItemList.IX_CashItemList_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CashItemList.IX_CashItemList_1.index.sql
+END
+dbo.LogCashItemList.IX_LogCashItemList_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogCashItemList.IX_LogCashItemList_1.index.sql
+END
+dbo.users.IDX_users_02.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.users.IDX_users_02.index.sql
+END
+dbo.RGRRankGrandchaserDaily.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserDaily.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.GuildUserState.IX_GuildUserState_ID_Curl.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildUserState.IX_GuildUserState_ID_Curl.index.sql
+END
+dbo.CashPackageInfoDetailList.IX_CashPackageInfoDetailList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CashPackageInfoDetailList.IX_CashPackageInfoDetailList.index.sql
+END
+dbo.IndigoRank_old.IXUC_IndigoRank_Rank.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank_old.IXUC_IndigoRank_Rank.index.sql
+END
+dbo.IndigoSupplyLog.IXC_IndigoSupplyLog_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoSupplyLog.IXC_IndigoSupplyLog_LoginUID.index.sql
+END
+dbo.EventLottoP.IX_EventLottoP_Clustered.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EventLottoP.IX_EventLottoP_Clustered.index.sql
+END
+dbo.RGRRankGrandchaserExp_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserExp_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.RGRRankGrandchaserExp.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserExp.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.RGRRankGrandchaserWeekly_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserWeekly_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.UALUserAuth.IXC_UALUserAuth_LoginUID_RegDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.UALUserAuth.IXC_UALUserAuth_LoginUID_RegDate.index.sql
+END
+dbo.RGRRankGrandchaserWeekly.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserWeekly.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.RecommenderList.IXC_RecommenderList_RecommendeeUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RecommenderList.IXC_RecommenderList_RecommendeeUID.index.sql
+END
+dbo.PackageInfoList.IX_PackageInfoList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.PackageInfoList.IX_PackageInfoList.index.sql
+END
+dbo.AdminDelNormalItem.IX_AdminDelNormalItem.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminDelNormalItem.IX_AdminDelNormalItem.index.sql
+END
+dbo.GoodsInfoList.idx_GoodsInfoList_10.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsInfoList.idx_GoodsInfoList_10.index.sql
+END
+dbo.GEIEquipItem.IXC_GEIEquipItem_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GEIEquipItem.IXC_GEIEquipItem_LoginUID.index.sql
+END
+dbo.LogNickNames.IX_LogNickNames_Login.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogNickNames.IX_LogNickNames_Login.index.sql
+END
+dbo.LogWebEventCoupon.IX_LogWebEventCoupon_SerialNumber.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogWebEventCoupon.IX_LogWebEventCoupon_SerialNumber.index.sql
+END
+dbo.RGRRankGrandchaserMonthly_old.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserMonthly_old.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.GPetEquipHackDetection.IXC_GPetEquipHackDetection.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GPetEquipHackDetection.IXC_GPetEquipHackDetection.index.sql
+END
+dbo.LogNickNames.IX_LogNickNames_OldNick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogNickNames.IX_LogNickNames_OldNick.index.sql
+END
+dbo.IndigoRank.IXU_IndigoRank_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank.IXU_IndigoRank_LoginUID.index.sql
+END
+dbo.ESantaItem.IXC_ESantaItem_EventUID_UserType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.ESantaItem.IXC_ESantaItem_EventUID_UserType.index.sql
+END
+dbo.GPet.IXC_GPet_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GPet.IXC_GPet_LoginUID.index.sql
+END
+dbo.RGRRankGrandchaserDaily_old.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserDaily_old.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.StatPlayTime.IXC_StatPlayTime_RegDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.StatPlayTime.IXC_StatPlayTime_RegDate.index.sql
+END
+dbo.EPEventPerfect.IXC_EPEventPerfect_StartDate_EndDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EPEventPerfect.IXC_EPEventPerfect_StartDate_EndDate.index.sql
+END
+dbo.Notice.IX_Notice.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.Notice.IX_Notice.index.sql
+END
+dbo.EventLottoP.IX_EventLottoP.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EventLottoP.IX_EventLottoP.index.sql
+END
+dbo.GuildUser.IX_GUILDUSER.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildUser.IX_GUILDUSER.index.sql
+END
+dbo.EventLottoN.IX_EventLottoN_Clustered.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EventLottoN.IX_EventLottoN_Clustered.index.sql
+END
+dbo.WLWinLoseResetLog.IXC_WLWinLoseResetLog_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.WLWinLoseResetLog.IXC_WLWinLoseResetLog_LoginUID.index.sql
+END
+dbo.ECEventChatWord.IXC_ECEventChatWord_UID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.ECEventChatWord.IXC_ECEventChatWord_UID.index.sql
+END
+dbo.StatStatistics.IXC_StatStatistics.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.StatStatistics.IXC_StatStatistics.index.sql
+END
+dbo.NickNames.IX_NickNames.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.NickNames.IX_NickNames.index.sql
+END
+dbo.DelGuildUser.IX_DelGuildUser.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.DelGuildUser.IX_DelGuildUser.index.sql
+END
+dbo.CashItemList.IX_CashItemList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CashItemList.IX_CashItemList.index.sql
+END
+dbo.LogCashItemList.IX_LogCashItemList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogCashItemList.IX_LogCashItemList.index.sql
+END
+dbo.ConnectStatusDB.IX_ConnectStatusDB_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.ConnectStatusDB.IX_ConnectStatusDB_1.index.sql
+END
+dbo.RGRRankGrandchaserExp.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserExp.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.AdminInsertDurationItem.IX_AdminInsertNormalItem_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminInsertDurationItem.IX_AdminInsertNormalItem_1.index.sql
+END
+dbo.AdminInsertNormalItem.IX_AdminInsertNormalItem_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminInsertNormalItem.IX_AdminInsertNormalItem_1.index.sql
+END
+dbo.RGRRankGrandchaserWeekly.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserWeekly.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.GoodsObjectList.IXC_GoodsObjectList_OwnerLogin_ItemID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsObjectList.IXC_GoodsObjectList_OwnerLogin_ItemID.index.sql
+END
+dbo.RGRRankGrandchaserExp_old.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserExp_old.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.tbl_Event_SnowCoinCollected.IX_tbl_Event_SnowCoinCollected_UniID_IsUse.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.tbl_Event_SnowCoinCollected.IX_tbl_Event_SnowCoinCollected_UniID_IsUse.index.sql
+END
+dbo.tbl_Event_SnowCoinCollected.IX_tbl_Event_SnowCoinCollected.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.tbl_Event_SnowCoinCollected.IX_tbl_Event_SnowCoinCollected.index.sql
+END
+dbo.LogNickNames.IX_LogNickNames_NewNick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.LogNickNames.IX_LogNickNames_NewNick.index.sql
+END
+dbo.RGRRankGrandchaserWeekly_old.IX_RGRRankGrandchaser_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserWeekly_old.IX_RGRRankGrandchaser_Nick.index.sql
+END
+dbo.AdminDelDurationItem.IX_AdminDelDurationItem.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminDelDurationItem.IX_AdminDelDurationItem.index.sql
+END
+dbo.GuildInfo.idx_GuildInfo_11.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildInfo.idx_GuildInfo_11.index.sql
+END
+dbo.RecommenderLog.IXC_RecommenderLog.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RecommenderLog.IXC_RecommenderLog.index.sql
+END
+dbo.AdminInsertDurationItem.IX_AdminInsertNormalItem.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.AdminInsertDurationItem.IX_AdminInsertNormalItem.index.sql
+END
+dbo.GuildUserState.IX_GuildUserState.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GuildUserState.IX_GuildUserState.index.sql
+END
+dbo.DelGuildInfo.IX_DelGuildInfo.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.DelGuildInfo.IX_DelGuildInfo.index.sql
+END
+dbo.GoodsObjectList.IX_GoodsObjectList_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsObjectList.IX_GoodsObjectList_1.index.sql
+END
+dbo.EPEventPerfectMode.IXC_EPEventPerfectMode_EventUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.EPEventPerfectMode.IXC_EPEventPerfectMode_EventUID.index.sql
+END
+dbo.RGRRankGrandchaserMonthly_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserMonthly_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.ESantaDate.IXC_ESantaDate_StartDate_EndDate.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.ESantaDate.IXC_ESantaDate_StartDate_EndDate.index.sql
+END
+dbo.GPetItem.IXC_GPetItem_PetID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GPetItem.IXC_GPetItem_PetID.index.sql
+END
+dbo.RGRRankGrandchaserMonthly.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserMonthly.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.GoodsInfoList.IX_GoodsInfoList_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GoodsInfoList.IX_GoodsInfoList_1.index.sql
+END
+dbo.RGRRankGrandchaserDaily_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserDaily_old.IX_RGRRankGrandchaser_LoginUID.index.sql
+END
+dbo.RGRRankGrandchaserDaily.IXC_RGRRankGrandchaser_TabType.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.RGRRankGrandchaserDaily.IXC_RGRRankGrandchaser_TabType.index.sql
+END
+dbo.CashItemDisplayList.IX_CashItemDisplayList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CashItemDisplayList.IX_CashItemDisplayList.index.sql
+END
+dbo.DelGuildUser.IX_DelGuildUser_1.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.DelGuildUser.IX_DelGuildUser_1.index.sql
+END
+dbo.GInventoryInfoLog.IXC_GInventoryInfoLog_LoginUID.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.GInventoryInfoLog.IXC_GInventoryInfoLog_LoginUID.index.sql
+END
+dbo.IndigoRank.IXU_IndigoRank_Nick.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.IndigoRank.IXU_IndigoRank_Nick.index.sql
+END
+dbo.CashPackageInfoList.IX_CashPackageInfoList.index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database1/Schema%20Objects/Tables/Indexes/dbo.CashPackageInfoList.IX_CashPackageInfoList.index.sql
+END

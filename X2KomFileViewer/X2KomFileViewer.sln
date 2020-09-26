@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "X2KomFileViewer", "X2KomFileViewer.vcproj", "{60033A0B-EF16-4503-9628-A084C2DD788E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{60033A0B-EF16-4503-9628-A084C2DD788E}.Debug.ActiveCfg = Debug|Win32
+		{60033A0B-EF16-4503-9628-A084C2DD788E}.Debug.Build.0 = Debug|Win32
+		{60033A0B-EF16-4503-9628-A084C2DD788E}.Release.ActiveCfg = Release|Win32
+		{60033A0B-EF16-4503-9628-A084C2DD788E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		C:\Documents and Settings\KOG\My Documents\업무\X2KomFileViewer.vsd = C:\Documents and Settings\KOG\My Documents\업무\X2KomFileViewer.vsd
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

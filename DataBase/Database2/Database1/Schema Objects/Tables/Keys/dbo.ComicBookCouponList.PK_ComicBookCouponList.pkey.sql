@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[ComicBookCouponList] ADD CONSTRAINT [PK_ComicBookCouponList] PRIMARY KEY CLUSTERED  ([SerialNumber]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

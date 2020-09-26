@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=SQL Server
+UID=kog-sms
+Address=14.45.79.96,3130
+Network=DBMSSOCN
+DATABASE=SMS
+WSID=X2-SERVER1
+APP=Microsoft Data Access Components
+SERVER=crash-sms.kog.co.kr
+PWD=answkqkfthd~1234

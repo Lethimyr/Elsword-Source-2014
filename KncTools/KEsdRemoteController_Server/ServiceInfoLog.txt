@@ -1,0 +1,54 @@
+Call KQuery::Exec() - insert into em_tran (tran_pr, tran_phone, tran_callback, tran_status, tran_data, tran_msg) values (null, '011-9856-1853', '011-9856-1853', '1', sysdate(), 'Test MSG' )
+
+Call KQuery::Exec() - insert into em_tran (tran_pr, tran_phone, tran_callback, tran_status, tran_data, tran_msg) values (null, '011-9856-1853', '011-9856-1853', '1', sysdate(), 'Test MSG' )
+
+Call KQuery::Exec() - insert into em_tran (tran_pr, tran_phone, tran_callback, tran_status, tran_data, tran_msg) values (null, '011-9856-1853', '011-9856-1853', '1', '2007-07-01 00:00:00', 'Test MSG' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'CnSrv is Down005D655C2007005D65647005D656423005D656414005D65642005D6568' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'GsSrv is Down005D655C2007005D65647005D656423005D656414005D65642005D6568' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'GsSrv is Down_[2007_7_23_14_5]' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'CnSrv is Down_[2007_7_23_14_5]' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'GsSrv is Down_[2007_7_23_14_5]' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'CnSrv is Down_[2007_7_23_14_5]' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'GsSrv is Down_[2007_7_23_14_9]_59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'CnSrv is Down_[2007_7_23_14_9]_59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Cn_Svr_Info
+2007_7_23_14_26
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Gs_Svr_Info
+2007_7_23_14_26
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Cn_Svr_Info
+2007_7_23_19_13
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Gs_Svr_Info
+2007_7_23_19_13
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Cn_Svr_Info
+2007_7_23_21_21
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Gs_Svr_Info
+2007_7_23_21_21
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Cn_Svr_Info
+2007_7_23_22_5
+59.25.186.39' )
+
+Call KQuery::Exec() - insert into em_tran ( tran_phone, tran_callback, tran_status, tran_date, tran_msg) values ( '010-8641-7033', '010-8641-7033', '1', getdate(), 'Lg_Svr_Info
+2007_10_12_20_52
+116.120.238.71' )
+

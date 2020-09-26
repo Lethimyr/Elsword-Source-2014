@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[WIUser] ADD
+CONSTRAINT [FK_WIUser_WISupplier] FOREIGN KEY ([SupplierUID]) REFERENCES [dbo].[WISupplier] ([SupplierUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

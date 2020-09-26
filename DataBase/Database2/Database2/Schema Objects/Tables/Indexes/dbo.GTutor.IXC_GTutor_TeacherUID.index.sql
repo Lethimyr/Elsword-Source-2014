@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_GTutor_TeacherUID] ON [dbo].[GTutor] ([TeacherUID]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

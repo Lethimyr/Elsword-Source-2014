@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IX_GuildUserState_CN] ON [dbo].[GuildUserState] ([CN]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

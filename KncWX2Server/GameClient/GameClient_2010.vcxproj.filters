@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{3132d907-8c27-4664-a39d-c6d9e141a5f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Socket">
+      <UniqueIdentifier>{b499d522-8cf7-4670-a566-834d63fe96a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Performer">
+      <UniqueIdentifier>{f9088f7c-a1ff-4ae4-9cc8-9e199f8dae60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Packet">
+      <UniqueIdentifier>{63ac5c75-b4e8-4120-8506-b658743ca116}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Event">
+      <UniqueIdentifier>{51231aba-c5a2-4982-943e-90a97cbd4a8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\FSM">
+      <UniqueIdentifier>{1d3596ff-3c0f-4c70-a8b5-78fab79f126c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\FSM\GSFSM">
+      <UniqueIdentifier>{3ac2ee8a-3ed4-4728-a3ed-cd9902d87757}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Lua">
+      <UniqueIdentifier>{68d0b80d-326d-4162-a8bc-ad2ff0a012fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\NetError">
+      <UniqueIdentifier>{9a872ae7-1387-4a0f-bb8c-9d413e72e0d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script">
+      <UniqueIdentifier>{1675f68f-50a7-4032-b0e4-0548c45e64ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor">
+      <UniqueIdentifier>{a115229e-47eb-4281-931c-4f4bf07afaac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor\TCPRELAY">
+      <UniqueIdentifier>{3c1c89e0-4faa-4057-b2ff-c5be094cacb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor\Robot">
+      <UniqueIdentifier>{fb80727c-f3df-485c-9f79-bc5b864cff26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor\RobotThread">
+      <UniqueIdentifier>{2bb117e9-b32a-46ed-a86b-352817188c28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor\TRIOCP">
+      <UniqueIdentifier>{5d2486cf-9659-420a-8a59-67e2aa88e03e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBFSM">
+      <UniqueIdentifier>{6f112f1d-1493-47de-ad62-b501b4262c39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lib">
+      <UniqueIdentifier>{d3947c93-b6ec-4f22-b45d-acd2c3dfeca0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Common\ActionDecider.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Lottery.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\SimObject.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ThreadManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\CircularQueue.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\IOCP.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\IOThread.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\NetCommon.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\Session.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\SocketObject.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ActorProxy.cpp">
+      <Filter>Common\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Performer.cpp">
+      <Filter>Common\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ClientPacket.cpp">
+      <Filter>Common\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\CommonPacket.cpp">
+      <Filter>Common\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Event.cpp">
+      <Filter>Common\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\FSM\FSMclass.cpp">
+      <Filter>Common\FSM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\FSM\FSMstate.cpp">
+      <Filter>Common\FSM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GSFSM.cpp">
+      <Filter>Common\FSM\GSFSM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Lua\KLuaManager.cpp">
+      <Filter>Common\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\NetError.cpp">
+      <Filter>Common\NetError</Filter>
+    </ClCompile>
+    <ClCompile Include="GSProxy.cpp">
+      <Filter>Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="TRThread.cpp">
+      <Filter>Actor\TCPRELAY</Filter>
+    </ClCompile>
+    <ClCompile Include="TRUser.cpp">
+      <Filter>Actor\TCPRELAY</Filter>
+    </ClCompile>
+    <ClCompile Include="TRUserManager.cpp">
+      <Filter>Actor\TCPRELAY</Filter>
+    </ClCompile>
+    <ClCompile Include="KncRobot.cpp">
+      <Filter>Actor\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="KncRobotManager.cpp">
+      <Filter>Actor\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="KncRobotThread.cpp">
+      <Filter>Actor\RobotThread</Filter>
+    </ClCompile>
+    <ClCompile Include="KncRobotThreadManager.cpp">
+      <Filter>Actor\RobotThread</Filter>
+    </ClCompile>
+    <ClCompile Include="TRIOCP.cpp">
+      <Filter>Actor\TRIOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="TRIOThread.cpp">
+      <Filter>Actor\TRIOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="RBFSM.cpp">
+      <Filter>RBFSM</Filter>
+    </ClCompile>
+    <ClCompile Include="KRobotPatternManager.cpp">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="Lib\KTDGLineMap.cpp">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="Lib\X2LocationManager.cpp">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientData.cpp" />
+    <ClCompile Include="KncClient.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Common\ActionDecider.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KncSmartPtr.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KncUidType.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Lottery.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SimObject.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ThreadManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\CircularQueue.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\IOCP.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\IOThread.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\NetCommon.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\Overlapped.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\Session.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\SocketObject.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ActorProxy.h">
+      <Filter>Common\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Performer.h">
+      <Filter>Common\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ClientPacket.h">
+      <Filter>Common\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\CommonPacket.h">
+      <Filter>Common\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Event.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\EventID_Client.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\EventID_Server.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\EventID_System.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\FSM\FSMclass.h">
+      <Filter>Common\FSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\FSM\FSMstate.h">
+      <Filter>Common\FSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\FSM\support_FSM.h">
+      <Filter>Common\FSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GSFSM.h">
+      <Filter>Common\FSM\GSFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GSFSMInput_def.h">
+      <Filter>Common\FSM\GSFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GSFSMState_def.h">
+      <Filter>Common\FSM\GSFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Lua\KLuaManager.h">
+      <Filter>Common\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\NetError.h">
+      <Filter>Common\NetError</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\NetError_def.h">
+      <Filter>Common\NetError</Filter>
+    </ClInclude>
+    <ClInclude Include="RBFSM.h">
+      <Filter>RBFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="RBFSMInput_def.h">
+      <Filter>RBFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="RBFSMState_def.h">
+      <Filter>RBFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="KRobotPatternManager.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Lib\X2LocationManager.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="config_rb.lua">
+      <Filter>Script</Filter>
+    </None>
+    <None Include="MapVillage.lua">
+      <Filter>Script</Filter>
+    </None>
+    <None Include="..\GameServer\RobotPattern\RobotActionScript_0.lua">
+      <Filter>Script</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="GSProxy.h">
+      <Filter>Actor</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="RobotAction_def.h">
+      <Filter>Actor</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="TRThread.h">
+      <Filter>Actor\TCPRELAY</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="TRUser.h">
+      <Filter>Actor\TCPRELAY</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="TRUserManager.h">
+      <Filter>Actor\TCPRELAY</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="KncRobot.h">
+      <Filter>Actor\Robot</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="KncRobotManager.h">
+      <Filter>Actor\Robot</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="KncRobotThread.h">
+      <Filter>Actor\RobotThread</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="KncRobotThreadManager.h">
+      <Filter>Actor\RobotThread</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="TRIOCP.h">
+      <Filter>Actor\TRIOCP</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="TRIOThread.h">
+      <Filter>Actor\TRIOCP</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="Lib\KTDGLineMap.h">
+      <Filter>Lib</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="ClientData.h" />
+    <CustomBuildStep Include="KncClient.h" />
+  </ItemGroup>
+</Project>

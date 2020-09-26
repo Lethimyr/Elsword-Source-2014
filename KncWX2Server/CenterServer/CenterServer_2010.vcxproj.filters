@@ -1,0 +1,1210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{a2438df7-5247-4bee-803a-e396d34d0e9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\CrashRpt">
+      <UniqueIdentifier>{191f2e53-5c1a-4310-aaa9-32f22582052c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\FSM">
+      <UniqueIdentifier>{f99aabb8-3cae-4993-880e-128ebb2af050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\FSM\DefaultFSM">
+      <UniqueIdentifier>{0d36cbb5-bc1c-4fe8-a9db-c4078e1d078c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Performer">
+      <UniqueIdentifier>{92e839bc-be49-49e7-b394-c4a5bea54678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Event">
+      <UniqueIdentifier>{c652736f-a607-4e65-815a-82b551a2e371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\NetError">
+      <UniqueIdentifier>{eb26317a-c47d-4435-9103-38b3091810e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Layer">
+      <UniqueIdentifier>{2cebeadc-e104-4218-bfa9-19b3e8523704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\DB">
+      <UniqueIdentifier>{2fcf0188-2327-40b0-93e0-77b406d7608a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Packet">
+      <UniqueIdentifier>{f863bfdd-99f4-42a4-950b-4ee5f6f9472a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Socket">
+      <UniqueIdentifier>{ec267c94-2878-4e4c-9aeb-e201858720b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\SubThread">
+      <UniqueIdentifier>{2029fe2f-7b08-4e6b-ac87-75b74e5a7804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\UI">
+      <UniqueIdentifier>{a81dc473-193a-489a-bd63-2f17f68e6f41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\X2Data">
+      <UniqueIdentifier>{39088ed2-e807-4f38-b727-794f13e8f400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Lua">
+      <UniqueIdentifier>{18057ced-ecbf-4489-9a6b-52bea3350b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\XML">
+      <UniqueIdentifier>{6577f3db-e1f9-43be-9139-fd307b1900c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Enum">
+      <UniqueIdentifier>{05a3206a-3f65-4961-bf83-dc9c968cface}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\GameEvent">
+      <UniqueIdentifier>{694e5507-072c-4103-9656-485745347590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\GameEvent\Event">
+      <UniqueIdentifier>{7c8b5d6e-03e3-4b9b-935b-8525941a64d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\GameSysVal">
+      <UniqueIdentifier>{a9f938b1-05c1-4a86-b315-657f0c5c277e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\AbuserLog">
+      <UniqueIdentifier>{78220ec4-3668-45be-8a1d-cd0baba67604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Room">
+      <UniqueIdentifier>{d0bff9cd-19b4-4675-9226-40c1e2c3d285}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Profiler">
+      <UniqueIdentifier>{50a6a8b3-bb6c-4886-a9e1-969c738aa910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Mail">
+      <UniqueIdentifier>{ad2891bc-e183-417c-a088-b14b2b4b5689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="script">
+      <UniqueIdentifier>{86581f3c-9511-4f4f-8196-c40c7a2700cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DBThread">
+      <UniqueIdentifier>{8cda599e-bb9f-45b8-b9e8-0f7294e94313}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{45c7e0db-d388-4d6c-a644-e3f3f936c482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor">
+      <UniqueIdentifier>{aa015b6b-4a50-4acc-9c60-243176ba69fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Room\Square">
+      <UniqueIdentifier>{fdb16842-a0de-41fc-8c11-47ae4e0f11b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Room\Trade">
+      <UniqueIdentifier>{e39bd999-5096-428f-9452-fc33def68095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Room\PersonalShop">
+      <UniqueIdentifier>{18b5943e-046f-4bcb-be4c-8ffcb0d931b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Room\Arcade">
+      <UniqueIdentifier>{7dd21a1f-3294-488a-9bd1-180c4a3cf62c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Statistics">
+      <UniqueIdentifier>{acecbfad-7dce-4c55-b969-2743b1be5899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Party">
+      <UniqueIdentifier>{80e2d162-aa1e-4b4b-859a-3530c94ed750}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptRefresh">
+      <UniqueIdentifier>{028065e3-b079-4592-9649-71a0d19ff647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\OnlyGlobal">
+      <UniqueIdentifier>{23598d66-c4d8-4507-9f53-ddca3aa7c904}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\OnlyGlobal\Packet">
+      <UniqueIdentifier>{14fe49e5-bf85-40b5-b574-05976831cf3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\OnlyGlobal\Define">
+      <UniqueIdentifier>{80deb907-f4b4-40ef-9541-6a755e2d9333}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Common\ActorFactory.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ActorManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\BaseServer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KAutoPath.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KFolderTraverse.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KFtpWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KLogReporter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KncSmartPtr.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KncUidType.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KStatisticsLocalLog.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Lottery.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ProxyManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\RefreshSingleton.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SecurityString.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ServerLogManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SimObject.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Statistics.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\StatisticsID_def.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\StatisticsManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\StringTable.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ThreadStatisticsManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\TickDumper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\TSMEventProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\CrashRpt\KncCrashRpt.h">
+      <Filter>Common\CrashRpt</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Fsm\FSMclass.h">
+      <Filter>Common\FSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Fsm\FSMstate.h">
+      <Filter>Common\FSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Fsm\support_FSM.h">
+      <Filter>Common\FSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\DefaultFSM.h">
+      <Filter>Common\FSM\DefaultFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\DefaultFSMInput_def.h">
+      <Filter>Common\FSM\DefaultFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\DefaultFSMState_def.h">
+      <Filter>Common\FSM\DefaultFSM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Actor.h">
+      <Filter>Common\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ActorProxy.h">
+      <Filter>Common\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Performer.h">
+      <Filter>Common\Performer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Event.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\EventID_Client.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\EventID_Server.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\EventID_System.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\KncSend.h">
+      <Filter>Common\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\NetError.h">
+      <Filter>Common\NetError</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\NetError_def.h">
+      <Filter>Common\NetError</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\DBLayer.h">
+      <Filter>Common\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\NetLayer.h">
+      <Filter>Common\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SimLayer.h">
+      <Filter>Common\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ODBC\DBUtil.h">
+      <Filter>Common\DB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Odbc\Odbc.h">
+      <Filter>Common\DB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ClientPacket.h">
+      <Filter>Common\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\CommonPacket.h">
+      <Filter>Common\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ServerPacket.h">
+      <Filter>Common\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SystemPacket.h">
+      <Filter>Common\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\Accepter.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\CircularQueue.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\IOCP.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\IOThread.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\KTDNUDP.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\LBSUdpEcho.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\NetCommon.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\Overlapped.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\Session.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\SocketObject.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\UdpEcho.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\UdpToServer.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Socket\X2Packet.h">
+      <Filter>Common\Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\DBConnectionInfo_def.h">
+      <Filter>Common\SubThread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\DBThreadManager.h">
+      <Filter>Common\SubThread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SubThread.h">
+      <Filter>Common\SubThread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ThreadManager.h">
+      <Filter>Common\SubThread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\DBConnectionDlg.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\EditLog.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\EditStreamBuf.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\HookStdio.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\ServerApp.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\ServerUIDlg.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\stdafx.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ui\SubclassWnd.h">
+      <Filter>Common\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLCheckSumManager.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLDamageManager.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLDungeon.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLDungeonManager.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLDungeonStage.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLDungeonSubStage.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLGUNPCAI.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLInventory.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLItem.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLItemManager.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLMain.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLMapData.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLParty.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLQuestManager.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLRoom.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLSquareGame.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLSquareUnit.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLStat.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLUnit.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLUnitManager.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\X2Data\XSLUser.h">
+      <Filter>Common\X2Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Lua\KLuaManager.h">
+      <Filter>Common\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\XML\Markup.h">
+      <Filter>Common\XML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Enum\Enum.h">
+      <Filter>Common\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventManager.h">
+      <Filter>Common\GameEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventScriptManager.h">
+      <Filter>Common\GameEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEvent.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventConnectTime.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventCumulativeTime.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventItemDrop.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventMonster.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventNotifyMSG.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventQuest.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventReward.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventSecretDungeon.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventSpirit.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameEvent\GameEventTournament.h">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GameSysVal\GameSysVal.h">
+      <Filter>Common\GameSysVal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\AbuserLog\KAbuserLogManager.h">
+      <Filter>Common\AbuserLog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Room\RoomManager.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Profiler\Profiler.h">
+      <Filter>Common\Profiler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Mail\base64.h">
+      <Filter>Common\Mail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Mail\MailManager.h">
+      <Filter>Common\Mail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Mail\MailMIMEHeader.h">
+      <Filter>Common\Mail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Mail\MailSMTPHeader.h">
+      <Filter>Common\Mail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Mail\X2SMTPMail.h">
+      <Filter>Common\Mail</Filter>
+    </ClInclude>
+    <ClInclude Include="CnNetLayer.h">
+      <Filter>Common\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="CnSimLayer.h">
+      <Filter>Common\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="CnAccountDBThread.h">
+      <Filter>DBThread</Filter>
+    </ClInclude>
+    <ClInclude Include="CnLogDBThread.h">
+      <Filter>DBThread</Filter>
+    </ClInclude>
+    <ClInclude Include="CnSMSDBThread.h">
+      <Filter>DBThread</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="CnUser.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseRoomFSM.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseRoomFSMInput_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseRoomFSMState_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="CnBaseRoom.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="CnRMEventProcess.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="CnRoomManager.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonRoom.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="PvPRoom.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomFSM.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomFSMInput_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomFSMState_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomSlot.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomSlotFSM.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomSlotFSMInput_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomSlotFSMState_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomUser.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomUserFSM.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomUserFSMInput_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomUserFSMState_def.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomUserManager.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="TrainingCenterRoom.h">
+      <Filter>Common\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Common\Room\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="SquareUser.h">
+      <Filter>Common\Room\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="SquareUserManager.h">
+      <Filter>Common\Room\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="Trade.h">
+      <Filter>Common\Room\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="TradeFSM.h">
+      <Filter>Common\Room\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="TradeFSMInput_def.h">
+      <Filter>Common\Room\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="TradeFSMState_def.h">
+      <Filter>Common\Room\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="TradeUser.h">
+      <Filter>Common\Room\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="TradeUserManager.h">
+      <Filter>Common\Room\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="ArcadeRoom.h">
+      <Filter>Common\Room\Arcade</Filter>
+    </ClInclude>
+    <ClInclude Include="StatDungeon_def.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="StatPvP_def.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="CnParty.h">
+      <Filter>Party</Filter>
+    </ClInclude>
+    <ClInclude Include="CnPartyManager.h">
+      <Filter>Party</Filter>
+    </ClInclude>
+    <ClInclude Include="CnPartyUser.h">
+      <Filter>Party</Filter>
+    </ClInclude>
+    <ClInclude Include="CnScriptRefreshManager.h">
+      <Filter>ScriptRefresh</Filter>
+    </ClInclude>
+    <ClInclude Include="CnScriptRefreshThread.h">
+      <Filter>ScriptRefresh</Filter>
+    </ClInclude>
+    <ClInclude Include="ArcadeResultTable.h" />
+    <ClInclude Include="CnHackingCheckManager.h" />
+    <ClInclude Include="CnServer.h" />
+    <ClInclude Include="DungeonEventManager.h" />
+    <ClInclude Include="HenirResultTable.h" />
+    <ClInclude Include="KAttribNpcTable.h" />
+    <ClInclude Include="KDropTable.h" />
+    <ClInclude Include="KPVPResultTable.h" />
+    <ClInclude Include="ResultProcess.h" />
+    <ClInclude Include="..\Common\ServerDefine.h" />
+    <ClInclude Include="..\Common\OnlyGlobal\EventID_Client_Global.h">
+      <Filter>Common\OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\EventID_Server_Global.h">
+      <Filter>Common\OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\EventID_System_Global.h">
+      <Filter>Common\OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\ServerPacket_Global.h">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\SystemPacket_Global.h">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\ClientPacket_Global.h">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\Packet\CommonPacket_Global.h">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_ID.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_JP.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_TH.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_TWHK.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_US.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_BR.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_CN.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_Global.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\OnlyGlobal\ServerDefine\ServerDefine_EU.h">
+      <Filter>Common\OnlyGlobal\Define</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Common\ActorManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\BaseServer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KAutoPath.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KFolderTraverse.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KFtpWrapper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KLogReporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KncUidType.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KStatisticsLocalLog.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Lottery.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ProxyManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\SecurityString.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ServerLogManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\SimObject.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Statistics.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\StatisticsManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\StringTable.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ThreadStatisticsManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\TSMEventProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Fsm\FSMclass.cpp">
+      <Filter>Common\FSM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Fsm\FSMstate.cpp">
+      <Filter>Common\FSM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\DefaultFSM.cpp">
+      <Filter>Common\FSM\DefaultFSM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Actor.cpp">
+      <Filter>Common\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ActorProxy.cpp">
+      <Filter>Common\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Performer.cpp">
+      <Filter>Common\Performer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Event.cpp">
+      <Filter>Common\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\KncSend.cpp">
+      <Filter>Common\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\NetError.cpp">
+      <Filter>Common\NetError</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\DBLayer.cpp">
+      <Filter>Common\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\NetLayer.cpp">
+      <Filter>Common\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\SimLayer.cpp">
+      <Filter>Common\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ODBC\DBUtil.cpp">
+      <Filter>Common\DB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Odbc\Odbc.cpp">
+      <Filter>Common\DB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ClientPacket.cpp">
+      <Filter>Common\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\CommonPacket.cpp">
+      <Filter>Common\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ServerPacket.cpp">
+      <Filter>Common\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\SystemPacket.cpp">
+      <Filter>Common\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\Accepter.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\CircularQueue.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\IOCP.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\IOThread.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\KTDNUDP.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\LBSUdpEcho.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\NetCommon.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\Session.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\SocketObject.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\UdpEcho.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Socket\X2Packet.cpp">
+      <Filter>Common\Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\DBThreadManager.cpp">
+      <Filter>Common\SubThread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ThreadManager.cpp">
+      <Filter>Common\SubThread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\DBConnectionDlg.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\EditLog.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\HookStdio.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\ServerApp.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\ServerUIDlg.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\stdafx.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\ui\SubclassWnd.cpp">
+      <Filter>Common\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLCheckSumManager.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLDamageManager.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLDungeon.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLDungeonManager.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLDungeonStage.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLDungeonSubStage.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLGUNPCAI.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLInventory.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLItem.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLItemManager.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLMain.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLMapData.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLParty.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLQuestManager.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLRoom.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLSquareGame.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLSquareUnit.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLStat.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLUnit.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLUnitManager.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\X2Data\XSLUser.cpp">
+      <Filter>Common\X2Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Lua\KLuaManager.cpp">
+      <Filter>Common\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\XML\Markup.cpp">
+      <Filter>Common\XML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventManager.cpp">
+      <Filter>Common\GameEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventScriptManager.cpp">
+      <Filter>Common\GameEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEvent.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventConnectTime.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventCumulativeTime.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventItemDrop.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventMonster.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventNotifyMSG.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventQuest.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventReward.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventSecretDungeon.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventSpirit.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameEvent\GameEventTournament.cpp">
+      <Filter>Common\GameEvent\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameSysVal\GameSysVal.cpp">
+      <Filter>Common\GameSysVal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\AbuserLog\KAbuserLogManager.cpp">
+      <Filter>Common\AbuserLog</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Room\RoomManager.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Profiler\Profiler.cpp">
+      <Filter>Common\Profiler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Mail\base64.cpp">
+      <Filter>Common\Mail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Mail\MailManager.cpp">
+      <Filter>Common\Mail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Mail\X2SMTPMail.cpp">
+      <Filter>Common\Mail</Filter>
+    </ClCompile>
+    <ClCompile Include="CnNetLayer.cpp">
+      <Filter>Common\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="CnSimLayer.cpp">
+      <Filter>Common\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="CnAccountDBThread.cpp">
+      <Filter>DBThread</Filter>
+    </ClCompile>
+    <ClCompile Include="CnLogDBThread.cpp">
+      <Filter>DBThread</Filter>
+    </ClCompile>
+    <ClCompile Include="CnSMSDBThread.cpp">
+      <Filter>DBThread</Filter>
+    </ClCompile>
+    <ClCompile Include="CnUser.cpp">
+      <Filter>Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseRoomFSM.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="CnBaseRoom.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="CnRMEventProcess.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="CnRoomManager.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonRoom.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="PvPRoom.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomFSM.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomSlot.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomSlotFSM.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomUser.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomUserFSM.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomUserManager.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="TrainingCenterRoom.cpp">
+      <Filter>Common\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Common\Room\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="SquareUser.cpp">
+      <Filter>Common\Room\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="SquareUserManager.cpp">
+      <Filter>Common\Room\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="Trade.cpp">
+      <Filter>Common\Room\Trade</Filter>
+    </ClCompile>
+    <ClCompile Include="TradeFSM.cpp">
+      <Filter>Common\Room\Trade</Filter>
+    </ClCompile>
+    <ClCompile Include="TradeUser.cpp">
+      <Filter>Common\Room\Trade</Filter>
+    </ClCompile>
+    <ClCompile Include="TradeUserManager.cpp">
+      <Filter>Common\Room\Trade</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonalShop.cpp">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonalShopFSM.cpp">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonalShopUser.cpp">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonalShopUserManager.cpp">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </ClCompile>
+    <ClCompile Include="ArcadeRoom.cpp">
+      <Filter>Common\Room\Arcade</Filter>
+    </ClCompile>
+    <ClCompile Include="CnParty.cpp">
+      <Filter>Party</Filter>
+    </ClCompile>
+    <ClCompile Include="CnPartyManager.cpp">
+      <Filter>Party</Filter>
+    </ClCompile>
+    <ClCompile Include="CnPartyUser.cpp">
+      <Filter>Party</Filter>
+    </ClCompile>
+    <ClCompile Include="CnScriptRefreshManager.cpp">
+      <Filter>ScriptRefresh</Filter>
+    </ClCompile>
+    <ClCompile Include="CnScriptRefreshThread.cpp">
+      <Filter>ScriptRefresh</Filter>
+    </ClCompile>
+    <ClCompile Include="ArcadeResultTable.cpp" />
+    <ClCompile Include="CnHackingCheckManager.cpp" />
+    <ClCompile Include="CnServer.cpp" />
+    <ClCompile Include="DungeonEventManager.cpp" />
+    <ClCompile Include="HenirResultTable.cpp" />
+    <ClCompile Include="KAttribNpcTable.cpp" />
+    <ClCompile Include="KDropTable.cpp" />
+    <ClCompile Include="KPVPResultTable.cpp" />
+    <ClCompile Include="ResultProcess.cpp" />
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\ServerPacket_Global.cpp">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\SystemPacket_Global.cpp">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\ClientPacket_Global.cpp">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\OnlyGlobal\Packet\CommonPacket_Global.cpp">
+      <Filter>Common\OnlyGlobal\Packet</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Common\GameEvent\EventData.lua">
+      <Filter>Common\GameEvent</Filter>
+    </None>
+    <None Include="..\Common\GameEvent\EventMonsterData.lua">
+      <Filter>Common\GameEvent</Filter>
+    </None>
+    <None Include="..\Common\GameSysVal\GameSysValTable.lua">
+      <Filter>Common\GameSysVal</Filter>
+    </None>
+    <None Include="..\Common\AbuserLog\AbuserList.lua">
+      <Filter>Common\AbuserLog</Filter>
+    </None>
+    <None Include="ArcadeNpcLvTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="ArcadeResultTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="AttribNpcTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="CnHackingCheckData.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="config_cn.ini">
+      <Filter>script</Filter>
+    </None>
+    <None Include="config_cn_KR_INTERNAL.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="config_cn_KR_OPEN_TEST.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="config_cn_KR_SERVICE.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="DropData.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="DropTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="HenirData.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="HenirResultTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="log_GAIA.dsn">
+      <Filter>script</Filter>
+    </None>
+    <None Include="log_SOLES.dsn">
+      <Filter>script</Filter>
+    </None>
+    <None Include="NpcExpTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="PvPDropTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="ResultData.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="SecretDungeonData.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="SMS.dsn">
+      <Filter>script</Filter>
+    </None>
+    <None Include="StaticDropTable.lua">
+      <Filter>script</Filter>
+    </None>
+    <None Include="icon.ico">
+      <Filter>Resource</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CenterServer.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="PersonalShop.h">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="PersonalShopFSM.h">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="PersonalShopFSMInput_def.h">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="PersonalShopFSMState_def.h">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="PersonalShopUser.h">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </CustomBuildStep>
+    <CustomBuildStep Include="PersonalShopUserManager.h">
+      <Filter>Common\Room\PersonalShop</Filter>
+    </CustomBuildStep>
+  </ItemGroup>
+</Project>

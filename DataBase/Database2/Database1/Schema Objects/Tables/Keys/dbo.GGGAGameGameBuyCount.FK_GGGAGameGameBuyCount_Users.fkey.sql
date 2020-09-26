@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GGGAGameGameBuyCount] ADD
+CONSTRAINT [FK_GGGAGameGameBuyCount_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

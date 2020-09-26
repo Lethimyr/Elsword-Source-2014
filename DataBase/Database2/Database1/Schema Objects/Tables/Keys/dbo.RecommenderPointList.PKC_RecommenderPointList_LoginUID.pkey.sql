@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[RecommenderPointList] ADD CONSTRAINT [PKC_RecommenderPointList_LoginUID] PRIMARY KEY CLUSTERED  ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

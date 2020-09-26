@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Project">
+  <Items>
+    <LogicalFolder Name="연결" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="Elsword:sa">
+          <Created>2009-03-11T17:37:37.21875+09:00</Created>
+          <Type>SQL</Type>
+          <Server>Elsword</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="쿼리" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="gup_get_tool_login_history.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Elsword:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Elsword</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>gup_get_tool_login_history.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mup_auth_user.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Elsword:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Elsword</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mup_auth_user.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mup_create_nx_user.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Elsword:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Elsword</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mup_create_nx_user.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mup_create_user.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Elsword:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Elsword</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mup_create_user.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="기타" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+  <SccProjectName>SAK</SccProjectName>
+  <SccAuxPath>SAK</SccAuxPath>
+  <SccLocalPath>SAK</SccLocalPath>
+  <SccProvider>SAK</SccProvider>
+</SqlWorkbenchSqlProject>

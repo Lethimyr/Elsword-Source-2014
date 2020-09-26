@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GuildInfo] ADD CONSTRAINT [DF_GUILDINFO_NumWins] DEFAULT (0) FOR [NumWins]
+
+

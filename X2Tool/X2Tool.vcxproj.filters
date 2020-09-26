@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Base Class">
+      <UniqueIdentifier>{b5c21c04-f184-4329-8cde-ae9c8aff5fae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Control Class">
+      <UniqueIdentifier>{22f1b10d-6d62-4875-9906-a76730404b4c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\file_view.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\file_view_hc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\class_view.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\class_view_hc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\fileview.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\fileview_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\classview.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\classview_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\explorer.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\explorer_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\sort.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\sort_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\menuimages.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\menuimages_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\output_wnd.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\output_wnd_hc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\properties_wnd.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\properties_wnd_hc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\properties.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\properties_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\nav_large.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\nav_large_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\pages.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\pages_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\pages_small.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\pages_small_hc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="UserImages.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\X2Tool.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\X2ToolDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\X2Tool.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\cursor1.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="DefaultCursor.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\toolbar1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\cursor2.cur">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\new.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Remove.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Up.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Down.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertiesWnd.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonInfo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonDataDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LineBaseEditor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolStartNotice.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolEnumDefine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraInfo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LineCamera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LineStartPosition.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LineStartPositionInfo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerPropertiesWnd.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EditWorld.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="UserProperty.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshCategory.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LineSector.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EditDungeon.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MemDC.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="NpcList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerFunc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolDungeonMap.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectToolUnit.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="X2Tool.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="X2ToolView.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="X2ToolDoc.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="X2ToolMain.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinButton.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinDialog.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewTree.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XComboBox.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XDateBox.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XEditBox.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XHeaderCtrl.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XListCtrl.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XSpinBox.h">
+      <Filter>Control Class</Filter>
+    </ClInclude>
+    <ClInclude Include="X2EnumManager.h">
+      <Filter>Base Class</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ClassView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertiesWnd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonInfo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonDataDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LineBaseEditor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolStartNotice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraInfo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LineCamera.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LineStartPosition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LineStartPositionInfo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerPropertiesWnd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EditWorld.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UserProperty.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleList.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshCategory.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LineSector.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EditDungeon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NpcList.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolDungeonMap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectToolUnit.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X2ToolView.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+    <ClCompile Include="X2ToolMain.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+    <ClCompile Include="X2ToolDoc.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+    <ClCompile Include="X2Tool.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinButton.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinDialog.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewTree.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XComboBox.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XDateBox.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XEditBox.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XHeaderCtrl.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XListCtrl.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XSpinBox.cpp">
+      <Filter>Control Class</Filter>
+    </ClCompile>
+    <ClCompile Include="X2EnumManager.cpp">
+      <Filter>Base Class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="X2Tool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

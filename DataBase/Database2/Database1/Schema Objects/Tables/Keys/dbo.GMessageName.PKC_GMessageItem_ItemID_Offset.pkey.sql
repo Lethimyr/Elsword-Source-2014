@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GMessageName] ADD CONSTRAINT [PKC_GMessageItem_ItemID_Offset] PRIMARY KEY CLUSTERED  ([ItemID], [Offset]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

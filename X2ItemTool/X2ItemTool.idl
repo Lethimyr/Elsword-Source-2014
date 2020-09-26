@@ -1,0 +1,29 @@
+// X2ItemTool.idl : X2ItemTool.exe에 대한 형식 라이브러리 소스
+
+// 이 파일은 MIDL 컴파일러에 의해 처리되며 형식 라이브러리
+// (X2ItemTool.tlb)를 생성합니다.
+
+[ uuid(0DAFC907-C29A-41FC-9983-010997A3738C), version(1.0) ]
+library X2ItemTool
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  CX2ItemToolDoc의 기본 디스패치 인터페이스
+	
+	[ uuid(551A743D-ABB1-4F0C-88D1-0E24EC0CAD00) ]
+	dispinterface IX2ItemTool
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  CX2ItemToolDoc의 클래스 정보
+	
+	[ uuid(F55175D4-DEA7-48C5-8285-FA9A8CC99042) ]
+	coclass CX2ItemToolDoc
+	{
+		[default] dispinterface IX2ItemTool;
+	};
+};

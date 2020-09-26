@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 28
+Debug
+KR_TEST
+Release
+VTune
+
+END

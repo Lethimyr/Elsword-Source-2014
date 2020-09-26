@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[IndigoUser] ADD CONSTRAINT [DF_IndigoUser_RP] DEFAULT (1000) FOR [RP]
+
+

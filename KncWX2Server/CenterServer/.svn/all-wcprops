@@ -1,0 +1,995 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/105190/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer
+END
+SquareUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102175/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/SquareUser.cpp
+END
+CnRMEventProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnRMEventProcess.cpp
+END
+CnScriptRefreshThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnScriptRefreshThread.h
+END
+PvpMonsterManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PvpMonsterManager.cpp
+END
+CenterServer.aps
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer.aps
+END
+CnPartyFSMState_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyFSMState_def.h
+END
+CnSimLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnSimLayer.h
+END
+ResultProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/ResultProcess.cpp
+END
+PersonalShop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PersonalShop.cpp
+END
+RoomSlot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomSlot.cpp
+END
+KAttribNpcTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KAttribNpcTable.h
+END
+MailSMTP.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/MailSMTP.dll
+END
+HenirResultTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/HenirResultTable.h
+END
+DungeonSecurityManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonSecurityManager.cpp
+END
+CnHackingCheckManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnHackingCheckManager.h
+END
+NewCnPartyManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/NewCnPartyManager.cpp
+END
+CnSMSDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnSMSDBThread.h
+END
+AuthCheck.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/AuthCheck.dll
+END
+tbbmalloc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/tbbmalloc.dll
+END
+tbbmalloc_proxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/tbbmalloc_proxy.dll
+END
+NewCnParty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/NewCnParty.cpp
+END
+Account.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Account.dsn
+END
+TradeUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/TradeUserManager.h
+END
+Square.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Square.cpp
+END
+BadAttitudeTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BadAttitudeTable.cpp
+END
+BattleFieldGameManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldGameManager.cpp
+END
+DefenceDungeonManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DefenceDungeonManager.h
+END
+TrainingCenterRoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/TrainingCenterRoom.cpp
+END
+ValentineManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/ValentineManager.cpp
+END
+BattleFieldRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldRoom.h
+END
+BattleFieldMonsterManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldMonsterManager.cpp
+END
+RoomSlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomSlot.h
+END
+CnPartyFSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyFSM.cpp
+END
+DungeonSecurityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonSecurityManager.h
+END
+log_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/log_SOLES.dsn
+END
+PvpMatchResultTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PvpMatchResultTable.cpp
+END
+CnRoomManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnRoomManager.h
+END
+TradeUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/TradeUser.cpp
+END
+NewCnParty.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/NewCnParty.h
+END
+DungeonRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonRoom.h
+END
+DungeonMonsterManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonMonsterManager.cpp
+END
+CnScriptRefreshManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnScriptRefreshManager.h
+END
+BadAttitudeTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BadAttitudeTable.h
+END
+InteriorUdpSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/InteriorUdpSession.cpp
+END
+CnPartyUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyUserManager.cpp
+END
+BattleFieldUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldUserManager.h
+END
+config_cn_INT_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config_cn_INT_SERVICE.lua
+END
+CnAccountDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnAccountDBThread.h
+END
+game01_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/game01_SOLES.dsn
+END
+StatPvP_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/StatPvP_def.h
+END
+BattleFieldMonsterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldMonsterManager.h
+END
+CnBaseRoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnBaseRoom.cpp
+END
+CenterServer_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer_2010.vcxproj.filters
+END
+BadAttitudeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BadAttitudeManager.h
+END
+SquareUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/SquareUserManager.cpp
+END
+CnPartyFSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyFSM.h
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/msvcr71.dll
+END
+CnScriptRefreshThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnScriptRefreshThread.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/resource.h
+END
+CnScriptRefreshManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnScriptRefreshManager.cpp
+END
+TradeUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/TradeUser.h
+END
+BattleFieldParty.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldParty.h
+END
+tbb_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/tbb_debug.dll
+END
+DungeonMonsterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonMonsterManager.h
+END
+BattleFieldManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldManager.cpp
+END
+CnAccountDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnAccountDBThread.cpp
+END
+HenirResultTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/HenirResultTable.cpp
+END
+MailMIME.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/MailMIME.lib
+END
+CnPartyUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyUserManager.h
+END
+icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/icon.ico
+END
+WeddingHallUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/WeddingHallUserManager.h
+END
+ResultProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/ResultProcess.h
+END
+PersonalShop.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102175/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PersonalShop.h
+END
+KncCrashRptSV.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KncCrashRptSV.dll
+END
+NewCnPartyManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/NewCnPartyManager.h
+END
+d3dx9_43.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/d3dx9_43.dll
+END
+CenterServer_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer_2010.vcxproj.user
+END
+BattleFieldParty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldParty.cpp
+END
+SquareUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/SquareUserManager.h
+END
+DefenceDungeonManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DefenceDungeonManager.cpp
+END
+CnEventDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnEventDBThread.h
+END
+CnLogDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnLogDBThread.h
+END
+CnPartyGameManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyGameManager.cpp
+END
+Game_CN_INTERNAL_1.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Game_CN_INTERNAL_1.dsn
+END
+RoomSlotManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomSlotManager.cpp
+END
+CnNetLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnNetLayer.h
+END
+BattleFieldRoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldRoom.cpp
+END
+TrainingCenterRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/TrainingCenterRoom.h
+END
+BattleFieldManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldManager.h
+END
+Room.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Room.h
+END
+CnRoomManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnRoomManager.cpp
+END
+KPVPResultTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KPVPResultTable.h
+END
+DungeonRoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonRoom.cpp
+END
+CnGameDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnGameDBThread.h
+END
+PvpMatchResultTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PvpMatchResultTable.h
+END
+config_cn_CN_BETA.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config_cn_CN_BETA.lua
+END
+tbbmalloc_proxy_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/tbbmalloc_proxy_debug.dll
+END
+tbb.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/tbb.dll
+END
+DungeonEventManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonEventManager.h
+END
+CnRMEventProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnRMEventProcess.h
+END
+RoomUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomUserManager.cpp
+END
+KAttribNpcTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KAttribNpcTable.cpp
+END
+MailSMTP.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/MailSMTP.lib
+END
+PvpMonsterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PvpMonsterManager.h
+END
+StatDungeon_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/StatDungeon_def.h
+END
+config_cn_INT_OPEN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config_cn_INT_OPEN_TEST.lua
+END
+RoomUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomUser.h
+END
+CnSMSDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnSMSDBThread.cpp
+END
+RoomMonsterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomMonsterManager.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Main.cpp
+END
+KPVPResultTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KPVPResultTable.cpp
+END
+TradeUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/TradeUserManager.cpp
+END
+d3dx9d_30.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/d3dx9d_30.dll
+END
+CenterServer_2003.vcproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer_2003.vcproj.vspscc
+END
+PvPRoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PvPRoom.cpp
+END
+CnUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnUser.h
+END
+Trade.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Trade.h
+END
+Square.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Square.h
+END
+CnPartyFeverManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyFeverManager.h
+END
+BattleFieldGameManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldGameManager.h
+END
+RoomUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomUser.cpp
+END
+RoomUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102275/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomUserManager.h
+END
+WeddingHallUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/WeddingHallUserManager.cpp
+END
+Game_CN_ZR06.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Game_CN_ZR06.dsn
+END
+RoomMonsterManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomMonsterManager.cpp
+END
+WeddingHall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/WeddingHall.cpp
+END
+CenterServer_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer_2010.vcxproj
+END
+MailMIME.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/MailMIME.dll
+END
+CnPartyUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyUser.h
+END
+ValentineManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/ValentineManager.h
+END
+CenterServer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer.rc
+END
+msvcp71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/msvcp71.dll
+END
+mfc71u.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/mfc71u.dll
+END
+KDropTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KDropTable.h
+END
+CenterServer_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CenterServer_2003.vcproj
+END
+CnServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnServer.h
+END
+tbbmalloc_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/tbbmalloc_debug.dll
+END
+CnUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnUser.cpp
+END
+Trade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Trade.cpp
+END
+CnEventDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnEventDBThread.cpp
+END
+CnLogDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/104657/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnLogDBThread.cpp
+END
+CnPartyFeverManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyFeverManager.cpp
+END
+CnNetLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnNetLayer.cpp
+END
+SMS.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/SMS.dsn
+END
+SquareUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/SquareUser.h
+END
+CnSimLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnSimLayer.cpp
+END
+PvPRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/PvPRoom.h
+END
+BattleFieldUserManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BattleFieldUserManager.cpp
+END
+CnPartyGameManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyGameManager.h
+END
+Room.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/Room.cpp
+END
+InteriorUdpSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/InteriorUdpSession.h
+END
+RoomSlotManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RoomSlotManager.h
+END
+CnHackingCheckManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnHackingCheckManager.cpp
+END
+CnPartyUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyUser.cpp
+END
+config_cn.ini
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config_cn.ini
+END
+BadAttitudeManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/BadAttitudeManager.cpp
+END
+KDropTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/KDropTable.cpp
+END
+CnServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnServer.cpp
+END
+WeddingHall.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/WeddingHall.h
+END
+CnGameDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnGameDBThread.cpp
+END
+RunCenter.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/RunCenter.bat
+END
+CnPartyFSMInput_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnPartyFSMInput_def.h
+END
+config_cn_INT_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/config_cn_INT_INTERNAL.lua
+END
+DungeonEventManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/DungeonEventManager.cpp
+END
+CnBaseRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/CenterServer/CnBaseRoom.h
+END

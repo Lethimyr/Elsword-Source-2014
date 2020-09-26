@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102275/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN
+END
+Billing_CN_ZR01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_ZR01_SERVICE.dsn
+END
+Account_CN_WH02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_WH02_SERVICE.dsn
+END
+Billing_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_INTERNAL.dsn
+END
+Billing_CN_ZR02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_ZR02_SERVICE.dsn
+END
+Billing_CN_ZR03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_ZR03_SERVICE.dsn
+END
+Billing_CN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_TEST.dsn
+END
+config_lg_CN_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102275/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/config_lg_CN_INTERNAL.lua
+END
+config_lg_CN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/config_lg_CN_TEST.lua
+END
+Game01_CN_WH01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_WH01_SERVICE.dsn
+END
+Game01_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_SERVICE_TEST.dsn
+END
+Game01_CN_WH02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_WH02_SERVICE.dsn
+END
+Billing_CN_WH01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_WH01_SERVICE.dsn
+END
+Billing_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_SERVICE_TEST.dsn
+END
+Log_CN_TJ01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_TJ01_SERVICE.dsn
+END
+Log_CN_ZD01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_ZD01_SERVICE.dsn
+END
+Billing_CN_WH02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_WH02_SERVICE.dsn
+END
+Log_CN_TJ02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_TJ02_SERVICE.dsn
+END
+Log_CN_TJ03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_TJ03_SERVICE.dsn
+END
+config_lg.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/config_lg.ini
+END
+config_lg_CN_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/config_lg_CN_SERVICE.lua
+END
+Account_CN_TJ01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_TJ01_SERVICE.dsn
+END
+Account_CN_ZD01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_ZD01_SERVICE.dsn
+END
+Account_CN_TJ02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_TJ02_SERVICE.dsn
+END
+Account_CN_TJ03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_TJ03_SERVICE.dsn
+END
+Log_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_INTERNAL.dsn
+END
+Log_CN_ZR01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_ZR01_SERVICE.dsn
+END
+Log_CN_ZR02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_ZR02_SERVICE.dsn
+END
+Log_CN_ZR03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_ZR03_SERVICE.dsn
+END
+Log_CN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_TEST.dsn
+END
+Game01_CN_ZD01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_ZD01_SERVICE.dsn
+END
+Game01_CN_TJ01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_TJ01_SERVICE.dsn
+END
+Account_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_INTERNAL.dsn
+END
+Account_CN_ZR01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_ZR01_SERVICE.dsn
+END
+Game01_CN_TJ02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_TJ02_SERVICE.dsn
+END
+Account_CN_ZR02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_ZR02_SERVICE.dsn
+END
+Game01_CN_TJ03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_TJ03_SERVICE.dsn
+END
+Account_CN_ZR03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_ZR03_SERVICE.dsn
+END
+Account_CN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_TEST.dsn
+END
+Billing_CN_TJ01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_TJ01_SERVICE.dsn
+END
+Billing_CN_TJ02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Billing_CN_TJ02_SERVICE.dsn
+END
+Log_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_SERVICE_TEST.dsn
+END
+Log_CN_WH01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_WH01_SERVICE.dsn
+END
+Log_CN_WH02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Log_CN_WH02_SERVICE.dsn
+END
+Game01_CN_ZR01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_ZR01_SERVICE.dsn
+END
+Game01_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_INTERNAL.dsn
+END
+Game01_CN_ZR02_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_ZR02_SERVICE.dsn
+END
+Game02_CN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game02_CN_INTERNAL.dsn
+END
+Game01_CN_ZR03_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_ZR03_SERVICE.dsn
+END
+Game01_CN_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_TEST.dsn
+END
+Account_CN_SERVICE_TEST.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_SERVICE_TEST.dsn
+END
+Account_CN_WH01_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Account_CN_WH01_SERVICE.dsn
+END
+Game01_CN_ZR06_SERVICE.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/CN/Game01_CN_ZR06_SERVICE.dsn
+END

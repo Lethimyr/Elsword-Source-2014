@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{6f01a052-c4e1-47e3-a802-220893788e5b}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{d267017c-a62f-4cc7-993c-ac4edc0fca37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat">
+      <UniqueIdentifier>{d4cb1f56-5a9c-4d6c-9ae1-a098ade43da3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System">
+      <UniqueIdentifier>{d004ce22-95d2-4254-9a56-0bcf12b65e7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\System\FX">
+      <UniqueIdentifier>{49f4f8dd-0561-44a7-91dc-68c97f538ad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script">
+      <UniqueIdentifier>{da088db1-4293-42da-ade2-751d5c13c925}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dialog">
+      <UniqueIdentifier>{66d13512-1b9e-4e3a-8fee-5ae2c861ca30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dialog\NewVillageUI">
+      <UniqueIdentifier>{f6f1437d-fba1-4091-9083-d234a82e8d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dialog\NewVillageUI\Book">
+      <UniqueIdentifier>{f944d09b-ebc6-408c-adf8-b23962830d63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dialog\NewVillageUI\ComboGuide">
+      <UniqueIdentifier>{6096aadf-6c04-4579-9296-f1cdb7535834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dungeon">
+      <UniqueIdentifier>{105cf5f0-6310-4d51-932c-5d7089bc72fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dungeon\Not_Use">
+      <UniqueIdentifier>{b7c6f969-a2eb-4332-b379-b1a0ad99980a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Dungeon\Ruben_Old">
+      <UniqueIdentifier>{fb9f4f1e-d6e8-4729-a3e9-a047cc760a35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Major">
+      <UniqueIdentifier>{b40113fc-a941-47e1-b52b-28e1234c9c3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Npc">
+      <UniqueIdentifier>{6f0e428e-8d18-4440-80ec-6bf98dc5367d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\Npc\Arcade">
+      <UniqueIdentifier>{b21f426f-bfb2-43ce-95db-9fe7082b2d95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\SQUARE_UNIT">
+      <UniqueIdentifier>{439d6ef5-2c11-4925-8b1a-8defde4cc0e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\UI_NPC">
+      <UniqueIdentifier>{7f92b84a-6fc9-4976-bd92-aecdcb0c0318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World">
+      <UniqueIdentifier>{90f18cea-593e-4563-831a-4cdcb17554f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Altera">
+      <UniqueIdentifier>{c2ee662e-ea3c-4d8e-9c62-758d8222b523}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Arcade">
+      <UniqueIdentifier>{d4f006a4-fb6d-4551-846b-002bd9600d2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Besma">
+      <UniqueIdentifier>{dd455579-6d5c-443f-b68c-7f9783f28131}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Elder">
+      <UniqueIdentifier>{4b4e5caf-2067-40e2-ac47-3a120ef9bea5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Event_Etc">
+      <UniqueIdentifier>{c2167922-1ba3-4478-9775-9273c1dcb74b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Hamel">
+      <UniqueIdentifier>{47d579b3-d3c4-46b4-b456-38dc2f51b7d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Hamel\Hamel_Battle_Ship">
+      <UniqueIdentifier>{1f38720f-e79e-4c38-acdb-63cdbc83a2ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Hamel\Velder_Battle_Ship">
+      <UniqueIdentifier>{fbf8feac-124b-42f4-a929-ceba9663c95f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\NewVillage">
+      <UniqueIdentifier>{fb3f87c2-0a9b-43eb-8f77-ab0c952cce3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\NewVillage\Festival">
+      <UniqueIdentifier>{67f21448-f0fd-4aa7-9471-f541621dc5f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Peita">
+      <UniqueIdentifier>{011b2de7-fb25-41ff-ad1d-c94fdb5a210e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Ruben_New">
+      <UniqueIdentifier>{1622b1d4-0a53-4b65-adf7-fdc55003a3bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Ruben_Old">
+      <UniqueIdentifier>{a06a66ef-71be-4c69-b111-6154dd9b89bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dat\Script\World\Velder">
+      <UniqueIdentifier>{54ff4e6c-8b7b-4cd3-80ca-204bfd050dce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DefaultCursor.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Elsword.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="nexon_cash_bottom.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="nexon_cash_top.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Common\rt_manif.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="common\cursor2.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\resource\ES_INT\Trunk\dat\System\FX\XRenderer.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="X2.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="X2.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="X2.cpp" />
+  </ItemGroup>
+</Project>

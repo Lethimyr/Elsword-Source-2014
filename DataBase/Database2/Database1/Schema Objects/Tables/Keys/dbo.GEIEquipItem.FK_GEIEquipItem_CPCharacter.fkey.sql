@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GEIEquipItem] ADD
+CONSTRAINT [FK_GEIEquipItem_CPCharacter] FOREIGN KEY ([CharType]) REFERENCES [dbo].[CPCharacter] ([CharType]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

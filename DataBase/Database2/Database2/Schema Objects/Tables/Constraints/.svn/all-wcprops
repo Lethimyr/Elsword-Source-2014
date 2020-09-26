@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints
+END
+dbo.GItemSocket.DF__GItemSock__Socke__515009E6.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GItemSocket.DF__GItemSock__Socke__515009E6.defconst.sql
+END
+dbo.GRank_Arcade_Server.DF__GRank_Arc__Unit4__47919582.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GRank_Arcade_Server.DF__GRank_Arc__Unit4__47919582.defconst.sql
+END
+dbo.GRank_Arcade.DF__GRank_Arc__Unit1__40E497F3.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GRank_Arcade.DF__GRank_Arc__Unit1__40E497F3.defconst.sql
+END
+dbo.GUnit.DF_GUnit_LoginCount.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GUnit.DF_GUnit_LoginCount.defconst.sql
+END
+dbo.GItemSocket.DF__GItemSock__Socke__505BE5AD.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GItemSocket.DF__GItemSock__Socke__505BE5AD.defconst.sql
+END
+dbo.GDungeonClear.DF_GDungeonClear_MaxTotalRank.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GDungeonClear.DF_GDungeonClear_MaxTotalRank.defconst.sql
+END
+dbo.GItemSocket.DF__GItemSock__Socke__52442E1F.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GItemSocket.DF__GItemSock__Socke__52442E1F.defconst.sql
+END
+dbo.GCreateUnitCnt.DF__GCreateUnit__CNT__257187A8.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GCreateUnitCnt.DF__GCreateUnit__CNT__257187A8.defconst.sql
+END
+dbo.GRank_Arcade.DF__GRank_Arc__Unit3__42CCE065.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GRank_Arcade.DF__GRank_Arc__Unit3__42CCE065.defconst.sql
+END
+dbo.Get_Super_EL_Info.DF__Get_Super__RegDa__6A30C649.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.Get_Super_EL_Info.DF__Get_Super__RegDa__6A30C649.defconst.sql
+END
+dbo.GIs30Min.DF_GIs30Min_EventType.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GIs30Min.DF_GIs30Min_EventType.defconst.sql
+END
+dbo.GRank_Arcade_Server.DF__GRank_Arc__Unit2__45A94D10.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GRank_Arcade_Server.DF__GRank_Arc__Unit2__45A94D10.defconst.sql
+END
+dbo.GRank_Arcade_Server.DF__GRank_Arc__Unit3__469D7149.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GRank_Arcade_Server.DF__GRank_Arc__Unit3__469D7149.defconst.sql
+END
+dbo.GItemSocket.DF__GItemSock__Socke__53385258.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GItemSocket.DF__GItemSock__Socke__53385258.defconst.sql
+END
+dbo.GSpirit.DF_GSpirit_Flag.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GSpirit.DF_GSpirit_Flag.defconst.sql
+END
+dbo.GDungeonClear.DF_GDungeonClear_MaxScore.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GDungeonClear.DF_GDungeonClear_MaxScore.defconst.sql
+END
+dbo.GUnit.DF_GUnit_LastDate.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GUnit.DF_GUnit_LastDate.defconst.sql
+END
+dbo.GTitle_Complete.DF__GTitle_Co__IsHan__222B06A9.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GTitle_Complete.DF__GTitle_Co__IsHan__222B06A9.defconst.sql
+END
+dbo.GUnit.DF_GUnit_PlayDay.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GUnit.DF_GUnit_PlayDay.defconst.sql
+END
+dbo.Get_EL_Info.DF__Get_EL_In__RegDa__6754599E.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.Get_EL_Info.DF__Get_EL_In__RegDa__6754599E.defconst.sql
+END
+dbo.GRank_Arcade.DF__GRank_Arc__Unit2__41D8BC2C.defconst.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Constraints/dbo.GRank_Arcade.DF__GRank_Arc__Unit2__41D8BC2C.defconst.sql
+END

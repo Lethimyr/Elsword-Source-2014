@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[SDGAServerDataInteger] ADD CONSTRAINT [PKC_SDGAServerDataInteger_RegDateD_Type] PRIMARY KEY CLUSTERED  ([RegDateD], [Type]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

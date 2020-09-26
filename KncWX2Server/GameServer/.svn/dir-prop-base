@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 106
+*.obj
+*.pch
+*.pdb
+*.map
+*.idb
+*.ncb
+*.lib 
+*.suo
+*.vspscc
+BuildLog.htm
+Debug
+Release
+log
+Statistics
+VTune
+
+END

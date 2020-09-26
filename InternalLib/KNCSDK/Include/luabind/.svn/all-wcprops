@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind
+END
+error.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/error.hpp
+END
+copy_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/copy_policy.hpp
+END
+operator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/operator.hpp
+END
+dependency_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/dependency_policy.hpp
+END
+prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/prefix.hpp
+END
+container_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/container_policy.hpp
+END
+open.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/open.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/config.hpp
+END
+class.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/class.hpp
+END
+object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/object.hpp
+END
+iterator_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/iterator_policy.hpp
+END
+raw_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/raw_policy.hpp
+END
+scope.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/scope.hpp
+END
+wrapper_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/wrapper_base.hpp
+END
+back_reference.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/back_reference.hpp
+END
+back_reference_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/back_reference_fwd.hpp
+END
+luabind.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/luabind.hpp
+END
+return_reference_to_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/return_reference_to_policy.hpp
+END
+functor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/functor.hpp
+END
+class_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/class_info.hpp
+END
+out_value_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/out_value_policy.hpp
+END
+weak_ref.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/weak_ref.hpp
+END
+lua_include.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/lua_include.hpp
+END
+function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/function.hpp
+END
+yield_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/yield_policy.hpp
+END
+discard_result_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/discard_result_policy.hpp
+END
+adopt_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/luabind/adopt_policy.hpp
+END

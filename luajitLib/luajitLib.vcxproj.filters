@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\LuaCommon\KLuaManager.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LuaCommon\lua_tinker.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LuaCommon\KLuabinder.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_snap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_state.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_str.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_strscan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_tab.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_trace.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_udata.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_vmevent.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_vmmath.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_aux.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_base.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_bit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_debug.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_ffi.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_init.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_io.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_jit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_math.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_os.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_package.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lib_table.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_alloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_api.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_asm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_bc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_bcread.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_bcwrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_carith.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ccall.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ccallback.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_cconv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_cdata.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_clib.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_cparse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_crecord.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ctype.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_debug.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_dispatch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_err.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ffrecord.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_func.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_gc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_gdbjit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_ir.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_lex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_lib.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_load.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_mcode.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_meta.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_obj.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_dce.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_fold.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_loop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_mem.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_narrow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_sink.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_opt_split.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_parse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\lj_record.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaJIT-2.0.2\src\luajit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\LuaCommon\LuaHeaderCommon.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LuaCommon\KLuabinder.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LuaCommon\KLuaManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lua.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\luaconf.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\luajit.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lualib.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lauxlib.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_alloc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_arch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_arm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_mips.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_ppc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_asm_x86.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_bc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_bcdef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_bcdump.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_carith.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ccall.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ccallback.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_cconv.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_cdata.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_char.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_clib.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_cparse.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_crecord.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ctype.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_debug.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_def.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_dispatch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_arm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_mips.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_ppc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_emit_x86.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_err.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_errmsg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ff.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ffdef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ffrecord.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_folddef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_frame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_func.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_gc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_gdbjit.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ir.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_ircall.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_iropt.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_jit.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_lex.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_lib.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_libdef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_mcode.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_meta.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_obj.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_parse.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_recdef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_record.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_snap.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_state.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_str.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_strscan.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_tab.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_arm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_mips.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_ppc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_target_x86.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_trace.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_traceerr.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_udata.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_vm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lj_vmevent.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaJIT-2.0.2\src\lua.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LuaCommon\lua_tinker.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/XTRAP/Launcher
+END
+XTrap4Launcher_st.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/XTRAP/Launcher/XTrap4Launcher_st.lib
+END
+Xtrap_L_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/XTRAP/Launcher/Xtrap_L_Interface.h
+END
+XTrap4Launcher_mtDll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/XTRAP/Launcher/XTrap4Launcher_mtDll.lib
+END
+XTrap4Launcher_mt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/XTRAP/Launcher/XTrap4Launcher_mt.lib
+END

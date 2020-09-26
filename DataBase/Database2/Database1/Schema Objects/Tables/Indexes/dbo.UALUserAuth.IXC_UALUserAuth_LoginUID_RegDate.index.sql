@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_UALUserAuth_LoginUID_RegDate] ON [dbo].[UALUserAuth] ([LoginUID], [RegDate]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,59 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CenterServer", "CenterServer\CenterServer_2003.vcproj", "{3028DBC3-7BA6-42C5-90E6-26D8B5D51763}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameServer", "GameServer\GameServer_2003.vcproj", "{3028DBC3-7BA6-42C5-90E6-26D8B5D51762}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51763} = {3028DBC3-7BA6-42C5-90E6-26D8B5D51763}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameClient", "GameClient\GameClient_2003.vcproj", "{3982D27F-ABC8-4450-8B63-2BF7C71CC959}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccProjectUniqueName0 = CenterServer\\CenterServer_2003.vcproj
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection0 = CenterServer\\
+		SccProjectUniqueName1 = GameServer\\GameServer_2003.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection1 = GameServer\\
+		SccProjectUniqueName2 = GameClient\\GameClient_2003.vcproj
+		SccLocalPath2 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection2 = GameClient\\
+		SccLocalPath3 = .
+		CanCheckoutShared = true
+		SolutionUniqueID = {5222155C-F758-4A4F-9CE8-4572FFBBD463}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51763}.Debug.ActiveCfg = Debug|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51763}.Debug.Build.0 = Debug|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51763}.Release.ActiveCfg = Release|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51763}.Release.Build.0 = Release|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51762}.Debug.ActiveCfg = Debug|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51762}.Debug.Build.0 = Debug|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51762}.Release.ActiveCfg = Release|Win32
+		{3028DBC3-7BA6-42C5-90E6-26D8B5D51762}.Release.Build.0 = Release|Win32
+		{3982D27F-ABC8-4450-8B63-2BF7C71CC959}.Debug.ActiveCfg = Debug|Win32
+		{3982D27F-ABC8-4450-8B63-2BF7C71CC959}.Debug.Build.0 = Debug|Win32
+		{3982D27F-ABC8-4450-8B63-2BF7C71CC959}.Release.ActiveCfg = Release|Win32
+		{3982D27F-ABC8-4450-8B63-2BF7C71CC959}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal

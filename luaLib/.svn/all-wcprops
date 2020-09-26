@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/luaLib
+END
+luaLib_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/luaLib_2010.vcxproj.user
+END
+ldebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ldebug.c
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ldebug.h
+END
+ltablib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ltablib.c
+END
+lstrlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lstrlib.c
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lualib.h
+END
+lundump.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lundump.c
+END
+luac.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/luaLib/luac.c
+END
+KLuabinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/KLuabinder.h
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lua.hpp
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lundump.h
+END
+lmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lmem.c
+END
+luaLib_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/luaLib/luaLib_2003.vcproj
+END
+lvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lvm.c
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lmem.h
+END
+ltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ltable.c
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lvm.h
+END
+lfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lfunc.c
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ltable.h
+END
+lparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lparser.c
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lfunc.h
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lparser.h
+END
+lbaselib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lbaselib.c
+END
+lzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lzio.c
+END
+lua.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lua.c
+END
+lstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lstring.c
+END
+lobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lobject.c
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lzio.h
+END
+luaLib_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/luaLib/luaLib_2010.vcxproj
+END
+lapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lapi.c
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lua.h
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lstring.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lobject.h
+END
+luaLib_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/luaLib/luaLib_2010.vcxproj.filters
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lapi.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ReadMe.txt
+END
+KLuaManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/KLuaManager.h
+END
+lauxlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/luaLib/lauxlib.c
+END
+lua_tinker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lua_tinker.h
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lauxlib.h
+END
+liolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/liolib.c
+END
+ltests.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ltests.c
+END
+ldo.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ldo.c
+END
+ldump.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ldump.c
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ldo.h
+END
+loslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/loslib.c
+END
+KLuaManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/KLuaManager.cpp
+END
+ldblib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ldblib.c
+END
+ltm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ltm.c
+END
+lstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/luaLib/lstate.c
+END
+lmathlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lmathlib.c
+END
+lua_tinker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lua_tinker.cpp
+END
+luaLib_2003.vcproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/luaLib_2003.vcproj.vspscc
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/ltm.h
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lstate.h
+END
+llex.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/llex.c
+END
+lgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lgc.c
+END
+loadlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/loadlib.c
+END
+lopcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lopcodes.c
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/llex.h
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lgc.h
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lopcodes.h
+END
+linit.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/linit.c
+END
+KLuabinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/KLuabinder.cpp
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/llimits.h
+END
+lcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lcode.c
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/lcode.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/luaconf.h
+END
+print.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/luaLib/print.c
+END

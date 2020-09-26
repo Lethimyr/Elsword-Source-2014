@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=SQL Server
+UID=elsword_gamesp
+Address=220.90.205.18,2433
+Network=DBMSSOCN
+DATABASE=Nxcom_ElswordSP
+WSID=X2-SERVER1
+APP=Microsoft Data Access Components
+SERVER=220.90.205.18
+PWD=#dpfthem$@!rpdlatjqj4

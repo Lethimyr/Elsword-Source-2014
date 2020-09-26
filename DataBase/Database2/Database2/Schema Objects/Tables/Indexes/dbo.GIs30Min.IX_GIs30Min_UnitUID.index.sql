@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IX_GIs30Min_UnitUID] ON [dbo].[GIs30Min] ([UnitUID]) ON [PRIMARY]
+
+

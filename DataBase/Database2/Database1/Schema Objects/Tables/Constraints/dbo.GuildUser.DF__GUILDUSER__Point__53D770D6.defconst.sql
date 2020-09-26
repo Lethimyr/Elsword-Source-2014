@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GuildUser] ADD CONSTRAINT [DF__GUILDUSER__Point__53D770D6] DEFAULT (0) FOR [Point]
+
+

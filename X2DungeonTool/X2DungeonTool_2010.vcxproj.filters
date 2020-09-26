@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{1635a29c-54de-4284-b895-e0f19259523b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{ce42ec69-bbfc-4f1c-a0c6-1523f0838daa}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Lottery.cpp" />
+    <ClCompile Include="X2DTDialog.cpp" />
+    <ClCompile Include="X2DTDropTable.cpp" />
+    <ClCompile Include="X2DTDungeonMapUI.cpp" />
+    <ClCompile Include="X2DTEditBox.cpp" />
+    <ClCompile Include="X2DTGUNPC.cpp" />
+    <ClCompile Include="X2DTListBox.cpp" />
+    <ClCompile Include="X2DTNpcScaleManager.cpp" />
+    <ClCompile Include="X2DTWorld.cpp" />
+    <ClCompile Include="X2DTWorldManager.cpp" />
+    <ClCompile Include="X2DungeonTool.cpp" />
+    <ClCompile Include="X2DungeonToolMain.cpp" />
+    <ClCompile Include="X2EnumManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lottery.h" />
+    <ClInclude Include="X2DTDialog.h" />
+    <ClInclude Include="X2DTDropTable.h" />
+    <ClInclude Include="X2DTDungeonMapUI.h" />
+    <ClInclude Include="X2DTEditBox.h" />
+    <ClInclude Include="X2DTGUNPC.h" />
+    <ClInclude Include="X2DTListBox.h" />
+    <ClInclude Include="X2DTNpcScaleManager.h" />
+    <ClInclude Include="X2DTWorld.h" />
+    <ClInclude Include="X2DTWorldManager.h" />
+    <ClInclude Include="X2DungeonTool.h" />
+    <ClInclude Include="X2EnumManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DungeonToolOpt.lua" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="TestEmpty.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TestEmpty.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="TestEmpty.fx" />
+  </ItemGroup>
+</Project>

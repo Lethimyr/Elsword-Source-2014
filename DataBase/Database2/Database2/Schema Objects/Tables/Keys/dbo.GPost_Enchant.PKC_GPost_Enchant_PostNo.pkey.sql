@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GPost_Enchant] ADD CONSTRAINT [PKC_GPost_Enchant_PostNo] PRIMARY KEY CLUSTERED  ([PostNo]) ON [PRIMARY]
+
+

@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GQuests_Complete] ADD CONSTRAINT [PK_GQuests_Complete] PRIMARY KEY CLUSTERED  ([UnitUID], [QuestID]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IX_GRecommend_NewUID] ON [dbo].[GRecommend] ([NewUID]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

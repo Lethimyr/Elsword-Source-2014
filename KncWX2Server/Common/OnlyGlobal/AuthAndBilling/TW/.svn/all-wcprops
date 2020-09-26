@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/104953/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW
+END
+GASHAuthManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GASHAuthManager.cpp
+END
+GashBillingTCP.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GashBillingTCP.h
+END
+GASHAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/104953/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GASHAuth.cpp
+END
+GASHAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GASHAuthManager.h
+END
+GSGASHBillingThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GSGASHBillingThread.cpp
+END
+GashBillingTCPManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GashBillingTCPManager.cpp
+END
+GASHAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GASHAuth.h
+END
+GSGASHBillingThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GSGASHBillingThread.h
+END
+GashBillingTCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GashBillingTCP.cpp
+END
+GashBillingTCPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TW/GashBillingTCPManager.h
+END

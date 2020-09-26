@@ -1,0 +1,1913 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp
+END
+winpipes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/winpipes.cpp
+END
+xormac.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xormac.h
+END
+safer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/safer.cpp
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/adler32.h
+END
+mars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mars.cpp
+END
+gostval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gostval.dat
+END
+dsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dsa.cpp
+END
+mqv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mqv.h
+END
+filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/filters.cpp
+END
+dmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dmac.h
+END
+dlltest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dlltest.cpp
+END
+dessp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dessp.cpp
+END
+dlie2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dlie2048.dat
+END
+gost.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gost.h
+END
+seal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/seal.cpp
+END
+oaep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/oaep.cpp
+END
+twofish.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/twofish.h
+END
+algparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/algparam.h
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/network.h
+END
+simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/simple.h
+END
+dh2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dh2048.dat
+END
+oids.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/oids.h
+END
+mqv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mqv.cpp
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/zlib.h
+END
+mars.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mars.h
+END
+datatest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/datatest.cpp
+END
+bfinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/bfinit.cpp
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/modes.h
+END
+camellia.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/camellia.h
+END
+3wayval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/3wayval.dat
+END
+rc2val.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc2val.dat
+END
+bench.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/bench.cpp
+END
+adhoc.cpp.copied
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/adhoc.cpp.copied
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/des.h
+END
+twofish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/twofish.cpp
+END
+luc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/luc.h
+END
+serpentv.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/serpentv.dat
+END
+wake.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/wake.h
+END
+cryptdll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptdll.dsp
+END
+elgamal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/elgamal.cpp
+END
+strciphr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/strciphr.h
+END
+polynomi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/polynomi.cpp
+END
+validat2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/validat2.cpp
+END
+ecp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ecp.cpp
+END
+mdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mdc.h
+END
+des.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/des.cpp
+END
+iterhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/iterhash.h
+END
+cbcmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cbcmac.h
+END
+blowfish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/blowfish.cpp
+END
+xtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xtr.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/test.cpp
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/sha.h
+END
+serpent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/serpent.cpp
+END
+lubyrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lubyrack.h
+END
+asn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/asn.cpp
+END
+randpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/randpool.h
+END
+luc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/luc.cpp
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/queue.cpp
+END
+modexppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/modexppc.h
+END
+marss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/marss.cpp
+END
+blumshub.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/blumshub.h
+END
+pssr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pssr.cpp
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md4.h
+END
+rc5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc5.cpp
+END
+pkcspad.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pkcspad.h
+END
+cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cast.cpp
+END
+fips140.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/fips140.h
+END
+adler32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/adler32.cpp
+END
+ida.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ida.cpp
+END
+validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/validate.h
+END
+rabin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rabin.h
+END
+words.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/words.h
+END
+elgamal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/elgamal.h
+END
+gzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gzip.cpp
+END
+hrtimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/hrtimer.cpp
+END
+sha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/sha.cpp
+END
+gost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gost.cpp
+END
+lucd1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lucd1024.dat
+END
+algparam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/algparam.cpp
+END
+rng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rng.cpp
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/base64.h
+END
+nbtheory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/nbtheory.cpp
+END
+rabin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rabin.cpp
+END
+panama.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/panama.cpp
+END
+cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cast.h
+END
+twofishv.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/twofishv.dat
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/misc.h
+END
+fipstest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/fipstest.cpp
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/integer.h
+END
+stdcpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/stdcpp.h
+END
+zdeflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/zdeflate.h
+END
+skipjack.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/skipjack.h
+END
+lucd512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lucd512.dat
+END
+md5mac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md5mac.cpp
+END
+dsa1024b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dsa1024b.dat
+END
+pch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pch.cpp
+END
+whrlpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/whrlpool.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/crc.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/hmac.h
+END
+hrtimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/hrtimer.h
+END
+sharkbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/sharkbox.cpp
+END
+rsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa.cpp
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md5.h
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/misc.cpp
+END
+ec2n.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ec2n.h
+END
+pwdbased.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pwdbased.h
+END
+fltrimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/fltrimpl.h
+END
+pubkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pubkey.cpp
+END
+nbtheory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/nbtheory.h
+END
+dh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dh.h
+END
+gfpcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gfpcrypt.h
+END
+tftables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/tftables.cpp
+END
+safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/safer.h
+END
+esign.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/esign.h
+END
+regtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/regtest.cpp
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/aes.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/filters.h
+END
+pch.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pch.h
+END
+dlltest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dlltest.dsp
+END
+md4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md4.cpp
+END
+asn.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/asn.h
+END
+seckey.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/seckey.h
+END
+cryptlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptlib.cpp
+END
+eccrypto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/eccrypto.cpp
+END
+default.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/default.h
+END
+gf256.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gf256.cpp
+END
+dh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dh.cpp
+END
+rc5.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc5.h
+END
+xtrcrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xtrcrypt.cpp
+END
+tigertab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/tigertab.cpp
+END
+validat3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/validat3.cpp
+END
+tiger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/tiger.cpp
+END
+modarith.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/modarith.h
+END
+adhoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/adhoc.cpp
+END
+gzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gzip.h
+END
+rsa1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa1024.dat
+END
+rc5val.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc5val.dat
+END
+dh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dh2.h
+END
+base32.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/base32.h
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/base64.cpp
+END
+rw1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rw1024.dat
+END
+rc2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc2.cpp
+END
+rc6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc6.cpp
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/Readme.txt
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/channels.h
+END
+ttmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ttmac.cpp
+END
+trdlocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/trdlocal.h
+END
+eprecomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/eprecomp.cpp
+END
+dsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dsa.h
+END
+squareva.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/squareva.dat
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/License.txt
+END
+tiger.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/tiger.h
+END
+adhoc.cpp.proto
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/adhoc.cpp.proto
+END
+gf2_32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gf2_32.cpp
+END
+nr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/nr.h
+END
+serpent.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/serpent.h
+END
+pkcspad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pkcspad.cpp
+END
+osrng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/osrng.cpp
+END
+rsa2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa2048.dat
+END
+secblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/secblock.h
+END
+channels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/channels.cpp
+END
+rw2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rw2048.dat
+END
+rc6.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc6.h
+END
+algebra.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/algebra.h
+END
+files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/files.cpp
+END
+elgc1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/elgc1024.dat
+END
+shark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/shark.cpp
+END
+eprecomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/eprecomp.h
+END
+ripemd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ripemd.cpp
+END
+dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dll.h
+END
+rsa400pb.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa400pb.dat
+END
+smartptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/smartptr.h
+END
+shacal2.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/shacal2.h
+END
+default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/default.cpp
+END
+bench.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/bench.h
+END
+gf2_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gf2_32.h
+END
+rw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rw.cpp
+END
+saferval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/saferval.dat
+END
+arc4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/arc4.cpp
+END
+usage.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/usage.dat
+END
+integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/integer.cpp
+END
+gf256.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gf256.h
+END
+strciphr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/strciphr.cpp
+END
+sharkval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/sharkval.dat
+END
+argnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/argnames.h
+END
+crypto++.mcp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/crypto++.mcp
+END
+winpipes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/winpipes.h
+END
+rsa400pv.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa400pv.dat
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/GNUmakefile
+END
+files.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/files.h
+END
+dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dll.cpp
+END
+ecp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ecp.h
+END
+randpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/randpool.cpp
+END
+socketft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/socketft.cpp
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md5.cpp
+END
+fips140.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/fips140.cpp
+END
+esig2046.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/esig2046.dat
+END
+shacal2v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/shacal2v.dat
+END
+pssr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pssr.h
+END
+square.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/square.cpp
+END
+dsa1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dsa1024.dat
+END
+trdlocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/trdlocal.cpp
+END
+esign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/esign.cpp
+END
+modes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/modes.cpp
+END
+camellia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/camellia.cpp
+END
+tea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/tea.cpp
+END
+wait.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/wait.h
+END
+basecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/basecode.h
+END
+nr1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/nr1024.dat
+END
+dsa512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dsa512.dat
+END
+socketft.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/socketft.h
+END
+wake.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/wake.cpp
+END
+rijndael.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rijndael.cpp
+END
+ideaval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ideaval.dat
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/resource.h
+END
+cryptlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptlib.dsp
+END
+cryptlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptlib.h
+END
+eccrypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/eccrypto.h
+END
+zdeflate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/zdeflate.cpp
+END
+rdtables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rdtables.cpp
+END
+mqv1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mqv1024.dat
+END
+haval.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/haval.h
+END
+mqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mqueue.cpp
+END
+bench2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/bench2.cpp
+END
+gf2n.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gf2n.h
+END
+whrlpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/whrlpool.cpp
+END
+iterhash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/iterhash.cpp
+END
+xtrdh171.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xtrdh171.dat
+END
+polynomi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/polynomi.h
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/factory.h
+END
+dh2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dh2.cpp
+END
+modexppc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/modexppc.cpp
+END
+cryptest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptest.dsp
+END
+zinflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/zinflate.h
+END
+nr2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/nr2048.dat
+END
+lucc1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lucc1024.dat
+END
+3desval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/3desval.dat
+END
+cryptest.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptest.dsw
+END
+hex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/hex.h
+END
+haval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/haval.cpp
+END
+esig1536.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/esig1536.dat
+END
+arc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/arc4.h
+END
+gfpcrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gfpcrypt.cpp
+END
+zlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/zlib.cpp
+END
+idea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/idea.cpp
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/Doxyfile
+END
+lucs1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lucs1024.dat
+END
+cast256v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cast256v.dat
+END
+pubkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/pubkey.h
+END
+mqv2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mqv2048.dat
+END
+xtrdh342.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xtrdh342.dat
+END
+fipsalgt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/fipsalgt.cpp
+END
+rabi1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rabi1024.dat
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/config.h
+END
+ttmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ttmac.h
+END
+luc1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/luc1024.dat
+END
+esig1023.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/esig1023.dat
+END
+rng.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rng.h
+END
+osrng.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/osrng.h
+END
+camellia.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/camellia.dat
+END
+algebra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/algebra.cpp
+END
+skipjack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/skipjack.cpp
+END
+cast128v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cast128v.dat
+END
+cryptopp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cryptopp.rc
+END
+lucc512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lucc512.dat
+END
+wait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/wait.cpp
+END
+xtrcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xtrcrypt.h
+END
+idea.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/idea.h
+END
+crc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/crc.cpp
+END
+cbcmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/cbcmac.cpp
+END
+md5mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md5mac.h
+END
+shacal2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/shacal2.cpp
+END
+casts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/casts.cpp
+END
+shark.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/shark.h
+END
+rijndael.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rijndael.dat
+END
+tea.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/tea.h
+END
+rabi2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rabi2048.dat
+END
+md2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md2.cpp
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/blowfish.h
+END
+xtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/xtr.h
+END
+rc6val.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc6val.dat
+END
+lucs512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/lucs512.dat
+END
+ripemd.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ripemd.h
+END
+luc2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/luc2048.dat
+END
+ec2n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ec2n.cpp
+END
+seal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/seal.h
+END
+oaep.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/oaep.h
+END
+network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/network.cpp
+END
+simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/simple.cpp
+END
+gf2n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/gf2n.cpp
+END
+rw.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rw.h
+END
+trunhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/trunhash.h
+END
+ida.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/ida.h
+END
+rsa512a.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa512a.dat
+END
+validat1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/validat1.cpp
+END
+mqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/mqueue.h
+END
+zinflate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/zinflate.cpp
+END
+hex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/hex.cpp
+END
+squaretb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/squaretb.cpp
+END
+md2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/md2.h
+END
+3way.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/3way.h
+END
+marsval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/marsval.dat
+END
+panama.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/panama.h
+END
+basecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/basecode.cpp
+END
+square.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/square.h
+END
+hmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/hmac.cpp
+END
+dlie1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dlie1024.dat
+END
+havalcer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/havalcer.dat
+END
+base32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/base32.cpp
+END
+descert.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/descert.dat
+END
+blumshub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/blumshub.cpp
+END
+3way.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/3way.cpp
+END
+skipjack.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/skipjack.dat
+END
+dh1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/dh1024.dat
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/queue.h
+END
+rsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rsa.h
+END
+rc2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rc2.h
+END
+rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/42156/InternalLib/KNCSDK/Include/cryptopp/rijndael.h
+END

@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GuildInfo] ADD CONSTRAINT [DF_GUILDINFO_Point] DEFAULT (0) FOR [Point]
+
+

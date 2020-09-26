@@ -1,0 +1,15 @@
+[ODBC]
+
+DRIVER=SQL Server
+
+UID=elsword
+
+DATABASE=ES_BILLING
+
+WSID=INT-SERVER
+
+APP=Microsoft Data Access Components
+
+SERVER=10.20.16.2,3791
+
+PWD=x2akstp!@#$

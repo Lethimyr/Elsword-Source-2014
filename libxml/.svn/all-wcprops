@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/libxml
+END
+relaxng.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/relaxng.c
+END
+triodef.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/triodef.h
+END
+legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/legacy.c
+END
+triostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/triostr.c
+END
+debugXML.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/debugXML.c
+END
+xpointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xpointer.c
+END
+catalog.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/catalog.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/config.h
+END
+trionan.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/trionan.c
+END
+triostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/triostr.h
+END
+SAX2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/SAX2.c
+END
+libxml_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/libxml_2010.vcxproj.user
+END
+trionan.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/trionan.h
+END
+xmlsave.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlsave.c
+END
+HTMLparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/HTMLparser.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/hash.c
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/dict.c
+END
+encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/encoding.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/error.c
+END
+xmlmemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlmemory.c
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/threads.c
+END
+SAX.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/SAX.c
+END
+xmlcatalog.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlcatalog.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/tree.c
+END
+uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/uri.c
+END
+valid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/valid.c
+END
+libxml_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/libxml/libxml_2010.vcxproj
+END
+triop.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/triop.h
+END
+schematron.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/schematron.c
+END
+xmlschemas.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlschemas.c
+END
+c14n.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/c14n.c
+END
+xmlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlmodule.c
+END
+xmlunicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlunicode.c
+END
+libxml_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/libxml_2010.vcxproj.filters
+END
+chvalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/chvalid.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/list.c
+END
+xinclude.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xinclude.c
+END
+xmlregexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlregexp.c
+END
+parserInternals.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/parserInternals.c
+END
+libxml_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/libxml/libxml_2003.vcproj
+END
+pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/pattern.c
+END
+trio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/trio.c
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/acconfig.h
+END
+elfgcchack.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/elfgcchack.h
+END
+trio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/trio.h
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/globals.c
+END
+xmlreader.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlreader.c
+END
+DOCBparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/DOCBparser.c
+END
+HTMLtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/HTMLtree.c
+END
+entities.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/entities.c
+END
+xpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xpath.c
+END
+xlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xlink.c
+END
+xmllint.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmllint.c
+END
+xmlstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlstring.c
+END
+xmlIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlIO.c
+END
+xmlschemastypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlschemastypes.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/parser.c
+END
+libxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/libxml.h
+END
+xmlwriter.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/libxml/xmlwriter.c
+END

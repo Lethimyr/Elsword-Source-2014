@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH
+END
+TCPThreadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/TCPThreadManager.h
+END
+AsiaSoftAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/AsiaSoftAuth.h
+END
+GSASBillingDBThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/GSASBillingDBThread.h
+END
+LoginOtpAuthTcpThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/LoginOtpAuthTcpThread.h
+END
+AsiaSoftAuthManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/AsiaSoftAuthManager.cpp
+END
+TCPThreadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/TCPThreadManager.cpp
+END
+AsiaSoftAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/AsiaSoftAuth.cpp
+END
+AsiaSoftAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/AsiaSoftAuthManager.h
+END
+GSASBillingDBThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/GSASBillingDBThread.cpp
+END
+LoginOtpAuthTcpThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/OnlyGlobal/AuthAndBilling/TH/LoginOtpAuthTcpThread.cpp
+END

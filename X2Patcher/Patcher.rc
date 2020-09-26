@@ -1,0 +1,297 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean (Korea) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_GAUGE_UPDATE        BITMAP                  "resource\\Bar_Blue.bmp"
+IDB_GAUGE_TOTAL_UPDATE  BITMAP                  "resource\\Bar_Red.bmp"
+IDB_GAUGE_UPDATE_EFFECT BITMAP                  "resource\\SetupProgressEffect.bmp"
+IDB_GAUGE_CHECK         BITMAP                  "resource\\CheckProgress.bmp"
+IDB_GAUGE_CHECK_EFFECT  BITMAP                  "resource\\CheckProgressEffect.bmp"
+
+#ifdef PATCHER_COUNTRY_FR
+
+IDB_BACKGROUND          BITMAP                  "resource\\FR\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\FR\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\FR\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_DE
+
+IDB_BACKGROUND          BITMAP                  "resource\\DE\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\DE\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\DE\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_EN
+
+IDB_BACKGROUND          BITMAP                  "resource\\EN\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\EN\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\EN\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_IT
+
+IDB_BACKGROUND          BITMAP                  "resource\\IT\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\IT\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\IT\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_PL
+
+IDB_BACKGROUND          BITMAP                  "resource\\PL\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\PL\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\PL\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_ES
+
+IDB_BACKGROUND          BITMAP                  "resource\\ES\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\ES\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\ES\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_US
+
+IDB_BACKGROUND          BITMAP                  "resource\\US\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\US\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\US\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_JP
+
+IDB_BACKGROUND          BITMAP                  "resource\\JP\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\JP\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\JP\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_ID
+
+IDB_BACKGROUND          BITMAP                  "resource\\ID\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\ID\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\ID\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_TH
+
+IDB_BACKGROUND          BITMAP                  "resource\\TH\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\TH\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\TH\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_BR
+
+IDB_BACKGROUND          BITMAP                  "resource\\BR\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\BR\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\BR\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_PH
+
+IDB_BACKGROUND          BITMAP                  "resource\\PH\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\PH\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\PH\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_TW
+
+IDB_BACKGROUND          BITMAP                  "resource\\TW\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\TW\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\TW\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_HK
+
+IDB_BACKGROUND          BITMAP                  "resource\\HK\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\HK\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\HK\\UPDATING_CLIENT.bmp"
+
+#elif PATCHER_COUNTRY_IN
+
+IDB_BACKGROUND          BITMAP                  "resource\\IN\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\IN\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\IN\\UPDATING_CLIENT.bmp"
+
+#else
+
+IDB_BACKGROUND          BITMAP                  "resource\\US\\LauncherBackground.bmp"
+IDB_MESSAGE_CHECKING    BITMAP                  "resource\\US\\VERIFYING_VERSION.bmp"
+IDB_MESSAGE_UPDATING    BITMAP                  "resource\\US\\UPDATING_CLIENT.bmp"
+
+#endif
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MSGBOX_OKCANCEL DIALOGEX 0, 0, 173, 89
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CLIPSIBLINGS
+FONT 10, "돋움", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,55,68,30,15,BS_BITMAP
+    PUSHBUTTON      "취소",IDCANCEL,89,68,30,15,BS_BITMAP
+END
+
+IDD_MSGBOX_OK DIALOGEX 0, 0, 173, 89
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CLIPSIBLINGS
+FONT 10, "돋움", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "확 인",IDOK,72,68,30,15,BS_BITMAP
+END
+
+IDD_MSGBOX_DEFAULT DIALOGEX 0, 0, 173, 89
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CLIPSIBLINGS
+FONT 10, "돋움", 0, 0, 0x0
+BEGIN
+END
+
+IDD_LOGIN DIALOG 0, 0, 119, 56
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Grand Chase Login"
+FONT 10, "System"
+BEGIN
+    EDITTEXT        IDC_EDIT_ID,33,13,73,12,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,7,35,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,62,35,50,14
+    LTEXT           "ID :",IDC_STATIC,14,15,13,8
+END
+
+IDD_PATCHINFOBOX DIALOGEX 0, 0, 200, 200
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_VISIBLE
+FONT 10, "Fixedsys", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "게임 시작",IDOK,75,176,50,14,BS_BITMAP
+    EDITTEXT        IDC_EDIT_PATCH_INFO,10,25,179,148,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_WANTRETURN | NOT WS_BORDER | WS_VSCROLL | NOT WS_TABSTOP
+END
+
+IDD_OPTION_DIALOG DIALOGEX 0, 0, 228, 113
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Game Option"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,171,71,50,14
+    PUSHBUTTON      "취소",IDCANCEL,171,92,50,14
+    COMBOBOX        IDC_COMBO_RESOLUTION,60,17,104,80,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "해상도 :",IDC_STATIC,20,19,30,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_MSGBOX_OKCANCEL, DIALOG
+    BEGIN
+        RIGHTMARGIN, 172
+        BOTTOMMARGIN, 88
+    END
+
+    IDD_MSGBOX_OK, DIALOG
+    BEGIN
+        RIGHTMARGIN, 172
+        BOTTOMMARGIN, 88
+    END
+
+    IDD_MSGBOX_DEFAULT, DIALOG
+    BEGIN
+        RIGHTMARGIN, 172
+        BOTTOMMARGIN, 88
+    END
+
+    IDD_LOGIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 112
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 49
+    END
+
+    IDD_PATCHINFOBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 196
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 193
+    END
+
+    IDD_OPTION_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 221
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 106
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "Elsword.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// RT_MANIFEST
+//
+
+1                       RT_MANIFEST             "ELSWORD.EXE.manifest"
+#endif    // Korean (Korea) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,17 @@
+#ifdef __NEVER_DEFINED_MACRO__
+#define _ENUM(VAL) VAL,
+enum
+{
+#endif
+
+_ENUM( I_TO_INIT )
+_ENUM( I_TO_CLOSE )
+_ENUM( I_TO_AUTO_PARTY_MAKING )
+_ENUM( I_TO_CHECK_ACCEPT )
+_ENUM( I_TO_REGROUP_PARTY )
+_ENUM( I_TO_PLAY )
+
+#ifdef __NEVER_DEFINED_MACRO__
+};
+#undef _ENUM
+#endif

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/105187/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP
+END
+Account.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/Account.dsn
+END
+config_ch_NHN_JAPAN_ALPHA.lua
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/eskr/source/!svn/ver/104970/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/config_ch_NHN_JAPAN_ALPHA.lua
+END
+ManagerDB.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/ManagerDB.dsn
+END
+config_ch_JP_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/eskr/source/!svn/ver/102198/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/config_ch_JP_INTERNAL.lua
+END
+SMS.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/SMS.dsn
+END
+log_GAIA.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/log_GAIA.dsn
+END
+Account_NHN_JAPAN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/Account_NHN_JAPAN_INTERNAL.dsn
+END
+log_SOLES.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/log_SOLES.dsn
+END
+config_ch_NHN_JAPAN_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/eskr/source/!svn/ver/105187/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/config_ch_NHN_JAPAN_SERVICE.lua
+END
+Log_NHN_JAPAN_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/Log_NHN_JAPAN_INTERNAL.dsn
+END
+config_ch.ini
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/ChannelServer/config/JP/config_ch.ini
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest
+END
+dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/dsound.h
+END
+d3dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/d3dtypes.h
+END
+ddraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/ddraw.h
+END
+d3d8.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/d3d8.h
+END
+processes.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/processes.h
+END
+winerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/winerror.h
+END
+FileIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/FileIO.h
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/registry.h
+END
+gdi32.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/gdi32.h
+END
+d3d8caps.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/d3d8caps.h
+END
+dplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/dplay.h
+END
+winspool.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/winspool.h
+END
+user32.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/user32.h
+END
+ole32.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/ole32.h
+END
+kernel32.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/kernel32.h
+END
+d3d8types.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/d3d8types.h
+END
+uuids.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/uuids.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/strings.h
+END
+debugging.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/debugging.h
+END
+winsock2.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/winsock2.h
+END
+clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/clipboard.h
+END
+hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/hook.h
+END
+shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/shell.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/memory.h
+END
+advapi32.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/advapi32.h
+END
+d3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/d3d.h
+END
+com.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/com.h
+END
+avifile.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/avifile.h
+END
+d3dcaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/d3dcaps.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/main.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/version.h
+END
+winmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncTools/X2HackUserAnalyzer/HackUserAnalyzer/bin/Debug/Debugging%20Tools%20for%20Windows/winext/manifest/winmm.h
+END

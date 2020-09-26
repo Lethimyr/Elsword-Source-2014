@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_GPointBagItemPart_ItemID] ON [dbo].[GPointBagItemPart] ([ItemID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

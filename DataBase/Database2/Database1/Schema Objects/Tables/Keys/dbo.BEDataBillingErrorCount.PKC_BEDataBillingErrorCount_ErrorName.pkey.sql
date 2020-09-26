@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[BEDataBillingErrorCount] ADD CONSTRAINT [PKC_BEDataBillingErrorCount_ErrorName] PRIMARY KEY CLUSTERED  ([ErrorName]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

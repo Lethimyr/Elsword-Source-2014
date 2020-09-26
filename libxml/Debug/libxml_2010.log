@@ -1,0 +1,181 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  xpointer.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xpath.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlwriter.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlunicode.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlstring.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlschemastypes.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlschemas.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlsave.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlregexp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlreader.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlmodule.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlmemory.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xmlIO.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xlink.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  xinclude.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  valid.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  uri.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  triostr.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\triostr.c(188,11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\triostr.c(224,7): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\triostr.c(276,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\triostr.c(307,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\triostr.c(405,20): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\triostr.c(933,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  trionan.c
+  trio.c
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\trio.c(2874,28): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\trio.c(3041,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  tree.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  threads.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  schematron.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  SAX2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  SAX.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  relaxng.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  pattern.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  parserInternals.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  parser.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  list.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  legacy.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  HTMLtree.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  HTMLparser.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  hash.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  globals.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  error.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  entities.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  encoding.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  DOCBparser.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  dict.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  Generating Code...
+  Compiling...
+  debugXML.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  chvalid.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  catalog.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  c14n.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1423,1): warning C4005: 'vsnprintf': macro redefinition
+G:\Elsword\JP_TW_EU_CN_US\Trunk\libxml\libxml\xmlversion.h(385): message : see previous definition of 'vsnprintf'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1425,1): fatal error C1189: #error:  Macro definition of vsnprintf conflicts with Standard Library function declaration
+  Generating Code...

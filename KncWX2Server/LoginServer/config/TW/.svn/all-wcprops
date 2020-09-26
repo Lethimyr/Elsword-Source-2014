@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102447/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW
+END
+config_lg_TW_OPEN_TEST.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/config_lg_TW_OPEN_TEST.lua
+END
+config_lg_TW_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/config_lg_TW_SERVICE.lua
+END
+Log_SOLES_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/Log_SOLES_INTERNAL.dsn
+END
+SMS.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/SMS.dsn
+END
+config_lg.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/config_lg.ini
+END
+NXWeb.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/NXWeb.dsn
+END
+config_lg_HK_SERVICE.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/config_lg_HK_SERVICE.lua
+END
+Account_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/Account_INTERNAL.dsn
+END
+config_lg_TW_INTERNAL.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102447/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/config_lg_TW_INTERNAL.lua
+END
+Game01_SOLES_INTERNAL.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/LoginServer/config/TW/Game01_SOLES_INTERNAL.dsn
+END

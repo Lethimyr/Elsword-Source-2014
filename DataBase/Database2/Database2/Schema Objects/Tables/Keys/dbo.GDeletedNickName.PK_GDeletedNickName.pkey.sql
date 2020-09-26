@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GDeletedNickName] ADD CONSTRAINT [PK_GDeletedNickName] PRIMARY KEY CLUSTERED  ([Nickname]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

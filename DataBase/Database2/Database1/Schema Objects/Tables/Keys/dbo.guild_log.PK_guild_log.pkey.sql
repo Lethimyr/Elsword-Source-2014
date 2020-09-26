@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[guild_log] ADD CONSTRAINT [PK_guild_log] PRIMARY KEY CLUSTERED  ([seq]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GRank_Arcade] ADD CONSTRAINT [DF__GRank_Arc__Unit3__42CCE065] DEFAULT (NULL) FOR [Unit3]
+
+

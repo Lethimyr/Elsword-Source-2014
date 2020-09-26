@@ -1,0 +1,3 @@
+﻿CREATE CLUSTERED INDEX [IXC_SILStrongItem_LoginUID] ON [dbo].[SILStrongItem] ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

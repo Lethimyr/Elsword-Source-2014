@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[RecommenderItemList] ADD CONSTRAINT [PKC_RecommenderItemList_ItemID] PRIMARY KEY CLUSTERED  ([ItemID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

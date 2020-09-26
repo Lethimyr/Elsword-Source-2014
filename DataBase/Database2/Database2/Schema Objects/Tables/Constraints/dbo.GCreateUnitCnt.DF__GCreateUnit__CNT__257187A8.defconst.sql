@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GCreateUnitCnt] ADD CONSTRAINT [DF__GCreateUnit__CNT__257187A8] DEFAULT ((1)) FOR [CNT]
+
+

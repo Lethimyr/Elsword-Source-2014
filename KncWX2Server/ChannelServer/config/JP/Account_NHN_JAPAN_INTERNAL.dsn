@@ -1,0 +1,9 @@
+[ODBC]
+DRIVER=SQL Server
+UID=elsword
+LANGUAGE=us_english
+DATABASE=Account
+WSID=PBSWDDE1002
+APP=Microsoft Data Access Components
+SERVER=119.235.234.27
+PWD=tlssksms-dpfsword%^^

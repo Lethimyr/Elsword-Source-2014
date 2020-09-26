@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[UEGAUserEquipItem] ADD
+CONSTRAINT [FK_UEGAUserEquipItem_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

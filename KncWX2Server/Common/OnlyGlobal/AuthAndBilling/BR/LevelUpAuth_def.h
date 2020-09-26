@@ -1,0 +1,4 @@
+_ENUM( LU_SALT )
+_ENUM( LU_AUTH )
+
+_ENUM( LU_NUM )

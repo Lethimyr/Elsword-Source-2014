@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GuildUser] ADD CONSTRAINT [DF_GUILDUSER_GuildId] DEFAULT ((-1)) FOR [GuildId]
+
+

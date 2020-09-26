@@ -1,0 +1,14 @@
+12
+__cdecl _ldused() 26
+error_report_1 error_report_1 error_report_1 error_report_1 error_report_1 error_report_1 error_report_1 error_report_1 error_report_1 error_report_1 error_report_2 error_report_2 error_report_2 error_report_2 error_report_2 error_report_2 error_report_2 error_report_2 error_report_3 error_report_3 error_report_3 error_report_3 error_report_3 error_report_3 error_report_3 error_report_3 public: void __thiscall CX2Main::IntentionalCrash(void) 4
+error_report_2 error_report_2 error_report_3 error_report_3 protected: bool __thiscall CX2StateServerSelect::Handler_EGS_ITEM_EXPIRATION_NOT(struct HWND__ *,unsigned int,unsigned int,long) 2
+error_report_1 error_report_1 ??$invoke@X@?$mem_functor@VCX2UIUnitManager@@XXXXXXXX@lua_tinker@@SAHPAUlua_State@@@Z 2
+error_report_2 error_report_3 __cdecl WinMainCRTStartup() 2
+error_report_2 error_report_3 unsigned long __stdcall CommPipeThread(void *) 2
+error_report_2 error_report_3 private: int __thiscall CGameGuard::SendHackLog(void) 2
+error_report_2 error_report_3 public: virtual void __thiscall KSession::Tick(void) 2
+error_report_2 error_report_3 __cdecl inflate_table() 1
+error_report_1 public: bool __thiscall CCommPipe::InitCommPipe(void) 1
+error_report_1 private: int __thiscall CGameGuard::CheckSingleInstance(unsigned long,int) 1
+error_report_1 public: virtual bool __thiscall KSession::Connect(char const *,unsigned short) 1
+error_report_1 

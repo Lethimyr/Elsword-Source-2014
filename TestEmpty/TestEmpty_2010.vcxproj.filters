@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{7ebc6553-58f2-4cc4-bc2e-079fe3ccc4f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{b4bbba6b-0707-4ac2-a107-5781cd23b984}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="AITest.cpp" />
+    <ClCompile Include="DialogTool.cpp" />
+    <ClCompile Include="ForfeitTest.cpp" />
+    <ClCompile Include="HLSLTest.cpp" />
+    <ClCompile Include="ItemViewer.cpp" />
+    <ClCompile Include="JooTest.cpp" />
+    <ClCompile Include="LucidashTest.cpp" />
+    <ClCompile Include="NewDialogTool.cpp" />
+    <ClCompile Include="ProfileTest.cpp" />
+    <ClCompile Include="TestEmpty.cpp" />
+    <ClCompile Include="TestMain.cpp" />
+    <ClCompile Include="TexUVOut.cpp" />
+    <ClCompile Include="TEXViewer.cpp" />
+    <ClCompile Include="UITest.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="TestEmpty.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TestEmpty.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="AITest.h" />
+    <CustomBuildStep Include="DialogTool.h" />
+    <CustomBuildStep Include="ForfeitTest.h" />
+    <CustomBuildStep Include="HLSLTest.h" />
+    <CustomBuildStep Include="ItemViewer.h" />
+    <CustomBuildStep Include="JooTest.h" />
+    <CustomBuildStep Include="LucidashTest.h" />
+    <CustomBuildStep Include="NewDialogTool.h" />
+    <CustomBuildStep Include="ProfileTest.h" />
+    <CustomBuildStep Include="TestEmpty.fx" />
+    <CustomBuildStep Include="TestMain.h" />
+    <CustomBuildStep Include="TexUVOut.h" />
+    <CustomBuildStep Include="TEXViewer.h" />
+    <CustomBuildStep Include="UITest.h" />
+  </ItemGroup>
+</Project>

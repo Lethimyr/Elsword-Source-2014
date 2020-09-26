@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GPointBagCalender] ADD CONSTRAINT [PKC_GPointBagCalender_LoginUID_RegDate] PRIMARY KEY CLUSTERED  ([LoginUID], [RegDate]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

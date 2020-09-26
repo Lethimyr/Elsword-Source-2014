@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[EPGAEventPerfectMode] ADD CONSTRAINT [PKC_EPGAEventPerfectMode_EventUID_ModeID_Type] PRIMARY KEY CLUSTERED  ([EventUID], [ModeID], [Type]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

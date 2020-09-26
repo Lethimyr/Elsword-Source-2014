@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[UGGAUserGameClear] ADD
+CONSTRAINT [FK_UGGAUserGameClear_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

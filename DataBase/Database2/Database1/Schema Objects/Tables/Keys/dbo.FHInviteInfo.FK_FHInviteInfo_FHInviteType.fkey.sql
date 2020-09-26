@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[FHInviteInfo] ADD
+CONSTRAINT [FK_FHInviteInfo_FHInviteType] FOREIGN KEY ([Type]) REFERENCES [dbo].[FHInviteType] ([Type]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

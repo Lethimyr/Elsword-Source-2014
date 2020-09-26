@@ -1,0 +1,2 @@
+G:\Elsword\JP_TW_EU_CN_US\Trunk\KTDXLIB\luaLibD.pdb
+G:\Elsword\JP_TW_EU_CN_US\Trunk\luaLib\Debug\luaLibD.pdb

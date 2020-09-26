@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[UGGAUserGameClear] ADD CONSTRAINT [PKC_UGGAUserGameClear_LoginUID_ModeID_Difficulty] PRIMARY KEY CLUSTERED  ([LoginUID], [ModeID], [Difficulty]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

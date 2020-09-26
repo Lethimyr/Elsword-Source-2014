@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys
+END
+dbo.GItemPeriod.PKNC_GItemPeriod_ItemUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemPeriod.PKNC_GItemPeriod_ItemUID.pkey.sql
+END
+dbo.GRank_Rena_Old.PKC_GRank_Rena_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Rena_Old.PKC_GRank_Rena_Old_NickName.pkey.sql
+END
+dbo.GPost_Enchant.FK_GPost_Enchant_GPost_PostNo.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_Enchant.FK_GPost_Enchant_GPost_PostNo.fkey.sql
+END
+dbo.GTitle_Complete.FK_GTitle_Complete_GUnit_UnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GTitle_Complete.FK_GTitle_Complete_GUnit_UnitUID.fkey.sql
+END
+dbo.GSkillSlot2.PK_GSkillSlot2_UnitUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSkillSlot2.PK_GSkillSlot2_UnitUID.pkey.sql
+END
+dbo.GBlacklist.PKC_GBlacklist_MyUID_BlockUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GBlacklist.PKC_GBlacklist_MyUID_BlockUID.pkey.sql
+END
+dbo.GSpirit.FK_GSpirit_GUnit_unitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSpirit.FK_GSpirit_GUnit_unitUID.fkey.sql
+END
+dbo.GRank_Arcade.FK_GRank_Arcade_GUnit_UnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Arcade.FK_GRank_Arcade_GUnit_UnitUID.fkey.sql
+END
+dbo.GRank_Rena.PKC_GRank_Rena_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Rena.PKC_GRank_Rena_NickName.pkey.sql
+END
+dbo.GPost.PK_GPost.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost.PK_GPost.pkey.sql
+END
+dbo.GItemEnchant.PKC_GItemEnchant_ItemUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemEnchant.PKC_GItemEnchant_ItemUID.pkey.sql
+END
+dbo.GIs30Min.FK_GIs30Min_UnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GIs30Min.FK_GIs30Min_UnitUID.fkey.sql
+END
+dbo.GPost_Attribute.PKC_GPost_Attribute_PostNo.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_Attribute.PKC_GPost_Attribute_PostNo.pkey.sql
+END
+dbo.GSpirit.PKC_GSpirit_unitUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSpirit.PKC_GSpirit_unitUID.pkey.sql
+END
+dbo.GRank_Elsword_Old.PKC_GRank_Elsword_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Elsword_Old.PKC_GRank_Elsword_Old_NickName.pkey.sql
+END
+dbo.GQuests_Complete.PK_GQuests_Complete.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GQuests_Complete.PK_GQuests_Complete.pkey.sql
+END
+dbo.GUnitNickName.FK_GUnitNickName_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GUnitNickName.FK_GUnitNickName_GUnit.fkey.sql
+END
+dbo.GDungeonClear.FK_GDungeonClear_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDungeonClear.FK_GDungeonClear_GUnit.fkey.sql
+END
+dbo.GItemEnchant.FK_GItemEnchant_GItem.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemEnchant.FK_GItemEnchant_GItem.fkey.sql
+END
+dbo.GSkillSlot.PK_GSkillSlot.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSkillSlot.PK_GSkillSlot.pkey.sql
+END
+dbo.GPost.FK_GUnit_GPost_ToUnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost.FK_GUnit_GPost_ToUnitUID.fkey.sql
+END
+dbo.GDenyOption.FK_GDenyOption_GUnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDenyOption.FK_GDenyOption_GUnitUID.fkey.sql
+END
+dbo.GRank_Aisha.PKC_GRank_Aisha_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Aisha.PKC_GRank_Aisha_NickName.pkey.sql
+END
+dbo.GQuests.PK_GQuests.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GQuests.PK_GQuests.pkey.sql
+END
+dbo.GQuests_Complete.FK_GQuests_Complete_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GQuests_Complete.FK_GQuests_Complete_GUnit.fkey.sql
+END
+dbo.GDenyOption.PKC_GDenyOption_UnitUID_Question.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDenyOption.PKC_GDenyOption_UnitUID_Question.pkey.sql
+END
+dbo.Rank_Elsword_Old.PKC_Rank_Elsword_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Elsword_Old.PKC_Rank_Elsword_NickName.pkey.sql
+END
+dbo.GDenyOption.FK_GDenyOption_GDenyCode.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDenyOption.FK_GDenyOption_GDenyCode.fkey.sql
+END
+dbo.GPost_Enchant.PKC_GPost_Enchant_PostNo.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_Enchant.PKC_GPost_Enchant_PostNo.pkey.sql
+END
+dbo.GSkillSlot.FK_GSkillSlot_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSkillSlot.FK_GSkillSlot_GUnit.fkey.sql
+END
+dbo.GPost_ED.FK_GPost_ED_GPost_PostNo.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_ED.FK_GPost_ED_GPost_PostNo.fkey.sql
+END
+dbo.Get_EL_Info.PKC_Get_EL_Info_Userid.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Get_EL_Info.PKC_Get_EL_Info_Userid.pkey.sql
+END
+dbo.GTitle_Mission.PKC_GTitle_Mission_UnitUID_TitleID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GTitle_Mission.PKC_GTitle_Mission_UnitUID_TitleID.pkey.sql
+END
+dbo.GFriendList.FK_GFriendList_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GFriendList.FK_GFriendList_GUnit.fkey.sql
+END
+dbo.Rank_Aisha.PKC_Rank_Aisha_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Aisha.PKC_Rank_Aisha_Old_NickName.pkey.sql
+END
+dbo.Rank_Rena.PKC_Rank_Rena_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Rena.PKC_Rank_Rena_Old_NickName.pkey.sql
+END
+dbo.Rank_Rena_Old.PKC_Rank_Rena_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Rena_Old.PKC_Rank_Rena_NickName.pkey.sql
+END
+dbo.GResurrectionStone.PK_GResurrectionStone.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GResurrectionStone.PK_GResurrectionStone.pkey.sql
+END
+dbo.GQuests_Repeat.FK_GQuests_Repeat_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GQuests_Repeat.FK_GQuests_Repeat_GUnit.fkey.sql
+END
+dbo.GRank_.PKC_GRank_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_.PKC_GRank_NickName.pkey.sql
+END
+dbo.GPost_ED.PKC_GPost_ED_PostNo.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_ED.PKC_GPost_ED_PostNo.pkey.sql
+END
+dbo.GItemSocket.FK_GItemSocket_GItem_ItemUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemSocket.FK_GItemSocket_GItem_ItemUID.fkey.sql
+END
+dbo.gunit_test.pkc_gunit_test_unituid.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.gunit_test.pkc_gunit_test_unituid.pkey.sql
+END
+dbo.GDenyCode.PKC_GDenyCode_QuestionNo_CodeNo.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDenyCode.PKC_GDenyCode_QuestionNo_CodeNo.pkey.sql
+END
+dbo.GTitle_Complete.PKC_GTitle_Complete_UnitUID_TitleID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GTitle_Complete.PKC_GTitle_Complete_UnitUID_TitleID.pkey.sql
+END
+dbo.GItemEndurance.FK_GItemEndurance_GItem.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemEndurance.FK_GItemEndurance_GItem.fkey.sql
+END
+dbo.GItemQuantity.PK_GItemQuantity_ItemUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemQuantity.PK_GItemQuantity_ItemUID.pkey.sql
+END
+dbo.GPost_Attribute.FK_GPost_Attribute_GPost_PostNo.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_Attribute.FK_GPost_Attribute_GPost_PostNo.fkey.sql
+END
+dbo.GDenyOption.FK_GDenyOption_GDenyOption.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDenyOption.FK_GDenyOption_GDenyOption.fkey.sql
+END
+dbo.GUnitNickName.PK_GUnitNickName_UnitUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GUnitNickName.PK_GUnitNickName_UnitUID.pkey.sql
+END
+dbo.GResurrectionStone.FK_GResurrectionStone_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GResurrectionStone.FK_GResurrectionStone_GUnit.fkey.sql
+END
+dbo.GItem.FK_GItem_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItem.FK_GItem_GUnit.fkey.sql
+END
+dbo.GItemToolHistory.PKC_GItemToolHistory_Itemuid_InsOrDel.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemToolHistory.PKC_GItemToolHistory_Itemuid_InsOrDel.pkey.sql
+END
+dbo.Rank_Old.PKC_Rank_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Old.PKC_Rank_NickName.pkey.sql
+END
+dbo.GItemSocket.PKNC_GItemSocket_ItemUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemSocket.PKNC_GItemSocket_ItemUID.pkey.sql
+END
+dbo.Get_Super_EL_Info.PKC_Get_Super_EL_Info_Userid.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Get_Super_EL_Info.PKC_Get_Super_EL_Info_Userid.pkey.sql
+END
+dbo.GCreateUnitCnt.PKC_GCreateUnitCnt_UserUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GCreateUnitCnt.PKC_GCreateUnitCnt_UserUID.pkey.sql
+END
+dbo.GSkillSlot2.FK_GSkillSlot2_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSkillSlot2.FK_GSkillSlot2_GUnit.fkey.sql
+END
+dbo.GDeletedNickName.PK_GDeletedNickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDeletedNickName.PK_GDeletedNickName.pkey.sql
+END
+dbo.GRank_Old.PKC_GRank_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Old.PKC_GRank_Old_NickName.pkey.sql
+END
+dbo.GSkill.PK_GSkill.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSkill.PK_GSkill.pkey.sql
+END
+dbo.GRank_Elsword.PKC_GRank_Elsword_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Elsword.PKC_GRank_Elsword_NickName.pkey.sql
+END
+dbo.GUser.PK_GUser_UserUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GUser.PK_GUser_UserUID.pkey.sql
+END
+dbo.GTrainingCenter.PKC_GTrainingCenter_UnitUID_TCID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GTrainingCenter.PKC_GTrainingCenter_UnitUID_TCID.pkey.sql
+END
+dbo.GItemInventorySize.FK_GItemInventorySize_GUnit_UnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemInventorySize.FK_GItemInventorySize_GUnit_UnitUID.fkey.sql
+END
+dbo.GRank_Aisha_Old.PKC_GRank_Aisha_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GRank_Aisha_Old.PKC_GRank_Aisha_Old_NickName.pkey.sql
+END
+dbo.GTrainingCenter.FK_GTrainingCenter_UNITUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GTrainingCenter.FK_GTrainingCenter_UNITUID.fkey.sql
+END
+dbo.GItemEndurance.PK_GItemEndurance.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemEndurance.PK_GItemEndurance.pkey.sql
+END
+dbo.GItem.PK_GItem_ItemUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItem.PK_GItem_ItemUID.pkey.sql
+END
+dbo.Rank_Elsword.PKC_Rank_Elsword_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Elsword.PKC_Rank_Elsword_Old_NickName.pkey.sql
+END
+dbo.Rank_.PKC_Rank_Old_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_.PKC_Rank_Old_NickName.pkey.sql
+END
+dbo.GSkill.FK_GSkill_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GSkill.FK_GSkill_GUnit.fkey.sql
+END
+dbo.GUnit.FK_GUnit_GUser.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GUnit.FK_GUnit_GUser.fkey.sql
+END
+dbo.GItemPeriod.FK_GItemPeriod_GItem_ItemUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemPeriod.FK_GItemPeriod_GItem_ItemUID.fkey.sql
+END
+dbo.GPost_Socket.FK_GPost_Socket_GPost_PostNo.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_Socket.FK_GPost_Socket_GPost_PostNo.fkey.sql
+END
+dbo.GTitle_Mission.FK_GTitle_Mission_GUnit_UnitUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GTitle_Mission.FK_GTitle_Mission_GUnit_UnitUID.fkey.sql
+END
+dbo.GQuestCode.PK_GQuestCode.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GQuestCode.PK_GQuestCode.pkey.sql
+END
+dbo.Rank_Aisha_Old.PKC_Rank_Aisha_NickName.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.Rank_Aisha_Old.PKC_Rank_Aisha_NickName.pkey.sql
+END
+dbo.GQuests.FK_GQuests_GUnit.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GQuests.FK_GQuests_GUnit.fkey.sql
+END
+dbo.GItemQuantity.FK_GItemQuantity_GItem.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemQuantity.FK_GItemQuantity_GItem.fkey.sql
+END
+dbo.GItemWishList.FK_GItemWishList_GUser_UserUID.fkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GItemWishList.FK_GItemWishList_GUser_UserUID.fkey.sql
+END
+dbo.GDungeonClear.PK_GDungeonClear_1.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GDungeonClear.PK_GDungeonClear_1.pkey.sql
+END
+dbo.GPost_Socket.PKC_GPost_Socket_PostNo.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GPost_Socket.PKC_GPost_Socket_PostNo.pkey.sql
+END
+dbo.GUnit.PK_GUnit_UnitUID.pkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/DataBase/Database2/Database2/Schema%20Objects/Tables/Keys/dbo.GUnit.PK_GUnit_UnitUID.pkey.sql
+END

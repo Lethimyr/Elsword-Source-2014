@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[ESantaUser] ADD
+CONSTRAINT [FK_EsantaUser_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

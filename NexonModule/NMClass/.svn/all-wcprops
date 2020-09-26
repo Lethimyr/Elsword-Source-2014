@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass
+END
+NMDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMDataObject.h
+END
+NMFDSFileDownloadSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFDSFileDownloadSession.cpp
+END
+NMEventObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMEventObject.cpp
+END
+NMManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMManager.cpp
+END
+NMGameLogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMGameLogManager.h
+END
+NMFUSFileUploadSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFUSFileUploadSession.h
+END
+NMSerializable.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMSerializable.h
+END
+NMFunctionObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFunctionObject.cpp
+END
+NMCSChatSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCSChatSession.h
+END
+NMPCH.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMPCH.h
+END
+NMEventHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMEventHandler.cpp
+END
+NMGSGeneralSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMGSGeneralSession.h
+END
+NMCONew.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCONew.h
+END
+NMCOHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCOHelpers.cpp
+END
+NMPlayFeedManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMPlayFeedManager.cpp
+END
+PCH.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/PCH.h
+END
+NMWSWBSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMWSWBSession.cpp
+END
+NMCOClientObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCOClientObject.h
+END
+NMDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMDataObject.cpp
+END
+NMFiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFiles.cpp
+END
+NMDataTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMDataTypes.h
+END
+NMGameLogManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMGameLogManager.cpp
+END
+NMFUSFileUploadSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFUSFileUploadSession.cpp
+END
+NMCRChatRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCRChatRoom.h
+END
+NMSerializable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMSerializable.cpp
+END
+NMCSChatSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCSChatSession.cpp
+END
+NMGSGeneralSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMGSGeneralSession.cpp
+END
+NMFDSFileDownloadSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFDSFileDownloadSession.h
+END
+NMEventObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMEventObject.h
+END
+NMManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMManager.h
+END
+nmcogame.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/nmcogame.lib
+END
+NMFunctionObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMFunctionObject.h
+END
+NMGeneral.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMGeneral.h
+END
+NMEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMEventHandler.h
+END
+NMCOClientObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCOClientObject.cpp
+END
+NMCOHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCOHelpers.h
+END
+NMPlayFeedManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMPlayFeedManager.h
+END
+NMWSWBSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMWSWBSession.h
+END
+NMDataTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMDataTypes.cpp
+END
+NMCRChatRoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMCRChatRoom.cpp
+END
+NMPCH2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/NexonModule/NMClass/NMPCH2.h
+END

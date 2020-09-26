@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=Manager_DB
+DATABASE=ManagerDB
+WSID=ES_INTERNAL
+APP=Microsoft Data Access Components
+SERVER=192.168.199.92,7757
+PWD=x2akstp

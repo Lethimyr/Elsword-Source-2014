@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[GItemEnchant] ADD
+CONSTRAINT [FK_GItemEnchant_GItem] FOREIGN KEY ([ItemUID]) REFERENCES [dbo].[GItem] ([ItemUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[LSGLoginServerConnectStatus] ADD CONSTRAINT [PKC_LSGLoginServerConnectStatus_LoginUID] PRIMARY KEY CLUSTERED  ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

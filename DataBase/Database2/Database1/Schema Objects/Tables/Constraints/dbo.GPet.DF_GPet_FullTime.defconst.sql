@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GPet] ADD CONSTRAINT [DF_GPet_FullTime] DEFAULT (1000) FOR [FullTime]
+
+

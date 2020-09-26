@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[Characters] ADD CONSTRAINT [PK_Characters] PRIMARY KEY CLUSTERED  ([Login], [CharType]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

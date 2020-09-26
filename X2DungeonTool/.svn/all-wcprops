@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/X2DungeonTool
+END
+Lottery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/Lottery.cpp
+END
+X2DTEditBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTEditBox.h
+END
+X2DTDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTDialog.h
+END
+X2EnumManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2EnumManager.cpp
+END
+X2DungeonTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool.h
+END
+TestEmpty.rc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/TestEmpty.rc
+END
+TestEmpty.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/TestEmpty.manifest
+END
+X2DTGUNPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTGUNPC.h
+END
+X2DTDropTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTDropTable.h
+END
+X2DTWorldManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTWorldManager.cpp
+END
+X2DTNpcScaleManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTNpcScaleManager.cpp
+END
+X2DTListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTListBox.cpp
+END
+TargetRange.X
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/TargetRange.X
+END
+TestEmpty.fx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/TestEmpty.fx
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/resource.h
+END
+X2DungeonTool_2003.vcproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool_2003.vcproj.vspscc
+END
+X2DTWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTWorld.h
+END
+X2DungeonTool_2010.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool_2010.vcxproj.user
+END
+X2DTEditBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTEditBox.cpp
+END
+X2DTDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTDialog.cpp
+END
+X2DTDungeonMapUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTDungeonMapUI.h
+END
+X2DungeonTool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool.cpp
+END
+Lottery.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/Lottery.h
+END
+X2DungeonToolMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonToolMain.cpp
+END
+X2DTGUNPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTGUNPC.cpp
+END
+X2DTDropTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTDropTable.cpp
+END
+X2EnumManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2EnumManager.h
+END
+DungeonToolOpt.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/DungeonToolOpt.lua
+END
+X2DungeonTool_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/105051/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool_2010.vcxproj
+END
+X2DungeonTool_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool_2010.vcxproj.filters
+END
+X2DTWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTWorld.cpp
+END
+X2DTWorldManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTWorldManager.h
+END
+X2DTNpcScaleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTNpcScaleManager.h
+END
+X2DTListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTListBox.h
+END
+X2DungeonTool_2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/104631/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DungeonTool_2003.vcproj
+END
+X2DTDungeonMapUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/X2DungeonTool/X2DTDungeonMapUI.cpp
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/stdafx.h
+END
+define.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/define.h
+END
+SHA1.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/SHA1.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/targetver.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/Types.h
+END
+libxml_mt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/libxml_mt.lib
+END
+CreateCheckInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/CreateCheckInfo.cpp
+END
+libxml_mtd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/libxml_mtd.lib
+END
+HttpSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/HttpSession.cpp
+END
+CreateCheckInfo.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/CreateCheckInfo.vcxproj
+END
+HttpSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/HttpSession.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/ReadMe.txt
+END
+SHA1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/SHA1.cpp
+END
+CreateCheckInfo.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/CreateCheckInfo/CreateCheckInfo/CreateCheckInfo.vcxproj.filters
+END

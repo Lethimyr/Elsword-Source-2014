@@ -1,0 +1,163 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 영어(미국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_PANEL DIALOGEX 0, 0, 187, 311
+STYLE DS_SYSMODAL | DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "X-FILE Exporter (Elsword_v1.6b)"
+FONT 8, "MS Sans Serif", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Export",IDC_BUTTON_EXPORT,74,293,50,14
+    PUSHBUTTON      "Cancel",IDC_BUTTON_CANCEL,134,293,50,14
+    GROUPBOX        "Format",IDC_STATIC,2,8,90,50,WS_GROUP
+    CONTROL         "Text",IDC_RADIO_TEXT_FORMAT,"Button",BS_AUTORADIOBUTTON,10,20,70,10
+    CONTROL         "Binary Compressed",IDC_RADIO_BINCOMPRESSED_FORMAT,
+                    "Button",BS_AUTORADIOBUTTON,10,42,76,10
+    CONTROL         "Binary",IDC_RADIO_BIN_FORMAT,"Button",BS_AUTORADIOBUTTON,10,31,72,10
+    GROUPBOX        "Texture Option",IDC_STATIC,2,99,182,51
+    CONTROL         "Full Path FileName",IDC_CHECK_FULLPATH,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,14,113,86,10
+    COMBOBOX        IDC_COMBO_FILETYPE,50,129,52,90,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "File Type",IDC_STATIC,14,130,34,8
+    GROUPBOX        "Animation Option",IDC_STATIC,2,158,182,127
+    CONTROL         "Include Animation Data",IDC_CHECK_INCLUDE_ANIDATA,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,14,170,106,10
+    LTEXT           "Sampling Rate",IDC_STATIC,16,188,35,8
+    EDITTEXT        IDC_EDIT_SAMPLING,54,185,54,14,ES_AUTOHSCROLL
+    LTEXT           "Frame Range",IDC_STATIC,15,202,35,8
+    EDITTEXT        IDC_EDIT_FRAME_RANGE_START,17,213,70,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FRAME_RANGE_END,99,213,70,14,ES_AUTOHSCROLL
+    LTEXT           "Name",IDC_STATIC,15,232,39,8
+    EDITTEXT        IDC_EDIT_ANINAME,17,241,152,14,ES_AUTOHSCROLL
+    CTEXT           "-",IDC_STATIC,89,216,8,8
+    CONTROL         "Optimaize",IDC_CHECK_OPTIMIZE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,10,76,80,10
+    COMBOBOX        IDC_COMBO_DDSTYPE,109,129,55,79,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Smooth Normal",IDC_CHECK_SMOOTHNORMAL,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,104,76,80,10
+    GROUPBOX        "Export Option",IDC_STATIC,2,63,182,30
+    CONTROL         "Empty Frame Not Attach",IDC_CHECK_EMPTYFRAME,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_DISABLED | WS_TABSTOP,92,79,92,10
+    CHECKBOX        "Convert KOGMesh",IDC_CHECK_CONVERTKOGMESH,13,79,75,10,NOT WS_VISIBLE | WS_DISABLED
+    GROUPBOX        "Extension Option",IDC_STATIC,98,8,86,50,WS_GROUP
+    CONTROL         "X File",IDC_RADIO_X_EXT,"Button",BS_AUTORADIOBUTTON,106,20,35,10
+    CONTROL         "Y File",IDC_RADIO_Y_EXT,"Button",BS_AUTORADIOBUTTON,106,31,29,10
+    PUSHBUTTON      "Normal",IDC_BUTTON_NORMAL,4,265,33,14
+    PUSHBUTTON      "Default",IDC_BUTTON_DEFAULT,38,265,33,14
+    PUSHBUTTON      "Equip",IDC_BUTTON_EQUIP,72,265,33,14
+    PUSHBUTTON      "Weapon",IDC_BUTTON_WEAPON,106,265,36,14
+    PUSHBUTTON      "Accessory",IDC_BUTTON_ACCESSORY,143,265,39,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_PANEL, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 184
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 307
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_LIBDESCRIPTION      "Export X-File"
+    IDS_CATEGORY            "ExportXFile"
+    IDS_CLASS_NAME          "XFileExp"
+    IDS_PARAMS              "Parameters"
+    IDS_SPIN                "Spin"
+END
+
+#endif    // 영어(미국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

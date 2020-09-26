@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GuildInfo] ADD CONSTRAINT [DF_GUILDINFO_Mark] DEFAULT (0) FOR [Mark]
+
+

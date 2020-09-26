@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[STGSkillTreeID] ADD
+CONSTRAINT [FK_STGSkillTreeID_STGSkillTreeSP] FOREIGN KEY ([LoginUID], [CharType]) REFERENCES [dbo].[STGSkillTreeSP] ([LoginUID], [CharType]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

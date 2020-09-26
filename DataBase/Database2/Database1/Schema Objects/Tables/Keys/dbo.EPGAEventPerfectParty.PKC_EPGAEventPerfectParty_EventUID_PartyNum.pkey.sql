@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[EPGAEventPerfectParty] ADD CONSTRAINT [PKC_EPGAEventPerfectParty_EventUID_PartyNum] PRIMARY KEY CLUSTERED  ([EventUID], [PartyNum]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

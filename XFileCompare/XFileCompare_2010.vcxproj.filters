@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{3227cd08-ff3b-4d30-a50f-16cc4505eb51}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{f48f6836-55b0-46fe-a07e-31a45f38cd93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{72e9a15e-1423-4ddb-a1fa-8d5d0936ed35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Script">
+      <UniqueIdentifier>{163c1192-cb2f-4405-8832-44251e905095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Sound">
+      <UniqueIdentifier>{871fd803-97a3-4faf-a1d1-30d4702636e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\System">
+      <UniqueIdentifier>{b8032026-5e8e-4a4c-9e70-dbce8c74cb16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\System\DLL">
+      <UniqueIdentifier>{c247f8de-15bf-4ef7-8d84-b14969607fa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\System\FX">
+      <UniqueIdentifier>{13391e52-a8f3-4d34-8efd-4ebe1c6b7348}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\System\Texture">
+      <UniqueIdentifier>{f5fc732a-5766-412f-928a-9a33c6c8ff33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Texture">
+      <UniqueIdentifier>{1bcbc6df-d5b8-47f3-9ee5-6e74da6a24fe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\Script\FileToRemoveFrame.lua">
+      <Filter>Resource\Script</Filter>
+    </None>
+    <None Include="Resource\Script\NewCompare4.lua">
+      <Filter>Resource\Script</Filter>
+    </None>
+    <None Include="Resource\Script\SymbolTable.lua">
+      <Filter>Resource\Script</Filter>
+    </None>
+    <None Include="Resource\Script\UI_Control_Sound.lua">
+      <Filter>Resource\Script</Filter>
+    </None>
+    <None Include="Resource\Sound\X2_Button_Mouse_Over.wav">
+      <Filter>Resource\Sound</Filter>
+    </None>
+    <None Include="Resource\Sound\X2_Button_Mouse_Up.wav">
+      <Filter>Resource\Sound</Filter>
+    </None>
+    <None Include="Resource\Sound\X2_EditBox_KeyDown.WAV">
+      <Filter>Resource\Sound</Filter>
+    </None>
+    <None Include="Resource\System\DLL\msvcp71.dll">
+      <Filter>Resource\System\DLL</Filter>
+    </None>
+    <None Include="Resource\System\DLL\msvcr71.dll">
+      <Filter>Resource\System\DLL</Filter>
+    </None>
+    <None Include="Resource\System\DLL\unicows.dll">
+      <Filter>Resource\System\DLL</Filter>
+    </None>
+    <None Include="Resource\System\FX\GCSkin.fx">
+      <Filter>Resource\System\FX</Filter>
+    </None>
+    <None Include="Resource\System\FX\XRenderer.fx">
+      <Filter>Resource\System\FX</Filter>
+    </None>
+    <None Include="Resource\System\FX\XSkinRenderer.fx">
+      <Filter>Resource\System\FX</Filter>
+    </None>
+    <None Include="Resource\System\Texture\CartoonFire.BMP">
+      <Filter>Resource\System\Texture</Filter>
+    </None>
+    <None Include="Resource\System\Texture\CartoonNormal.bmp">
+      <Filter>Resource\System\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\Allsort.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\Allsort.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\BG.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\BGMouseOver.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\ButtonMouseDownTex.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\ButtonMouseOverTex.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\ButtonTex.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\Check.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\CheckedBG.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\CheckedBG.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\CheckNormalBG.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\CheckNormalBG.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\CheckOverBG.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\CheckOverBG.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\DLGLogin0.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\DLGLogin1.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\DownButton.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\DropdownTex.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\DropdownTextTex.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\FirstModel.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\FirstModel.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\RemoveFrameButton.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\RemoveFrameButton.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\RemoveFrameNameIMEEdit.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\Reset.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\SecondModel.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\SecondModel.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\sort.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\sort.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\temp1.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\temp1.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\temp2.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\temp2.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\temp3.tet">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\temp3.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\TextTex.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\Thumb.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\Track.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="Resource\Texture\UpButton.tga">
+      <Filter>Resource\Texture</Filter>
+    </None>
+    <None Include="KncCrashRpt.dll" />
+    <None Include="KncFirewall.dll" />
+    <None Include="MailMIME.dll" />
+    <None Include="MailSMTP.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="FCCompare.h" />
+    <ClInclude Include="FCSort.h" />
+    <ClInclude Include="FrameRemove.h" />
+    <ClInclude Include="XFileCompareMain.h" />
+    <ClInclude Include="XFileFrameSort.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="XFileCompare.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="XFileCompare.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="FCCompare.cpp" />
+    <ClCompile Include="FCSort.cpp" />
+    <ClCompile Include="FrameRemove.cpp" />
+    <ClCompile Include="XFileCompare.cpp" />
+    <ClCompile Include="XFileCompareMain.cpp" />
+    <ClCompile Include="XFileFrameSort.cpp" />
+  </ItemGroup>
+</Project>

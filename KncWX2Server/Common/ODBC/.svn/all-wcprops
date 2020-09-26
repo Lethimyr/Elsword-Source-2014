@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC
+END
+StoredProcedure.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC/StoredProcedure.h
+END
+DBUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC/DBUtil.cpp
+END
+Odbc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC/Odbc.cpp
+END
+DBUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC/DBUtil.h
+END
+StoredProcedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eskr/source/!svn/ver/104636/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC/StoredProcedure.cpp
+END
+Odbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eskr/source/!svn/ver/102140/JP_TW_EU_CN_US/Trunk/KncWX2Server/Common/ODBC/Odbc.h
+END

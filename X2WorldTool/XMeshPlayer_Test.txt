@@ -1,0 +1,20 @@
+XMESHPLAYER "MESHPLAYER_TEST" 1.00 
+{  
+	TEMPLET "Arrow_TEST" 
+	{
+		Layer			= 14
+		lifeType		= LT_TIME
+		lifeTime		= 0.4
+		meshType		= X_SKIN_MESH
+		meshName		= "Lire_Arrow.X"
+		RenderType		= RT_REAL_COLOR
+		zEnable			= false
+		usedieevent		= false
+		sourceblendmode = D3DBLEND_SRCALPHA
+		destblendmode	= D3DBLEND_INVSRCALPHA
+
+		global initial		aniName		= "Normal", XAP_LOOP
+		global initial		velocity	= XYZ( 2000,0,0 )
+		global initial		size		= XYZ( 1.5,1.5,1.5 )
+	}	
+}

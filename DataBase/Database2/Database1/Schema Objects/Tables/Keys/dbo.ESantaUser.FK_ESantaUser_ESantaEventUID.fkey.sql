@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[ESantaUser] ADD
+CONSTRAINT [FK_ESantaUser_ESantaEventUID] FOREIGN KEY ([EventUID]) REFERENCES [dbo].[ESantaEventUID] ([EventUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

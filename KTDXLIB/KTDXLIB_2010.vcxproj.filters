@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{b8488b4c-2ca6-4af0-bab8-d64e9d2e9754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tinyXML">
+      <UniqueIdentifier>{e97d159b-77bc-4a8e-a4ae-64da5b4e2ab6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMOD">
+      <UniqueIdentifier>{dbcfa97c-1f6c-4237-9f76-647713787546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CxImage">
+      <UniqueIdentifier>{2cb0c5d0-b84f-42b0-9c14-ec42ca4666fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libxml">
+      <UniqueIdentifier>{bf86734d-7281-4fd2-8f6a-2058b6463fc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OnlyGlobal">
+      <UniqueIdentifier>{adbfc3c9-de56-40f8-abf7-876b1967742a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dxut\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Dxut\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Dxut\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Dxut\DXUTMesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Dxut\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Dxut\DXUTSettingsDlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxml.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="Browser.c" />
+    <ClCompile Include="usewinhoard.cpp" />
+    <ClCompile Include="CRC_32.cpp" />
+    <ClCompile Include="debug.cpp" />
+    <ClCompile Include="KBrowserWrapper.cpp" />
+    <ClCompile Include="KExceptionSafeUtil.cpp" />
+    <ClCompile Include="KFileSerializer.cpp" />
+    <ClCompile Include="KFileVerifier.cpp" />
+    <ClCompile Include="KGCMassFileBufferManager.cpp" />
+    <ClCompile Include="KGCMassFileManager.cpp" />
+    <ClCompile Include="KHangulPPWSelector.cpp" />
+    <ClCompile Include="KHelpSystem.cpp" />
+    <ClCompile Include="KPCHWebBrowser.cpp" />
+    <ClCompile Include="KProtectRefTable.cpp" />
+    <ClCompile Include="KSmartNull.cpp" />
+    <ClCompile Include="KSuperAssert.cpp" />
+    <ClCompile Include="KSystemTimer.cpp" />
+    <ClCompile Include="KTDGCamera.cpp" />
+    <ClCompile Include="KTDGDeviceFont.cpp" />
+    <ClCompile Include="KTDGDynamicTexture.cpp" />
+    <ClCompile Include="KTDGDynamicVBManager.cpp" />
+    <ClCompile Include="KTDGEffectStateManager.cpp" />
+    <ClCompile Include="KTDGFontManager.cpp" />
+    <ClCompile Include="KTDGFontUtil.cpp" />
+    <ClCompile Include="KTDGFreeTypeFont.cpp" />
+    <ClCompile Include="KTDGFrustum.cpp" />
+    <ClCompile Include="KTDGGlow.cpp" />
+    <ClCompile Include="KTDGGrayScale.cpp" />
+    <ClCompile Include="KTDGLensFlare.cpp" />
+    <ClCompile Include="KTDGLineMap.cpp" />
+    <ClCompile Include="KTDGManager.cpp" />
+    <ClCompile Include="KTDGMatrix.cpp" />
+    <ClCompile Include="KTDGMotionBlur.cpp" />
+    <ClCompile Include="KTDGObject.cpp" />
+    <ClCompile Include="KTDGParticleSystem.cpp" />
+    <ClCompile Include="KTDGPicChar.cpp" />
+    <ClCompile Include="KTDGPlanShadow.cpp" />
+    <ClCompile Include="KTDGPostEffect.cpp" />
+    <ClCompile Include="KTDGSkyDome.cpp" />
+    <ClCompile Include="KTDGSlashTrace.cpp" />
+    <ClCompile Include="KTDGStateManager.cpp" />
+    <ClCompile Include="KTDGTargetArrow.cpp" />
+    <ClCompile Include="KTDGUIButton.cpp" />
+    <ClCompile Include="KTDGUICheckBox.cpp" />
+    <ClCompile Include="KTDGUIComboBox.cpp" />
+    <ClCompile Include="KTDGUIControl.cpp" />
+    <ClCompile Include="KTDGUIControlList.cpp" />
+    <ClCompile Include="KTDGUIDialog.cpp" />
+    <ClCompile Include="KTDGUIDialogHandle.cpp" />
+    <ClCompile Include="KTDGUIDialogManager.cpp" />
+    <ClCompile Include="KTDGUIEditBox.cpp" />
+    <ClCompile Include="KTDGUIIMEEditBox.cpp" />
+    <ClCompile Include="KTDGUIItem.cpp" />
+    <ClCompile Include="KTDGUIListBox.cpp" />
+    <ClCompile Include="KTDGUIListControl.cpp" />
+    <ClCompile Include="KTDGUINavigation.cpp" />
+    <ClCompile Include="KTDGUIRadioButton.cpp" />
+    <ClCompile Include="KTDGUIScrollBar.cpp" />
+    <ClCompile Include="KTDGUISlider.cpp" />
+    <ClCompile Include="KTDGUISlot.cpp" />
+    <ClCompile Include="KTDGUIStatic.cpp" />
+    <ClCompile Include="KTDGUIUniBuffer.cpp" />
+    <ClCompile Include="KTDGXMeshPlayer.cpp" />
+    <ClCompile Include="KTDGXRenderer.cpp" />
+    <ClCompile Include="KTDGXSkinAfterImage.cpp" />
+    <ClCompile Include="KTDGXSkinAnim.cpp" />
+    <ClCompile Include="KTDIDevice.cpp" />
+    <ClCompile Include="KTDIDeviceWinKey.cpp" />
+    <ClCompile Include="KTDIManager.cpp" />
+    <ClCompile Include="KTDNDP.cpp" />
+    <ClCompile Include="KTDNManager.cpp" />
+    <ClCompile Include="KTDNPacket.cpp" />
+    <ClCompile Include="KTDNTransfer.cpp" />
+    <ClCompile Include="KTDNUDP.cpp" />
+    <ClCompile Include="KTDNUDPStatisticData.cpp" />
+    <ClCompile Include="KTDSManager.cpp" />
+    <ClCompile Include="KTDSMP3Play.cpp" />
+    <ClCompile Include="KTDXAnimationController.cpp" />
+    <ClCompile Include="KTDXApp.cpp" />
+    <ClCompile Include="KTDXCollision.cpp" />
+    <ClCompile Include="KTDXDevice.cpp" />
+    <ClCompile Include="KTDXDeviceBaseTexture.cpp" />
+    <ClCompile Include="KTDXDeviceHolder.cpp" />
+    <ClCompile Include="KTDXDeviceManager.cpp" />
+    <ClCompile Include="KTDXDeviceRenderTargetTexture.cpp" />
+    <ClCompile Include="KTDXDeviceSound.cpp" />
+    <ClCompile Include="KTDXDeviceTexture.cpp" />
+    <ClCompile Include="KTDXDeviceXET.cpp" />
+    <ClCompile Include="KTDXDeviceXMesh.cpp" />
+    <ClCompile Include="KTDXDeviceXSkinMesh.cpp" />
+    <ClCompile Include="KTDXEnumToLua.cpp" />
+    <ClCompile Include="KTDXLog.cpp" />
+    <ClCompile Include="KTDXRandomNumbers.cpp" />
+    <ClCompile Include="KTDXRecyclingArray.cpp" />
+    <ClCompile Include="KTDXSimpleHandleInterface.cpp" />
+    <ClCompile Include="KTDXStage.cpp" />
+    <ClCompile Include="KTDXStringLoader.cpp" />
+    <ClCompile Include="KTDXStringTable.cpp" />
+    <ClCompile Include="KTDXThread.cpp" />
+    <ClCompile Include="KTDXTimer.cpp" />
+    <ClCompile Include="KVersionControl.cpp" />
+    <ClCompile Include="MinMax.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="BandiVideoFileReader.cpp" />
+    <ClCompile Include="BandiVideoLibrary.cpp" />
+    <ClCompile Include="BandiVideoSound_DS.cpp" />
+    <ClCompile Include="BandiVideoSound_NULL.cpp" />
+    <ClCompile Include="BandiVideoTexture_DX9.cpp" />
+    <ClCompile Include="KLuaManagerProxy.cpp" />
+    <ClCompile Include="KTDXDeviceTET_Preprocessing.cpp" />
+    <ClCompile Include="KTDXDeviceXET_Preprocessing.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dxut\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Dxut\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Dxut\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Dxut\DXUTMesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Dxut\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Dxut\DXUTSettingsDlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml\tinyxml.h">
+      <Filter>tinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="FMOD\inc\fmod.h">
+      <Filter>FMOD</Filter>
+    </ClInclude>
+    <ClInclude Include="FMOD\inc\fmod.hpp">
+      <Filter>FMOD</Filter>
+    </ClInclude>
+    <ClInclude Include="FMOD\inc\fmod_codec.h">
+      <Filter>FMOD</Filter>
+    </ClInclude>
+    <ClInclude Include="FMOD\inc\fmod_dsp.h">
+      <Filter>FMOD</Filter>
+    </ClInclude>
+    <ClInclude Include="FMOD\inc\fmod_errors.h">
+      <Filter>FMOD</Filter>
+    </ClInclude>
+    <ClInclude Include="FMOD\inc\fmod_output.h">
+      <Filter>FMOD</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\xfile.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximabmp.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximacfg.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximadef.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximage.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximagif.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximaico.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximaiter.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximajas.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximajbg.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximajpg.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximamng.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximapcx.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximapng.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximaraw.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximaska.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximatga.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximath.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximatif.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximawbmp.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\ximawmf.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\xiofile.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CXImage\xmemfile.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\c14n.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\catalog.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\chvalid.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\debugXML.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\dict.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\DOCBparser.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\encoding.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\entities.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\globals.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\hash.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\HTMLparser.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\HTMLtree.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\list.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\nanoftp.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\nanohttp.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\parser.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\parserInternals.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\pattern.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\relaxng.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\SAX.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\SAX2.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\schemasInternals.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\schematron.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\threads.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\tree.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\uri.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\valid.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xinclude.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xlink.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlautomata.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlerror.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlexports.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlIO.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlmemory.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlmodule.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlreader.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlregexp.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlsave.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlschemas.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlschemastypes.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlstring.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlunicode.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlversion.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xmlwriter.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xpath.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xpathInternals.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="libxml\libxml\xpointer.h">
+      <Filter>libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_ID.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_JP.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_TH.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_TWHK.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_US.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_BR.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_CN.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_Global.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyGlobal\Always_EU.h">
+      <Filter>OnlyGlobal</Filter>
+    </ClInclude>
+    <ClInclude Include="zlib.h" />
+    <ClInclude Include="Always.h" />
+    <ClInclude Include="AlwaysButConditionally.h" />
+    <ClInclude Include="AntiHackingString.h" />
+    <ClInclude Include="bandivid.h" />
+    <ClInclude Include="BandiVideoFileReader.h" />
+    <ClInclude Include="BandiVideoLibrary.h" />
+    <ClInclude Include="BandiVideoSound_DS.h" />
+    <ClInclude Include="BandiVideoSound_NULL.h" />
+    <ClInclude Include="BandiVideoTexture.h" />
+    <ClInclude Include="BandiVideoTexture_DX9.h" />
+    <ClInclude Include="boost_kog_extension.h" />
+    <ClInclude Include="CrashRpt.h" />
+    <ClInclude Include="CRC_32.h" />
+    <ClInclude Include="CSLock.h" />
+    <ClInclude Include="debug.h" />
+    <ClInclude Include="delegate.hpp" />
+    <ClInclude Include="delegate_list.hpp" />
+    <ClInclude Include="delegate_template.hpp" />
+    <ClInclude Include="EnumToString.h" />
+    <ClInclude Include="InHouse1.h" />
+    <ClInclude Include="InHouse2.h" />
+    <ClInclude Include="InHouse3.h" />
+    <ClInclude Include="InHouse4.h" />
+    <ClInclude Include="InHouse5.h" />
+    <ClInclude Include="InHouse6.h" />
+    <ClInclude Include="InHouseEtc.h" />
+    <ClInclude Include="KBrowserWrapper.h" />
+    <ClInclude Include="KDynamicSingleton.h" />
+    <ClInclude Include="KExceptionSafeUtil.h" />
+    <ClInclude Include="KFileSerializer.h" />
+    <ClInclude Include="KFileVerifier.h" />
+    <ClInclude Include="KGCMassFileBufferManager.h" />
+    <ClInclude Include="KGCMassFileManager.h" />
+    <ClInclude Include="KHandle.h" />
+    <ClInclude Include="KHandleArray.h" />
+    <ClInclude Include="KHangulPPWSelector.h" />
+    <ClInclude Include="KHelpSystem.h" />
+    <ClInclude Include="KJohnObjMan.h" />
+    <ClInclude Include="KJohnThread.h" />
+    <ClInclude Include="KncFirewall.h" />
+    <ClInclude Include="KObserverPtr.h" />
+    <ClInclude Include="KPCHWebBrowser.h" />
+    <ClInclude Include="KProtectedType.h" />
+    <ClInclude Include="KProtectRefTable.h" />
+    <ClInclude Include="KSmartNull.h" />
+    <ClInclude Include="KStringUtil.h" />
+    <ClInclude Include="KSuperAssert.h" />
+    <ClInclude Include="KSystemTimer.h" />
+    <ClInclude Include="KTDGCamera.h" />
+    <ClInclude Include="KTDGDeviceFont.h" />
+    <ClInclude Include="KTDGDynamicTexture.h" />
+    <ClInclude Include="KTDGDynamicVBManager.h" />
+    <ClInclude Include="KTDGEffectStateManager.h" />
+    <ClInclude Include="KTDGFontManager.h" />
+    <ClInclude Include="KTDGFontUtil.h" />
+    <ClInclude Include="KTDGFontVertex.h" />
+    <ClInclude Include="KTDGFreeTypeFont.h" />
+    <ClInclude Include="KTDGFrustum.h" />
+    <ClInclude Include="KTDGGlow.h" />
+    <ClInclude Include="KTDGGrayScale.h" />
+    <ClInclude Include="KTDGLensFlare.h" />
+    <ClInclude Include="KTDGLineMap.h" />
+    <ClInclude Include="KTDGManager.h" />
+    <ClInclude Include="KTDGMatrix.h" />
+    <ClInclude Include="KTDGMotionBlur.h" />
+    <ClInclude Include="KTDGObject.h" />
+    <ClInclude Include="KTDGParticleSystem.h" />
+    <ClInclude Include="KTDGPicChar.h" />
+    <ClInclude Include="KTDGPlanShadow.h" />
+    <ClInclude Include="KTDGPostEffect.h" />
+    <ClInclude Include="KTDGSkyDome.h" />
+    <ClInclude Include="KTDGSlashTrace.h" />
+    <ClInclude Include="KTDGStateManager.h" />
+    <ClInclude Include="KTDGTargetArrow.h" />
+    <ClInclude Include="KTDGUIButton.h" />
+    <ClInclude Include="KTDGUIComboBox.h" />
+    <ClInclude Include="KTDGUIControl.h" />
+    <ClInclude Include="KTDGUIControlList.h" />
+    <ClInclude Include="KTDGUIDialog.h" />
+    <ClInclude Include="KTDGUIDialogHandle.h" />
+    <ClInclude Include="KTDGUIDialogManager.h" />
+    <ClInclude Include="KTDGUIEditBox.h" />
+    <ClInclude Include="KTDGUIIMEEditBox.h" />
+    <ClInclude Include="KTDGUIItem.h" />
+    <ClInclude Include="KTDGUIListBox.h" />
+    <ClInclude Include="KTDGUIListControl.h" />
+    <ClInclude Include="KTDGUINavigation.h" />
+    <ClInclude Include="KTDGUIRadioButton.h" />
+    <ClInclude Include="KTDGUIScrollBar.h" />
+    <ClInclude Include="KTDGUISlider.h" />
+    <ClInclude Include="KTDGUISlot.h" />
+    <ClInclude Include="KTDGUIStatic.h" />
+    <ClInclude Include="KTDGXMeshPlayer.h" />
+    <ClInclude Include="KTDGXRenderer.h" />
+    <ClInclude Include="KTDGXSkinAfterImage.h" />
+    <ClInclude Include="KTDGXSkinAnim.h" />
+    <ClInclude Include="KTDIDevice.h" />
+    <ClInclude Include="KTDIDeviceWinKey.h" />
+    <ClInclude Include="KTDIManager.h" />
+    <ClInclude Include="KTDNDP.h" />
+    <ClInclude Include="KTDNManager.h" />
+    <ClInclude Include="KTDNPacket.h" />
+    <ClInclude Include="KTDNTransfer.h" />
+    <ClInclude Include="KTDNUDP.h" />
+    <ClInclude Include="KTDNUDPStatisticData.h" />
+    <ClInclude Include="KTDSManager.h" />
+    <ClInclude Include="KTDSMP3Play.h" />
+    <ClInclude Include="KTDX.h" />
+    <ClInclude Include="KTDXAnimationController.h" />
+    <ClInclude Include="KTDXApp.h" />
+    <ClInclude Include="KTDXCollision.h" />
+    <ClInclude Include="KTDXCommonFunc.h" />
+    <ClInclude Include="KTDXDevice.h" />
+    <ClInclude Include="KTDXDeviceBaseTexture.h" />
+    <ClInclude Include="KTDXDeviceHolder.h" />
+    <ClInclude Include="KTDXDeviceManager.h" />
+    <ClInclude Include="KTDXDeviceRenderTargetTexture.h" />
+    <ClInclude Include="KTDXDeviceSound.h" />
+    <ClInclude Include="KTDXDeviceTexture.h" />
+    <ClInclude Include="KTDXDeviceXET.h" />
+    <ClInclude Include="KTDXDeviceXMesh.h" />
+    <ClInclude Include="KTDXDeviceXSkinMesh.h" />
+    <ClInclude Include="KTDXEnumToLua.h" />
+    <ClInclude Include="KTDXErrorDefine.h" />
+    <ClInclude Include="KTDXLog.h" />
+    <ClInclude Include="KTDXRandomNumbers.h" />
+    <ClInclude Include="KTDXRecyclingArray.h" />
+    <ClInclude Include="KTDXSimpleHandleInterface.h" />
+    <ClInclude Include="KTDXStage.h" />
+    <ClInclude Include="KTDXStringLoader.h" />
+    <ClInclude Include="KTDXStringTable.h" />
+    <ClInclude Include="KTDXThread.h" />
+    <ClInclude Include="KTDXTimer.h" />
+    <ClInclude Include="KVersionControl.h" />
+    <ClInclude Include="MinMax.h" />
+    <ClInclude Include="NTCheckHeap.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="StringID_def1.h" />
+    <ClInclude Include="StringID_def10.h" />
+    <ClInclude Include="StringID_def11.h" />
+    <ClInclude Include="StringID_def12.h" />
+    <ClInclude Include="StringID_def2.h" />
+    <ClInclude Include="StringID_def3.h" />
+    <ClInclude Include="StringID_def4.h" />
+    <ClInclude Include="StringID_def5.h" />
+    <ClInclude Include="StringID_def6.h" />
+    <ClInclude Include="StringID_def7.h" />
+    <ClInclude Include="StringID_def8.h" />
+    <ClInclude Include="StringID_def9.h" />
+    <ClInclude Include="vld.h" />
+    <ClInclude Include="..\XTRAP\Client\Xtrap_C_Interface.h" />
+    <ClInclude Include="zconf.h" />
+    <ClInclude Include="KGlobalSingleton.h" />
+    <ClInclude Include="KLuaManagerProxy.h" />
+    <ClInclude Include="KTDXDeviceTET_Preprocessing.h" />
+    <ClInclude Include="KTDXDeviceXET_Preprocessing.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="FMOD\lib\fmodex_vc.lib">
+      <Filter>FMOD</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="KTDGUICheckBox.h" />
+    <CustomBuildStep Include="KTDGUIUniBuffer.h" />
+    <CustomBuildStep Include="vldapi.h" />
+    <CustomBuildStep Include="CrashRpt.lib" />
+    <CustomBuildStep Include="zlibwapi.dll" />
+    <CustomBuildStep Include="CxImage.lib" />
+    <CustomBuildStep Include="cximageD.lib" />
+    <CustomBuildStep Include="cximaged.pdb" />
+    <CustomBuildStep Include="jpeg.lib" />
+    <CustomBuildStep Include="jpegD.lib" />
+    <CustomBuildStep Include="jpegd.pdb" />
+    <CustomBuildStep Include="libxml_mt.lib" />
+    <CustomBuildStep Include="libxml_mtd.lib" />
+    <CustomBuildStep Include="luaLib.lib" />
+    <CustomBuildStep Include="luaLibD.lib" />
+    <CustomBuildStep Include="lualibd.pdb" />
+    <CustomBuildStep Include="Profiler.lib" />
+    <CustomBuildStep Include="ProfilerD.lib" />
+    <CustomBuildStep Include="profilerd.pdb" />
+    <CustomBuildStep Include="unicows.lib" />
+    <CustomBuildStep Include="vld.lib" />
+    <CustomBuildStep Include="vldmt.lib" />
+    <CustomBuildStep Include="vldmtdll.lib" />
+    <CustomBuildStep Include="winhoard.lib" />
+    <CustomBuildStep Include="zlib.lib" />
+    <CustomBuildStep Include="zlibd.lib" />
+    <CustomBuildStep Include="zlibstat.lib" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[VCGAVirtualCash] ADD
+CONSTRAINT [FK_VCGAVirtualCash_Users] FOREIGN KEY ([LoginUID]) REFERENCES [dbo].[users] ([LoginUID]) ON DELETE CASCADE ON UPDATE CASCADE
+
+

@@ -1,0 +1,332 @@
+#pragma once
+
+class CX2StateOption : public CX2State
+{
+public:
+
+	enum STATE_OPTION_UI_CUSTOM_MSG
+	{
+		SOUCM_OPTION_WINDOW_OPEN = 2000,
+		SOUCM_OPTION_WINDOW_CLOSE,
+
+		SOUCM_OPTION_GRAPHIC,
+		SOUCM_OPTION_SOUND,
+		SOUCM_OPTION_OTHER,
+		SOUCM_OPTION_COMMUNITY,
+
+		SOUCM_OPTION_GRAPHIC_AUTOSET_LEFT,
+		SOUCM_OPTION_GRAPHIC_AUTOSET_RIGHT,
+
+		SOUCM_OPTION_GRAPHIC_UNIT_HIGH,
+		SOUCM_OPTION_GRAPHIC_UNIT_MEDIUM,
+		SOUCM_OPTION_GRAPHIC_UNIT_LOW,
+
+		SOUCM_OPTION_GRAPHIC_TEXTURE_HIGH,
+		SOUCM_OPTION_GRAPHIC_TEXTURE_MEDIUM,
+		SOUCM_OPTION_GRAPHIC_TEXTURE_LOW,
+
+		SOUCM_OPTION_GRAPHIC_BACKGROUND_HIGH,
+		SOUCM_OPTION_GRAPHIC_BACKGROUND_MEDIUM,
+		SOUCM_OPTION_GRAPHIC_BACKGROUND_LOW,
+
+		SOUCM_OPTION_GRAPHIC_EFFECT_HIGH,
+		SOUCM_OPTION_GRAPHIC_EFFECT_MEDIUM,
+		SOUCM_OPTION_GRAPHIC_EFFECT_LOW,
+
+		SOUCM_OPTION_GRAPHIC_RESOLUTION,
+
+		SOUCM_OPTION_SOUND_SOUND_ON,
+		SOUCM_OPTION_SOUND_SOUND_OFF,
+		SOUCM_OPTION_SOUND_BGM_ON,
+		SOUCM_OPTION_SOUND_BGM_OFF,
+		SOUCM_OPTION_SOUND_SOUND_VOLUME,
+		SOUCM_OPTION_SOUND_BGM_VOLUME,				
+
+
+
+		SOUCM_OPTION_OTHER_DYNAMIC_CAMERA_ON,
+		SOUCM_OPTION_OTHER_DYNAMIC_CAMERA_OFF,
+
+		SOUCM_OPTION_OTHER_PLAY_GUIDE_ON,
+		SOUCM_OPTION_OTHER_PLAY_GUIDE_OFF,
+
+
+
+
+		// 커뮤니티 옵션
+		SOUCM_OPTION_COMMUNITY_DENY_FRIENDSHIP_ON,
+		SOUCM_OPTION_COMMUNITY_DENY_FRIENDSHIP_OFF,
+
+		SOUCM_OPTION_COMMUNITY_DENY_WHISPER_ON,
+		SOUCM_OPTION_COMMUNITY_DENY_WHISPER_OFF,
+		SOUCM_OPTION_COMMUNITY_DENY_WHISPER_ONLY_FRIENDS,
+
+		SOUCM_OPTION_COMMUNITY_DENY_PARTY_ON,
+		SOUCM_OPTION_COMMUNITY_DENY_PARTY_OFF,
+		SOUCM_OPTION_COMMUNITY_DENY_PARTY_ONLY_FRIENDS,
+
+		SOUCM_OPTION_COMMUNITY_DENY_PERSONAL_TRADE_ON,
+		SOUCM_OPTION_COMMUNITY_DENY_PERSONAL_TRADE_OFF,
+		SOUCM_OPTION_COMMUNITY_DENY_PERSONAL_TRADE_ONLY_FRIENDS,
+
+		SOUCM_OPTION_COMMUNITY_OPEN_BLACKLIST,
+		SOUCM_OPTION_COMMUNITY_CLOSE_BLACKLIST,
+		SOUCM_OPTION_COMMUNITY_BLACKLIST_ADD,
+		
+		SOUCM_OPTION_COMMUNITY_BLACKLIST_ADD_OK,
+		SOUCM_OPTION_COMMUNITY_BLACKLIST_ADD_CANCEL,
+
+		SOUCM_OPTION_COMMUNITY_BLACKLIST_REMOVE,
+		SOUCM_OPTION_COMMUNITY_BLACKLIST_REMOVE_OK,
+		SOUCM_OPTION_COMMUNITY_BLACKLIST_REMOVE_CANCEL,
+
+		SOUCM_OPTION_GRAPHIC_CHANGE_RESOLUTION_OK,
+		SOUCM_OPTION_GRAPHIC_CHANGE_RESOLUTION_CANCEL,
+
+		SOUCM_OPTION_SOUND_ENABLE_3D_SOUND_ON,
+		SOUCM_OPTION_SOUND_ENABLE_3D_SOUND_OFF,
+
+		SOUCM_OPTION_GRAPHIC_FIELD_HIGH,
+		SOUCM_OPTION_GRAPHIC_FIELD_MEDIUM,
+		SOUCM_OPTION_GRAPHIC_FIELD_LOW,
+
+		SOUCM_OPTION_GRAPHIC_FIELD_PARTY_ON,
+		SOUCM_OPTION_GRAPHIC_FIELD_PARTY_OFF,
+
+		//SOUCM_OPTION_GRAPHIC_FIELD_CHECK_PARTY_ON,
+		//SOUCM_OPTION_GRAPHIC_FIELD_CHECK_PARTY_OFF,
+		//SOUCM_OPTION_GRAPHIC_FIELD_CHECK_FRIEND_ON,
+		//SOUCM_OPTION_GRAPHIC_FIELD_CHECK_FRIEND_OFF,
+
+
+		// 기타옵션 캐릭터정보
+		SOUCM_OPTION_OTHER_CHARINFO_LEVEL_ON,
+		SOUCM_OPTION_OTHER_CHARINFO_LEVEL_OFF,
+		SOUCM_OPTION_OTHER_CHARINFO_PVP_ON,
+		SOUCM_OPTION_OTHER_CHARINFO_PVP_OFF,
+		SOUCM_OPTION_OTHER_CHARINFO_GUILD_ON,
+		SOUCM_OPTION_OTHER_CHARINFO_GUILD_OFF,
+		SOUCM_OPTION_OTHER_CHARINFO_NOTHING_ON,
+		SOUCM_OPTION_OTHER_CHARINFO_NOTHING_OFF,
+
+		SOUCM_OPTION_GRAPHIC_FIELD_SD_ON,
+		SOUCM_OPTION_GRAPHIC_FIELD_SD_OFF,
+
+		// 프라이버스 정보(파티초대거부/친구요청거부)
+		SOUCM_OPTION_OTHER_PARTY_VETO_ON,
+		SOUCM_OPTION_OTHER_PARTY_VETO_OFF,
+		SOUCM_OPTION_OTHER_FRIEND_VETO_ON,
+		SOUCM_OPTION_OTHER_FRIEND_VETO_OFF,
+		SOUCM_OPTION_OTHER_PERSONAL_TRADE_VETO_ON,
+		SOUCM_OPTION_OTHER_PERSONAL_TRADE_VETO_OFF,
+
+		//{{ kimhc // 2009-10-09 // 길드초대 거부 추가
+		SOUCM_OPTION_OTHER_GUILD_VETO_ON,
+		SOUCM_OPTION_OTHER_GUILD_VETO_OFF,
+		//}} kimhc // 2009-10-09 // 길드초대 거부 추가
+
+
+		SOUCM_OPTION_OTHER_CHECK_FULLSCREEN,
+
+		//{{ kimhc // 2010-03-12 // 채팅창 개편
+		SOUCM_OPTION_OTHER_CHECK_OBTAIN_ED,		// 현재 사용하지 않는 항목
+		SOUCM_OPTION_OTHER_CHECK_OBTAIN_EXP,	// 현재 사용하지 않는 항목
+		//}} kimhc // 2010-03-12 // 채팅창 개편
+
+		SOUCM_OPTION_SECURITY,
+		SOUCM_OPTION_SECURITY_SETTING,
+		SOUCM_OPTION_SECURITY_CHANGE_PASSWORD,
+		SOUCM_OPTION_SECURITY_RELEASE,
+
+		//{{ JHKang / 강정훈 / 2011.8.1 / 수직동기화, 화면 번쩍임 효과 ON, OFF
+		SOUCM_OPTION_GRAPHIC_FLASH_EFFECT,
+		SOUCM_OPTION_OHTER_VERTICAL_SYNC_ON,
+		SOUCM_OPTION_OHTER_VERTICAL_SYNC_OFF,
+		//}}
+		SOUCM_OPTION_OHTER_SCSS_ONESELF,
+		SOUCM_OPTION_OHTER_SCSS_PARTY_MEMBER,
+		SOUCM_OPTION_OHTER_SCSS_HIDE,
+
+//#ifdef SKILL_SLOT_UI_TYPE_B
+		SOUCM_OPTION_SKILL_UI_TYPE_A,
+		SOUCM_OPTION_SKILL_UI_TYPE_B,
+//#endif //SKILL_SLOT_UI_TYPE_B
+
+// #ifdef ADDED_RELATIONSHIP_SYSTEM
+		SOUCM_OPTION_OTHER_COUPLE_VETO_ON,
+		SOUCM_OPTION_OTHER_COUPLE_VETO_OFF,
+// #endif // ADDED_RELATIONSHIP_SYSTEM
+
+//#ifdef FIX_INVITE_PVP_PLAYER // 김태환
+		SOUCM_OPTION_OTHER_INVITE_PVP_ON,
+		SOUCM_OPTION_OTHER_INVITE_PVP_OFF,
+//#endif // FIX_INVITE_PVP_PLAYER
+
+//#ifdef SERV_JOIN_IN_CLIENT_FOR_TW_TEST_SERVER	
+		SOUCM_SERVER_G							= 2350,
+		SOUCM_SERVER_S							= 2351,
+//#endief SERV_JOIN_IN_CLIENT_FOR_TW_TEST_SERVER	
+
+//#ifdef IDENTITY_CONFIRM
+		SOUCM_OPTION_IDENTITY					=	2415,
+//#endif IDENTITY_CONFIRM
+
+//#ifdef SERV_KEY_MAPPING_INT
+		SOUCM_KEY_CONFIG_OPEN					= 2420,
+		SOUCM_KEY_CONFIG_CLOSE_SAVE				= 2421,
+		SOUCM_KEY_CONFIG_CLOSE_CANCEL			= 2422,
+		SOUCM_JOY_CONFIG_BUTTON_CLICKED			= 2423,
+		SOUCM_JOY_CONFIG_BUTTON_RCLICKED		= 2424,
+		SOUCM_KEY_CONFIG_ENABLE					= 2425,
+		SOUCM_KEY_CONFIG_DISABLE				= 2426,
+		SOUCM_KEY_CONFIG_RESET					= 2427,
+		SOUCM_OPTION_INPUT						= 2428,
+//#endif SERV_KEY_MAPPING_INT
+
+#ifdef BANDICAM_RECORDING
+		SOUCM_OPTION_CAM	 =   2500,//캠 탭
+		SOUCM_OPTION_VIDEO_GENERAL_LIST,
+		SOUCM_OPTION_VIDEO_GENERAL_RBTN,
+		SOUCM_OPTION_VIDEO_USER_BTN,//사용자 설정
+		SOUCM_OPTION_VIDEO_USER_RBTN,
+		SOUCM_OPTION_CAM_USER_ACCEPT_BTN,//적용하기
+		SOUCM_OPTION_CAM_USER_WINDOW_CLOSE,//창닫기
+#endif BANDICAM_RECORDING
+
+//#ifdef SERV_LOCAL_RANKING_SYSTEM
+		SOUCM_OPTION_RANKUPUI_ON	= 2511,
+		SOUCM_OPTION_RANKUPUI_OFF,
+//endif //SERV_LOCAL_RANKING_SYSTEM
+	};
+
+
+
+	struct ConfirmDialog
+	{
+	public:
+		CKTDGUIDialogType			m_pDLG;
+		wstring					m_wstrMsgTemplet;
+		float					m_fTimeLeft;
+
+	public:
+		ConfirmDialog( const WCHAR* wszMsgTemplet, float fTimeLeft, int iYesMsg, int iNoMsg, CKTDXStage* pStage  );
+
+		~ConfirmDialog()
+		{
+			SAFE_DELETE_DIALOG( m_pDLG );
+		}
+		void OnFrameMove( double fTime, float fElapsedTime );
+	};
+
+
+public:
+	CX2StateOption(void);
+	virtual ~CX2StateOption(void);
+
+	virtual HRESULT OnFrameMove( double fTime, float fElapsedTime );
+	virtual bool MsgProc( HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam );
+	
+	void InitSoundOption();
+#ifdef SERV_KEY_MAPPING_INT  
+	void InitInputOption();
+	bool Handler_EGS_KEYBOARD_MAPPING_INFO_WRITE_REQ();
+#endif // SERV_KEY_MAPPING_INT
+	void InitOtherOption();
+	bool OpenOptionWindow();
+	bool CloseOptionWindow();
+	bool GetOptionWindowOpen() { return m_bIsOptionWindowOpen; }
+#ifdef SERV_SECOND_SECURITY
+	bool OpenSecurityOptionWindow();
+#endif SERV_SECOND_SECURITY
+#ifdef SERV_SECOND_SECURITY
+	void ShowSecurityOption( bool bShow );
+#endif SERV_SECOND_SECURITY
+
+protected:
+	virtual bool UICustomEventProc( HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam );
+	virtual bool UIServerEventProc( HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam );
+
+	bool IsOptionWindowOpen() { return m_bIsOptionWindowOpen; }		
+
+	void ShowGraphicOption( bool bShow );
+	void ShowSoundOption( bool bShow );
+#ifdef SERV_KEY_MAPPING_INT  
+	void ShowInputOption( bool bShow );
+#endif // SERV_KEY_MAPPING_INT
+	void ShowOtherOption( bool bShow );
+	void ShowCommunityOption( bool bShow );
+
+
+	void ShowStaticGraphic( bool bShow );
+	void ShowStaticSound( bool bShow );
+#ifdef SERV_KEY_MAPPING_INT  
+	void ShowStaticInput( bool bShow );
+#endif // SERV_KEY_MAPPING_INT
+	void ShowStaticOther( bool bShow );
+#ifdef SERV_SECOND_SECURITY
+	void ShowStaticSecurity( bool bShow );
+#endif SERV_SECOND_SECURITY
+#ifdef BANDICAM_RECORDING
+	void ShowBandiCamOption( bool bShow );
+	void ShowBandiCamOptionUser( bool bShow );
+	//void IMEDataGetUserVideoOptionSetting();
+	CKTDGUIDialog * m_pCamUserWindow;
+#endif BANDICAM_RECORDING
+	void InitGraphicOption();
+	
+	void InitCommunityOption();
+
+
+	void AddBlackListWindow( wstring wstrNickName );
+	void RemoveBlackListWindow( wstring wstrNickName );
+
+	void UpdateBlackListWindow();
+	void OpenBlackListWindow();
+	void CloseBlackListWindow();
+	
+	void OpenBlackListAddWindow();
+	void CloseBlackListAddWindow();
+
+
+	bool Handler_EGS_UPDATE_COMMUNITY_OPTION_REQ();
+	bool Handler_EGS_UPDATE_COMMUNITY_OPTION_ACK( HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam );
+
+	void ResetResolutionToOriginal();	
+
+#ifdef SERV_KEY_MAPPING_INT  
+	void ShowKeyConfigDLG( bool bShow );
+	void SetKeyConfig( GAME_ACTION Action, unsigned char input, InputDevices eType );
+	wstring GetJoystickButtonName( unsigned char input );
+	GAME_ACTION MappingKeyConfigIndex( int iKeyConfigIndex );
+	void UpdateKeyConfigList();
+	// 키컨피그 시도 입력 받으면 타이머 설정하고
+	//** Onframemove에서 타이머 돌려서 시간 지나면 STOP 시키게
+	// 인덱스 int 값이랑 넣고
+	// 메시지 박스 띄워주고 스캔하면서 기다리자
+	// 스캔하는 함수는 DIManager에 넣어주자
+	CKTDGUIDialogType			m_DLGKeyConfig;
+	CKTDGUIDialogType			m_DLGWaitKeyConfig;
+	float						m_fKeyconfigTimer;
+	GAME_ACTION					m_eSelectedGameAction;
+#endif // SERV_KEY_MAPPING_INT
+protected:
+	CKTDGUIDialogType			m_pDLGOptionWindow;
+	CKTDGUIDialogType			m_pDLGBlackList;
+	CKTDGUIDialogType			m_pDLGBlackListAdd;
+
+	CKTDGUIDialogType			m_pDLGBlackListRemoveOKAndCancel;
+
+	bool	m_bIsOptionWindowOpen;
+
+	//CX2GameOption::OptionList m_OldOptionList;
+
+	wstring					m_wstrNickNameForBlackListRemove;
+
+	ConfirmDialog*			m_pResolutionChangeConfirmDialog;
+	D3DXVECTOR2				m_vOriginalResolution;
+	bool					m_bResetOriginalResolution;
+#ifdef SERV_KEY_MAPPING_INT  
+	int						m_iInputDevice;
+	std::map<short, short>	m_mapGamePadActionKeys;
+#endif // SERV_KEY_MAPPING_INT
+};

@@ -1,0 +1,39 @@
+﻿CREATE PROCEDURE [dbo].[gup_update_Enchant]
+	@iItemUID	bigint
+,	@iELevel	tinyint
+,	@iOK		int = 0
+
+AS
+SET NOCOUNT ON;
+SET XACT_ABORT ON;
+
+
+
+BEGIN TRAN
+	IF NOT EXISTS (SELECT * FROM dbo.GItemEnchant WITH (NOLOCK) WHERE ItemUID = @iItemUID)
+		BEGIN
+			INSERT INTO dbo.GItemEnchant(ItemUID, ELevel)
+				SELECT @iItemUID, @iELevel
+			IF @@ERROR <> 0 OR @@ROWCOUNT <> 1
+				BEGIN	SELECT @iOK = -1	GOTO FAIL_TRAN	END
+			GOTO COMMIT_TRAN
+		END
+	
+	UPDATE dbo.GItemEnchant WITH (UPDLOCK)
+		SET ELevel = @iELevel
+			WHERE ItemUID = @iItemUID
+	IF @@ERROR <> 0 OR @@ROWCOUNT <> 1
+		BEGIN	SELECT @iOK = -2	GOTO FAIL_TRAN	END
+
+COMMIT_TRAN:
+COMMIT TRAN
+
+GOTO END_PROC
+
+FAIL_TRAN:
+ROLLBACK TRAN
+
+END_PROC:
+SELECT @iOK
+
+

@@ -1,0 +1,8 @@
+﻿
+GRANT CONNECT TO [Nexon]
+GO
+GRANT CONNECT TO [han_se]
+GO
+GRANT CONNECT TO [elsword]
+
+GO

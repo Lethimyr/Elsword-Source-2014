@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GDungeonClear] ADD CONSTRAINT [PK_GDungeonClear_1] PRIMARY KEY CLUSTERED  ([UnitUID], [GameMode]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

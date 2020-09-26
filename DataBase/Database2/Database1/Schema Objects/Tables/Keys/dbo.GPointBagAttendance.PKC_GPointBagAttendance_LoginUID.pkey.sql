@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[GPointBagAttendance] ADD CONSTRAINT [PKC_GPointBagAttendance_LoginUID] PRIMARY KEY CLUSTERED  ([LoginUID]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+

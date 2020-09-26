@@ -1,0 +1,3 @@
+﻿CREATE NONCLUSTERED INDEX [IXC_GItemToolHistory_SendLoginUID] ON [dbo].[GItemToolHistory] ([UnitUID]) WITH (FILLFACTOR=80) ON [PRIMARY]
+
+

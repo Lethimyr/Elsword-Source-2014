@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[RCRRankCharacterAbuse] ADD CONSTRAINT [PKC_RCRRankCharacterAbuse_LoginUID_RegDate] PRIMARY KEY CLUSTERED  ([LoginUID], [RegDate]) WITH FILLFACTOR=80 ON [PRIMARY]
+
+
