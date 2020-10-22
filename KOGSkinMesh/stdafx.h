@@ -27,7 +27,6 @@
 #pragma warning( disable : 4100 ) // disable unreference formal parameter warnings for /W4 builds
 
 //#include <afxwin.h>
-#include <tchar.h>
 #include <windows.h>
 #include <windowsx.h>
 #include <assert.h>
