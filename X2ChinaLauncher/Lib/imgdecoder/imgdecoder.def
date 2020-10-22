@@ -1,6 +1,0 @@
-EXPORTS
-	ImgNewDecoder
-	ImgDeleteDecoder
-	ImgNewDIBFromFile
-	ImgDeleteDIBSection
-	ImgGetHandle

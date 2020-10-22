@@ -1,9 +1,0 @@
-DIRS= \
-    adp_ext \ 
-    assert \ 
-    dumpstk \ 
-    extcpp \ 
-    exts \ 
-    healer \ 
-    remmon \ 
-    simplext \ 
